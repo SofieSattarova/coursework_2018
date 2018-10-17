@@ -1,0 +1,4841 @@
+﻿1
+00:01:05,274 --> 00:01:09,152
+<b><font face="Comic Sans MS">Typical of Victor Von Doom to build
+a 30-foot statue of himself.</font></b>
+
+2
+00:01:09,444 --> 00:01:11,780
+<b><font face="Comic Sans MS">Well, it's obviously aimed
+at first-time visitors...</font></b>
+
+3
+00:01:11,989 --> 00:01:15,200
+<b><font face="Comic Sans MS">to create feelings
+of smallness, inadequacy.</font></b>
+
+4
+00:01:16,660 --> 00:01:18,453
+<b><font face="Comic Sans MS">Good thing it ain't working.</font></b>
+
+5
+00:01:19,162 --> 00:01:22,958
+<b><font face="Comic Sans MS">Reed, what are we doing here?
+This guy's fast-food, strip-mall science.</font></b>
+
+6
+00:01:23,250 --> 00:01:25,377
+<b><font face="Comic Sans MS">This wasn't our first stop,
+in case you forgot.</font></b>
+
+7
+00:01:25,544 --> 00:01:29,715
+<b><font face="Comic Sans MS">Besides, Victor's not that bad.
+He's just a little larger than life.</font></b>
+
+8
+00:01:38,223 --> 00:01:42,227
+<b><font face="Comic Sans MS">My research suggests that exposure
+to a high-energy cosmic storm...</font></b>
+
+9
+00:01:42,436 --> 00:01:46,773
+<b><font face="Comic Sans MS">borne on solar winds might have triggered
+the evolution of early planetary life.</font></b>
+
+10
+00:01:47,774 --> 00:01:52,362
+<b><font face="Comic Sans MS">In 6 weeks, another cloud
+with the same elemental profile...</font></b>
+
+11
+00:01:52,571 --> 00:01:54,364
+<b><font face="Comic Sans MS">will pass Earth's orbit.</font></b>
+
+12
+00:01:55,407 --> 00:01:59,244
+<b><font face="Comic Sans MS">A study conducted in space could
+fundamentally advance our knowledge...</font></b>
+
+13
+00:01:59,453 --> 00:02:02,664
+<b><font face="Comic Sans MS">about the structure of the human genome,
+cure countless diseases...</font></b>
+
+14
+00:02:02,873 --> 00:02:07,002
+<b><font face="Comic Sans MS">extend human life, give kids a chance
+to live longer, stronger, healthier...</font></b>
+
+15
+00:02:07,252 --> 00:02:09,213
+<b><font face="Comic Sans MS">Turn it off, please.</font></b>
+
+16
+00:02:09,588 --> 00:02:11,715
+<b><font face="Comic Sans MS">I don't think I have explained
+my proposal fully.</font></b>
+
+17
+00:02:11,882 --> 00:02:13,550
+<b><font face="Comic Sans MS">No, I think you have.</font></b>
+
+18
+00:02:13,759 --> 00:02:16,178
+<b><font face="Comic Sans MS">Same old Reed, always stretching,
+reaching for the stars...</font></b>
+
+19
+00:02:16,428 --> 00:02:18,805
+<b><font face="Comic Sans MS">with the weight of the world on his back.</font></b>
+
+20
+00:02:18,972 --> 00:02:20,974
+<b><font face="Comic Sans MS">But dreams don't pay the bills, do they?</font></b>
+
+21
+00:02:23,268 --> 00:02:27,105
+<b><font face="Comic Sans MS">You remember, when we were in school
+we talked about working together.</font></b>
+
+22
+00:02:27,397 --> 00:02:29,733
+<b><font face="Comic Sans MS">Well, that's what I was about to explain.</font></b>
+
+23
+00:02:31,401 --> 00:02:32,528
+<b><font face="Comic Sans MS">The storm is deadly.</font></b>
+
+24
+00:02:32,653 --> 00:02:34,613
+<b><font face="Comic Sans MS">But the shields on
+your station's control room...</font></b>
+
+25
+00:02:34,780 --> 00:02:37,324
+<b><font face="Comic Sans MS">are designed to protect
+any occupants inside.</font></b>
+
+26
+00:02:40,452 --> 00:02:42,621
+<b><font face="Comic Sans MS">So it's not just my money you want.</font></b>
+
+27
+00:02:43,330 --> 00:02:44,456
+<b><font face="Comic Sans MS">It's my toys.</font></b>
+
+28
+00:02:45,958 --> 00:02:48,919
+<b><font face="Comic Sans MS">Tell me, if NASA doesn't trust you,
+then why should I?</font></b>
+
+29
+00:02:52,798 --> 00:02:55,342
+<b><font face="Comic Sans MS">That's my job, to stay a step ahead.</font></b>
+
+30
+00:02:56,093 --> 00:02:59,263
+<b><font face="Comic Sans MS">To know what other men don't.</font></b>
+
+31
+00:02:59,513 --> 00:03:00,973
+<b><font face="Comic Sans MS">I can't take this.</font></b>
+
+32
+00:03:01,098 --> 00:03:03,058
+<b><font face="Comic Sans MS">Ben, this is business, just work.</font></b>
+
+33
+00:03:03,225 --> 00:03:05,686
+<b><font face="Comic Sans MS">He's right, Ben. It is just business.</font></b>
+
+34
+00:03:06,854 --> 00:03:10,691
+<b><font face="Comic Sans MS">I think you both know my Director
+of Genetic Research, Susan Storm.</font></b>
+
+35
+00:03:14,736 --> 00:03:16,405
+<b><font face="Comic Sans MS">One more thing he's got.</font></b>
+
+36
+00:03:16,947 --> 00:03:18,824
+<b><font face="Comic Sans MS">- Hey, Susie.
+- Hey.</font></b>
+
+37
+00:03:19,157 --> 00:03:22,244
+<b><font face="Comic Sans MS">It's so nice to see you. How's Debbie?</font></b>
+
+38
+00:03:22,452 --> 00:03:23,954
+<b><font face="Comic Sans MS">- Great.
+- Great.</font></b>
+
+39
+00:03:26,456 --> 00:03:28,542
+<b><font face="Comic Sans MS">- How have you been?
+- Never better.</font></b>
+
+40
+00:03:31,170 --> 00:03:33,088
+<b><font face="Comic Sans MS">This isn't going to be a problem, is it?</font></b>
+
+41
+00:03:33,213 --> 00:03:34,381
+<b><font face="Comic Sans MS">- No.
+- Not at all.</font></b>
+
+42
+00:03:34,548 --> 00:03:35,716
+<b><font face="Comic Sans MS">Good.</font></b>
+
+43
+00:03:36,133 --> 00:03:39,845
+<b><font face="Comic Sans MS">Then you're just in time
+to hear the great Reed Richards...</font></b>
+
+44
+00:03:40,053 --> 00:03:42,264
+<b><font face="Comic Sans MS">ask me for help.</font></b>
+
+45
+00:03:43,182 --> 00:03:46,894
+<b><font face="Comic Sans MS">You know, you made a lot of folks at MIT
+feel like a junior high science fair.</font></b>
+
+46
+00:03:47,227 --> 00:03:49,730
+<b><font face="Comic Sans MS">So you'll excuse me
+if I savor the moment.</font></b>
+
+47
+00:03:51,398 --> 00:03:54,902
+<b><font face="Comic Sans MS">You back this mission and I'll sign over
+a fair percentage of any application...</font></b>
+
+48
+00:03:55,235 --> 00:03:56,445
+<b><font face="Comic Sans MS">The number's 75%.</font></b>
+
+49
+00:03:56,987 --> 00:03:58,530
+<b><font face="Comic Sans MS">And its applications and patents.</font></b>
+
+50
+00:03:58,697 --> 00:04:00,741
+<b><font face="Comic Sans MS">- What about his first-born?
+- Ben...</font></b>
+
+51
+00:04:01,575 --> 00:04:02,826
+<b><font face="Comic Sans MS">Come on.</font></b>
+
+52
+00:04:03,285 --> 00:04:07,080
+<b><font face="Comic Sans MS">25% of a billion is enough
+to keep the lights on for a while, isn't it?</font></b>
+
+53
+00:04:07,664 --> 00:04:11,043
+<b><font face="Comic Sans MS">Maybe even pay off your fourth mortgage
+on the Baxter Building.</font></b>
+
+54
+00:04:12,377 --> 00:04:13,504
+<b><font face="Comic Sans MS">Deal?</font></b>
+
+55
+00:04:22,304 --> 00:04:24,890
+<b><font face="Comic Sans MS">Well, then. To our future.</font></b>
+
+56
+00:04:27,434 --> 00:04:28,727
+<b><font face="Comic Sans MS">Together!</font></b>
+
+57
+00:04:30,646 --> 00:04:32,898
+<b><font face="Comic Sans MS">It's funny how things turn out, isn't it?</font></b>
+
+58
+00:04:34,066 --> 00:04:35,234
+<b><font face="Comic Sans MS">Hilarious.</font></b>
+
+59
+00:04:38,237 --> 00:04:41,448
+<b><font face="Comic Sans MS">He knew about NASA.
+Maybe he made the call to shut us down.</font></b>
+
+60
+00:04:41,740 --> 00:04:44,952
+<b><font face="Comic Sans MS">Ben, think about all the people
+we can help if this works.</font></b>
+
+61
+00:04:45,369 --> 00:04:47,746
+<b><font face="Comic Sans MS">Look, we got what we wanted.
+That's enough.</font></b>
+
+62
+00:04:47,955 --> 00:04:50,749
+<b><font face="Comic Sans MS">A few days in space, it'll be great.
+What's the worst that can happen?</font></b>
+
+63
+00:04:55,963 --> 00:04:59,258
+<b><font face="Comic Sans MS">If Reed's right, this little trip
+could double our stock offerings.</font></b>
+
+64
+00:04:59,508 --> 00:05:01,802
+<b><font face="Comic Sans MS">- And if he's not...
+- Reed's always right.</font></b>
+
+65
+00:05:02,678 --> 00:05:05,305
+<b><font face="Comic Sans MS">Good thing he doesn't always know
+what he's got.</font></b>
+
+66
+00:05:14,815 --> 00:05:17,526
+<b><font face="Comic Sans MS">Reed, you should know those solar winds
+have been picking up speed.</font></b>
+
+67
+00:05:17,651 --> 00:05:19,361
+<b><font face="Comic Sans MS">I factored them into my coordinates.</font></b>
+
+68
+00:05:19,486 --> 00:05:21,780
+<b><font face="Comic Sans MS">Right, of course you did. In theory.</font></b>
+
+69
+00:05:21,989 --> 00:05:23,824
+<b><font face="Comic Sans MS">It's a little different once you're out there.</font></b>
+
+70
+00:05:23,991 --> 00:05:26,159
+<b><font face="Comic Sans MS">- I can assure you I...
+- When are we leaving?</font></b>
+
+71
+00:05:28,287 --> 00:05:29,663
+<b><font face="Comic Sans MS">I'll be scheduling the launch...</font></b>
+
+72
+00:05:29,830 --> 00:05:32,833
+<b><font face="Comic Sans MS">so you can call me in the morning
+for resources and crew.</font></b>
+
+73
+00:05:33,584 --> 00:05:36,295
+<b><font face="Comic Sans MS">- I think I remember the number.
+- It's been changed.</font></b>
+
+74
+00:05:42,926 --> 00:05:45,888
+<b><font face="Comic Sans MS">As far as crew, I was hoping
+Ben could pilot the mission.</font></b>
+
+75
+00:05:46,138 --> 00:05:49,516
+<b><font face="Comic Sans MS">We already have a pilot on our payroll,
+but you're welcome to ride shotgun.</font></b>
+
+76
+00:05:49,766 --> 00:05:51,518
+<b><font face="Comic Sans MS">Remember my brother, Johnny?</font></b>
+
+77
+00:06:08,577 --> 00:06:10,913
+<b><font face="Comic Sans MS">Can't do it. Cannot do it.</font></b>
+
+78
+00:06:11,079 --> 00:06:14,750
+<b><font face="Comic Sans MS">External SRBs, orbital system engines,
+it's just like the shuttle you flew.</font></b>
+
+79
+00:06:15,042 --> 00:06:17,920
+<b><font face="Comic Sans MS">No! I cannot take orders
+from the underwear model.</font></b>
+
+80
+00:06:18,045 --> 00:06:20,339
+<b><font face="Comic Sans MS">- Come on now, Ben.
+- That wingnut washed out of NASA...</font></b>
+
+81
+00:06:20,547 --> 00:06:24,051
+<b><font face="Comic Sans MS">for sneaking two Victoria's Secret
+wannabes into a flight simulator.</font></b>
+
+82
+00:06:24,301 --> 00:06:25,802
+<b><font face="Comic Sans MS">Youthful high spirits.</font></b>
+
+83
+00:06:25,886 --> 00:06:29,598
+<b><font face="Comic Sans MS">They crashed it into a wall.
+A flight simulator.</font></b>
+
+84
+00:06:30,140 --> 00:06:31,850
+<b><font face="Comic Sans MS">When have I ever asked you
+to do something...</font></b>
+
+85
+00:06:32,017 --> 00:06:33,644
+<b><font face="Comic Sans MS">you absolutely said you could not do?</font></b>
+
+86
+00:06:33,727 --> 00:06:34,770
+<b><font face="Comic Sans MS">5 times.</font></b>
+
+87
+00:06:35,771 --> 00:06:37,940
+<b><font face="Comic Sans MS">- I had it at 4.
+- Well, this makes 5.</font></b>
+
+88
+00:06:48,283 --> 00:06:49,826
+<b><font face="Comic Sans MS"><i>Attention, all personnel. </i></font></b>
+
+89
+00:06:49,993 --> 00:06:52,996
+<b><font face="Comic Sans MS"><i>Commencing launch sequence
+in 6 hours. </i></font></b>
+
+90
+00:06:53,163 --> 00:06:54,957
+<b><font face="Comic Sans MS">I miss you already, Debs.</font></b>
+
+91
+00:06:55,123 --> 00:06:56,750
+<b><font face="Comic Sans MS">Captain on the bridge!</font></b>
+
+92
+00:06:59,336 --> 00:07:03,298
+<b><font face="Comic Sans MS">Digital camera: $254. Memory stick: $59.</font></b>
+
+93
+00:07:03,799 --> 00:07:06,677
+<b><font face="Comic Sans MS">The look on your hard-ass
+former CO's face...</font></b>
+
+94
+00:07:06,844 --> 00:07:09,263
+<b><font face="Comic Sans MS">when he finds out he's your junior officer:</font></b>
+
+95
+00:07:09,847 --> 00:07:11,014
+<b><font face="Comic Sans MS">Priceless.</font></b>
+
+96
+00:07:14,059 --> 00:07:15,394
+<b><font face="Comic Sans MS">Thank you. That's so sweet.</font></b>
+
+97
+00:07:15,519 --> 00:07:17,187
+<b><font face="Comic Sans MS">I can handle the ship.</font></b>
+
+98
+00:07:17,396 --> 00:07:19,565
+<b><font face="Comic Sans MS">I can even handle Mr. Blond Ambition.</font></b>
+
+99
+00:07:19,731 --> 00:07:23,110
+<b><font face="Comic Sans MS">But I don't know whether I should be
+flying or doing Swan Lake in these suits.</font></b>
+
+100
+00:07:23,318 --> 00:07:26,280
+<b><font face="Comic Sans MS">- I mean, who the hell came up with these?
+- Victor did.</font></b>
+
+101
+00:07:26,446 --> 00:07:30,659
+<b><font face="Comic Sans MS">The synthetics act as a second skin,
+adapting to your body's individual needs.</font></b>
+
+102
+00:07:31,368 --> 00:07:33,787
+<b><font face="Comic Sans MS">See, now that means
+it keeps the hot stuff hot...</font></b>
+
+103
+00:07:33,996 --> 00:07:35,998
+<b><font face="Comic Sans MS">and it keeps the cool stuff cool.</font></b>
+
+104
+00:07:36,623 --> 00:07:38,709
+<b><font face="Comic Sans MS">Wow. Fantastic.</font></b>
+
+105
+00:07:39,459 --> 00:07:42,379
+<b><font face="Comic Sans MS">Material made from self-regulating
+unstable molecules.</font></b>
+
+106
+00:07:43,630 --> 00:07:45,883
+<b><font face="Comic Sans MS">I've been working on a formula for this.</font></b>
+
+107
+00:07:46,967 --> 00:07:48,719
+<b><font face="Comic Sans MS">Great minds think alike.</font></b>
+
+108
+00:07:51,722 --> 00:07:54,224
+<b><font face="Comic Sans MS">- Here you go, Ben.
+- Thanks, sweetie.</font></b>
+
+109
+00:07:54,433 --> 00:07:55,601
+<b><font face="Comic Sans MS">Reed.</font></b>
+
+110
+00:08:28,550 --> 00:08:30,761
+<b><font face="Comic Sans MS">ETA until cosmic event: 9 hours.</font></b>
+
+111
+00:08:31,303 --> 00:08:33,972
+<b><font face="Comic Sans MS">If you're good, maybe next time
+Daddy'll let you drive.</font></b>
+
+112
+00:08:34,223 --> 00:08:36,850
+<b><font face="Comic Sans MS">You keep talking
+and there won't be a next time.</font></b>
+
+113
+00:08:40,103 --> 00:08:43,732
+<b><font face="Comic Sans MS">Long way from the projection booth
+at the Hayden Planetarium, isn't it?</font></b>
+
+114
+00:08:48,278 --> 00:08:50,489
+<b><font face="Comic Sans MS">Yes. Yes, it is.</font></b>
+
+115
+00:08:52,199 --> 00:08:55,786
+<b><font face="Comic Sans MS">We can monitor the cloud's approach
+and observe the tests from here.</font></b>
+
+116
+00:08:56,912 --> 00:08:57,996
+<b><font face="Comic Sans MS">Is it safe?</font></b>
+
+117
+00:08:58,455 --> 00:09:01,083
+<b><font face="Comic Sans MS">The shields on the station
+should protect us.</font></b>
+
+118
+00:09:01,458 --> 00:09:02,626
+<b><font face="Comic Sans MS">Should?</font></b>
+
+119
+00:09:02,751 --> 00:09:06,088
+<b><font face="Comic Sans MS">What's the matter, Ben?
+Getting paranoid in your old age?</font></b>
+
+120
+00:09:06,880 --> 00:09:10,509
+<b><font face="Comic Sans MS">Let's start loading those samples.
+Get your suit ready, Ben.</font></b>
+
+121
+00:09:12,135 --> 00:09:14,847
+<b><font face="Comic Sans MS">So I see you're still doing
+all the heavy lifting.</font></b>
+
+122
+00:09:15,514 --> 00:09:19,309
+<b><font face="Comic Sans MS">Maybe you should have stayed in the lab.
+Fieldwork never suited you.</font></b>
+
+123
+00:09:19,518 --> 00:09:22,729
+<b><font face="Comic Sans MS">He does the talking, I do the walking.
+Got it?</font></b>
+
+124
+00:09:24,106 --> 00:09:25,524
+<b><font face="Comic Sans MS">So take a walk, Ben.</font></b>
+
+125
+00:09:26,275 --> 00:09:30,612
+<b><font face="Comic Sans MS">Actually, if you'll all excuse me,
+I need to borrow Susan for a moment.</font></b>
+
+126
+00:09:35,325 --> 00:09:36,451
+<b><font face="Comic Sans MS">Sure.</font></b>
+
+127
+00:09:39,663 --> 00:09:42,749
+<b><font face="Comic Sans MS">Please tell me your guy's not trying
+to rekindle things with my sister again.</font></b>
+
+128
+00:09:42,958 --> 00:09:45,169
+<b><font face="Comic Sans MS">Of course not. It's strictly business.</font></b>
+
+129
+00:09:45,377 --> 00:09:48,088
+<b><font face="Comic Sans MS">Yes, well, his eyes say differently,
+don't they?</font></b>
+
+130
+00:09:49,631 --> 00:09:53,427
+<b><font face="Comic Sans MS">Two hearts got busted last time.
+Maybe she's not over it, either.</font></b>
+
+131
+00:09:53,677 --> 00:09:56,930
+<b><font face="Comic Sans MS">Wow, Dr. Phil, that's deep.
+Let's think about that.</font></b>
+
+132
+00:09:57,472 --> 00:10:00,726
+<b><font face="Comic Sans MS">You got Victor, more money than God,
+stud of the year.</font></b>
+
+133
+00:10:01,685 --> 00:10:06,023
+<b><font face="Comic Sans MS">And you got Reed, world's dumbest smart
+guy, worth less than a postage stamp.</font></b>
+
+134
+00:10:07,107 --> 00:10:08,317
+<b><font face="Comic Sans MS">That's a real toss-up.</font></b>
+
+135
+00:10:08,400 --> 00:10:10,485
+<b><font face="Comic Sans MS">Don't trouble your tiny little mind.</font></b>
+
+136
+00:10:11,111 --> 00:10:12,779
+<b><font face="Comic Sans MS">Don't wander off now, boy.</font></b>
+
+137
+00:10:15,365 --> 00:10:17,242
+<b><font face="Comic Sans MS"><i>Securing airlock chamber. </i></font></b>
+
+138
+00:10:37,054 --> 00:10:39,264
+<b><font face="Comic Sans MS">Surprised I agreed to Reed's proposal?</font></b>
+
+139
+00:10:39,431 --> 00:10:41,433
+<b><font face="Comic Sans MS">I understand the business reasons.</font></b>
+
+140
+00:10:42,893 --> 00:10:45,187
+<b><font face="Comic Sans MS">Well, when you're looking at your future...</font></b>
+
+141
+00:10:45,354 --> 00:10:47,856
+<b><font face="Comic Sans MS">it doesn't hurt
+to find closure about the past.</font></b>
+
+142
+00:10:50,400 --> 00:10:54,196
+<b><font face="Comic Sans MS">Susan, every man dreams he'll meet
+a woman he can give the world to.</font></b>
+
+143
+00:10:56,073 --> 00:10:58,450
+<b><font face="Comic Sans MS">In my case, it's not just a metaphor.</font></b>
+
+144
+00:11:03,455 --> 00:11:05,666
+<b><font face="Comic Sans MS"><i>Opening viewing station shield. </i></font></b>
+
+145
+00:11:35,821 --> 00:11:37,197
+<b><font face="Comic Sans MS">That can't be right.</font></b>
+
+146
+00:11:38,365 --> 00:11:42,911
+<b><font face="Comic Sans MS"><i>Event threshold
+in T-minus 9 minutes, 47 seconds. </i></font></b>
+
+147
+00:11:43,370 --> 00:11:46,039
+<b><font face="Comic Sans MS">That's impossible.
+It should be 7 hours.</font></b>
+
+148
+00:11:51,044 --> 00:11:53,005
+<b><font face="Comic Sans MS">We've been together 2 years now.</font></b>
+
+149
+00:11:53,172 --> 00:11:56,717
+<b><font face="Comic Sans MS">It's been a good 2 years, Victor.
+The company's accomplished so much.</font></b>
+
+150
+00:11:57,009 --> 00:11:58,886
+<b><font face="Comic Sans MS">Right, of course, the company.</font></b>
+
+151
+00:12:00,846 --> 00:12:04,224
+<b><font face="Comic Sans MS">But, you see, I've come to realize that
+all the accomplishments in the world...</font></b>
+
+152
+00:12:04,433 --> 00:12:06,393
+<b><font face="Comic Sans MS">mean nothing without someone
+to share them with.</font></b>
+
+153
+00:12:06,560 --> 00:12:10,230
+<b><font face="Comic Sans MS">I've lived my life
+unafraid of taking big steps.</font></b>
+
+154
+00:12:11,106 --> 00:12:13,567
+<b><font face="Comic Sans MS">Now it's time to take the biggest step
+of all.</font></b>
+
+155
+00:12:13,817 --> 00:12:18,197
+<b><font face="Comic Sans MS">- Victor.
+- If it helps, think of this as a promotion.</font></b>
+
+156
+00:12:19,198 --> 00:12:21,658
+<b><font face="Comic Sans MS">- Victor, I...
+- I have 4 words.</font></b>
+
+157
+00:12:23,202 --> 00:12:26,205
+<b><font face="Comic Sans MS">4 little words that can change
+our lives forever.</font></b>
+
+158
+00:12:26,413 --> 00:12:28,415
+<b><font face="Comic Sans MS">The cloud is accelerating.</font></b>
+
+159
+00:12:28,582 --> 00:12:31,293
+<b><font face="Comic Sans MS">We've got minutes until it hits, not hours.</font></b>
+
+160
+00:12:31,752 --> 00:12:33,879
+<b><font face="Comic Sans MS">Victor, that storm is deadly.
+We need to abort.</font></b>
+
+161
+00:12:34,046 --> 00:12:37,549
+<b><font face="Comic Sans MS">Get a grip, Reed. We didn't come all this
+way to lose our nerve at the first glitch.</font></b>
+
+162
+00:12:37,799 --> 00:12:38,842
+<b><font face="Comic Sans MS">Just close the shields.</font></b>
+
+163
+00:12:38,926 --> 00:12:41,303
+<b><font face="Comic Sans MS">- Ben is still out there.
+- So reel him in.</font></b>
+
+164
+00:12:41,512 --> 00:12:44,973
+<b><font face="Comic Sans MS">But we came here to do a job,
+so let's do it quickly.</font></b>
+
+165
+00:12:46,225 --> 00:12:49,394
+<b><font face="Comic Sans MS">Victor, Reed's right.
+We have less than 6 minutes!</font></b>
+
+166
+00:12:52,272 --> 00:12:54,942
+<b><font face="Comic Sans MS">- Ben, you need to get inside now.
+- What's going on?</font></b>
+
+167
+00:12:55,108 --> 00:12:57,402
+<b><font face="Comic Sans MS"><i>I ain't done
+arranging your flowers yet, egghead. </i></font></b>
+
+168
+00:12:57,569 --> 00:12:58,987
+<b><font face="Comic Sans MS"><i>Ben, turn around!</i></font></b>
+
+169
+00:13:08,789 --> 00:13:10,123
+<b><font face="Comic Sans MS"><i>Guys, I'm not gonna make it. </i></font></b>
+
+170
+00:13:10,290 --> 00:13:12,209
+<b><font face="Comic Sans MS">Ben, you gotta jump. It's the only way!</font></b>
+
+171
+00:13:17,673 --> 00:13:19,466
+<b><font face="Comic Sans MS">- What are you doing?
+- Closing the shields.</font></b>
+
+172
+00:13:19,633 --> 00:13:22,010
+<b><font face="Comic Sans MS">- You can't just leave them out there.
+- Watch me.</font></b>
+
+173
+00:13:23,720 --> 00:13:26,849
+<b><font face="Comic Sans MS">- You can't help them any more than I can.
+- I can try.</font></b>
+
+174
+00:13:42,614 --> 00:13:43,824
+<b><font face="Comic Sans MS">Come on, Ben, you got it!</font></b>
+
+175
+00:13:47,160 --> 00:13:49,580
+<b><font face="Comic Sans MS">Okay, Johnny,
+get ready to close the portal.</font></b>
+
+176
+00:14:43,842 --> 00:14:45,761
+<b><font face="Comic Sans MS">Wake up. Ben.</font></b>
+
+177
+00:14:47,429 --> 00:14:49,806
+<b><font face="Comic Sans MS">Rise and shine, big boy. How you feeling?</font></b>
+
+178
+00:14:50,557 --> 00:14:51,767
+<b><font face="Comic Sans MS">Where am I?</font></b>
+
+179
+00:14:51,975 --> 00:14:55,145
+<b><font face="Comic Sans MS">Back on Earth. We're in quarantine.
+Victor's medical facility.</font></b>
+
+180
+00:14:55,395 --> 00:14:56,813
+<b><font face="Comic Sans MS">Reed? Sue?</font></b>
+
+181
+00:14:56,980 --> 00:14:59,525
+<b><font face="Comic Sans MS">They're fine. Everybody else is fine.</font></b>
+
+182
+00:15:01,443 --> 00:15:02,861
+<b><font face="Comic Sans MS">What's wrong with me?</font></b>
+
+183
+00:15:04,488 --> 00:15:07,282
+<b><font face="Comic Sans MS">I swear to you, Ben. They've done
+everything humanly possible.</font></b>
+
+184
+00:15:07,574 --> 00:15:09,451
+<b><font face="Comic Sans MS">The best plastic surgeons
+in the world are here, Ben.</font></b>
+
+185
+00:15:09,660 --> 00:15:10,661
+<b><font face="Comic Sans MS">You had the best.</font></b>
+
+186
+00:15:10,744 --> 00:15:13,914
+<b><font face="Comic Sans MS">- Give me that mirror.
+- I don't know if that's a good idea.</font></b>
+
+187
+00:15:14,122 --> 00:15:17,209
+<b><font face="Comic Sans MS">- They said the shock alone...
+- I said give me that goddamn mirror!</font></b>
+
+188
+00:15:17,459 --> 00:15:20,337
+<b><font face="Comic Sans MS">Okay, Ben, just be strong.</font></b>
+
+189
+00:15:25,050 --> 00:15:28,679
+<b><font face="Comic Sans MS">Unfortunately, the doctors
+just couldn't do anything to fix your face.</font></b>
+
+190
+00:15:34,685 --> 00:15:35,686
+<b><font face="Comic Sans MS">- Hi.
+- Hey.</font></b>
+
+191
+00:15:35,853 --> 00:15:38,689
+<b><font face="Comic Sans MS">Nice do. I'm liking the grandpa look.</font></b>
+
+192
+00:15:39,523 --> 00:15:40,607
+<b><font face="Comic Sans MS">What?</font></b>
+
+193
+00:15:58,834 --> 00:16:02,004
+<b><font face="Comic Sans MS">- How's she doing?
+- Stable and her vitals are strong.</font></b>
+
+194
+00:16:02,462 --> 00:16:04,965
+<b><font face="Comic Sans MS">Blood panels show no irradiation. Good.</font></b>
+
+195
+00:16:05,799 --> 00:16:09,011
+<b><font face="Comic Sans MS">- You'll step up this protocol every...
+- Every 4 hours, yes.</font></b>
+
+196
+00:16:09,261 --> 00:16:10,846
+<b><font face="Comic Sans MS">We know what we're doing.</font></b>
+
+197
+00:16:11,013 --> 00:16:13,390
+<b><font face="Comic Sans MS">Another day of observation
+and you're all clear.</font></b>
+
+198
+00:16:13,557 --> 00:16:16,268
+<b><font face="Comic Sans MS">Excuse me.
+More flowers from Mr. Von Doom.</font></b>
+
+199
+00:16:19,730 --> 00:16:21,523
+<b><font face="Comic Sans MS">She's allergic to orchids.</font></b>
+
+200
+00:16:21,732 --> 00:16:24,484
+<b><font face="Comic Sans MS">Put the sunflowers by her bed,
+they're her favorites.</font></b>
+
+201
+00:16:42,586 --> 00:16:44,296
+<b><font face="Comic Sans MS">Well, Victor...</font></b>
+
+202
+00:16:44,755 --> 00:16:46,840
+<b><font face="Comic Sans MS">the bank would like to congratulate you...</font></b>
+
+203
+00:16:46,965 --> 00:16:49,384
+<b><font face="Comic Sans MS">on the fastest freefall
+since the Depression.</font></b>
+
+204
+00:16:49,593 --> 00:16:51,136
+<b><font face="Comic Sans MS">We can't even give your stock away.</font></b>
+
+205
+00:16:51,261 --> 00:16:52,804
+<b><font face="Comic Sans MS">Ned, you know I can turn this around.</font></b>
+
+206
+00:16:52,971 --> 00:16:55,849
+<b><font face="Comic Sans MS">Well, you're going to have to, Victor,
+or we pull out.</font></b>
+
+207
+00:16:58,477 --> 00:16:59,770
+<b><font face="Comic Sans MS">You have a week.</font></b>
+
+208
+00:16:59,937 --> 00:17:02,064
+<b><font face="Comic Sans MS">You're enjoying this, aren't you, Ned?</font></b>
+
+209
+00:17:06,276 --> 00:17:07,569
+<b><font face="Comic Sans MS">One week.</font></b>
+
+210
+00:17:20,123 --> 00:17:22,000
+<b><font face="Comic Sans MS">Where do we think we're going?</font></b>
+
+211
+00:17:22,167 --> 00:17:23,335
+<b><font face="Comic Sans MS">I don't know if we've noticed...</font></b>
+
+212
+00:17:23,460 --> 00:17:26,338
+<b><font face="Comic Sans MS">but the sickest runs this side of the Alps
+are right outside that window.</font></b>
+
+213
+00:17:26,588 --> 00:17:29,007
+<b><font face="Comic Sans MS">Yeah, I've noticed,
+but there are rules here.</font></b>
+
+214
+00:17:29,216 --> 00:17:31,426
+<b><font face="Comic Sans MS">- You can't leave until we...
+- Until we've finish the tests.</font></b>
+
+215
+00:17:31,635 --> 00:17:35,806
+<b><font face="Comic Sans MS">I know, I've never been good with rules.
+You let me know how those come out.</font></b>
+
+216
+00:17:36,640 --> 00:17:40,185
+<b><font face="Comic Sans MS">- Do you wanna help me with this zipper?
+- You know, this is not a ski resort.</font></b>
+
+217
+00:17:40,435 --> 00:17:43,105
+<b><font face="Comic Sans MS">Not yet. Luckily, Grandma still sends
+care packages, though.</font></b>
+
+218
+00:17:43,313 --> 00:17:46,525
+<b><font face="Comic Sans MS">You know, it's amazing, for an 80-year-old
+woman, you'd be surprised...</font></b>
+
+219
+00:17:46,775 --> 00:17:49,820
+<b><font face="Comic Sans MS">- You are trouble.
+- Trouble is my middle name.</font></b>
+
+220
+00:17:50,112 --> 00:17:51,154
+<b><font face="Comic Sans MS">You're hot!</font></b>
+
+221
+00:17:51,280 --> 00:17:53,365
+<b><font face="Comic Sans MS">Why, thank you. So are you.
+And I'm not afraid to cry.</font></b>
+
+222
+00:17:53,615 --> 00:17:55,033
+<b><font face="Comic Sans MS">No, I mean, you feel a little feverish.</font></b>
+
+223
+00:17:55,158 --> 00:17:57,953
+<b><font face="Comic Sans MS">Well, I've never felt better in my life.
+My God, you smell good.</font></b>
+
+224
+00:17:58,162 --> 00:18:00,122
+<b><font face="Comic Sans MS">Listen, when do you get off work?</font></b>
+
+225
+00:18:00,372 --> 00:18:01,957
+<b><font face="Comic Sans MS">- 4:00, but I...
+- Tell you what.</font></b>
+
+226
+00:18:02,124 --> 00:18:04,960
+<b><font face="Comic Sans MS">You meet me at 4:01
+at the top of the mountain.</font></b>
+
+227
+00:18:05,752 --> 00:18:09,214
+<b><font face="Comic Sans MS">That'll give you a minute to freshen up.
+This is yours, that's mine.</font></b>
+
+228
+00:18:10,090 --> 00:18:11,216
+<b><font face="Comic Sans MS">Nurses!</font></b>
+
+229
+00:18:17,055 --> 00:18:18,724
+<b><font face="Comic Sans MS">How long was I out?</font></b>
+
+230
+00:18:19,016 --> 00:18:20,017
+<b><font face="Comic Sans MS">Hey.</font></b>
+
+231
+00:18:20,184 --> 00:18:22,895
+<b><font face="Comic Sans MS">3 days. Man, I was worried about you.</font></b>
+
+232
+00:18:23,228 --> 00:18:25,230
+<b><font face="Comic Sans MS">- How are you feeling?
+- Solid.</font></b>
+
+233
+00:18:27,065 --> 00:18:29,234
+<b><font face="Comic Sans MS">- That was a close one, though, huh?
+- Yeah.</font></b>
+
+234
+00:18:29,401 --> 00:18:31,695
+<b><font face="Comic Sans MS">- What was that about?
+- I don't know.</font></b>
+
+235
+00:18:33,113 --> 00:18:34,781
+<b><font face="Comic Sans MS">I really don't know.</font></b>
+
+236
+00:18:34,948 --> 00:18:38,535
+<b><font face="Comic Sans MS">I've been going over the figures
+again and again and they all add up.</font></b>
+
+237
+00:18:39,745 --> 00:18:41,622
+<b><font face="Comic Sans MS">I just don't understand.
+Maybe I should have aborted...</font></b>
+
+238
+00:18:41,788 --> 00:18:45,417
+<b><font face="Comic Sans MS">Reed, it was a freak of nature.
+You couldn't have possibly predicted it.</font></b>
+
+239
+00:18:45,709 --> 00:18:46,793
+<b><font face="Comic Sans MS">Let it go.</font></b>
+
+240
+00:18:50,047 --> 00:18:51,673
+<b><font face="Comic Sans MS">You know, you live through
+something like this...</font></b>
+
+241
+00:18:51,840 --> 00:18:54,593
+<b><font face="Comic Sans MS">it really makes you appreciate
+having the right woman in your life.</font></b>
+
+242
+00:18:54,843 --> 00:18:58,222
+<b><font face="Comic Sans MS">- Yeah, you and Debbie are perfect.
+- I'm not talking about Debbie.</font></b>
+
+243
+00:19:00,516 --> 00:19:02,684
+<b><font face="Comic Sans MS">What? Come on.</font></b>
+
+244
+00:19:03,060 --> 00:19:04,978
+<b><font face="Comic Sans MS">She's got a good thing with Victor.</font></b>
+
+245
+00:19:05,145 --> 00:19:07,022
+<b><font face="Comic Sans MS">He's smart, he's powerful,
+he's successful...</font></b>
+
+246
+00:19:07,189 --> 00:19:09,024
+<b><font face="Comic Sans MS">Well, maybe you should date him then.</font></b>
+
+247
+00:19:09,191 --> 00:19:11,860
+<b><font face="Comic Sans MS">Ben, she ended up with the right guy.</font></b>
+
+248
+00:19:12,653 --> 00:19:14,613
+<b><font face="Comic Sans MS">Things worked out for the best.</font></b>
+
+249
+00:19:18,283 --> 00:19:20,244
+<b><font face="Comic Sans MS">Do I have to do everything myself?</font></b>
+
+250
+00:19:41,139 --> 00:19:42,933
+<b><font face="Comic Sans MS">All right.
+I think you should stay to the right.</font></b>
+
+251
+00:19:43,058 --> 00:19:44,852
+<b><font face="Comic Sans MS">The left might give you trouble.</font></b>
+
+252
+00:19:44,977 --> 00:19:47,563
+<b><font face="Comic Sans MS">- I think we should drop, like, 10 more feet.
+- Good.</font></b>
+
+253
+00:19:47,729 --> 00:19:49,940
+<b><font face="Comic Sans MS">Last one down springs for room service!</font></b>
+
+254
+00:19:57,823 --> 00:19:59,616
+<b><font face="Comic Sans MS">That's my future wife.</font></b>
+
+255
+00:20:26,226 --> 00:20:27,561
+<b><font face="Comic Sans MS">You're losing!</font></b>
+
+256
+00:20:28,645 --> 00:20:30,480
+<b><font face="Comic Sans MS">All right, no more kid's stuff.</font></b>
+
+257
+00:20:31,398 --> 00:20:32,816
+<b><font face="Comic Sans MS">Check this out.</font></b>
+
+258
+00:20:40,199 --> 00:20:41,658
+<b><font face="Comic Sans MS">You're on fire.</font></b>
+
+259
+00:20:41,867 --> 00:20:43,410
+<b><font face="Comic Sans MS">Thanks! You're pretty good, too.</font></b>
+
+260
+00:20:43,577 --> 00:20:46,246
+<b><font face="Comic Sans MS">No, you're on fire. Look!</font></b>
+
+261
+00:21:21,406 --> 00:21:22,658
+<b><font face="Comic Sans MS">Care to join me?</font></b>
+
+262
+00:21:30,916 --> 00:21:33,168
+<b><font face="Comic Sans MS">I can only stay for one drink
+'cause I have to meet Victor.</font></b>
+
+263
+00:21:33,418 --> 00:21:35,796
+<b><font face="Comic Sans MS">Well, wouldn't want to keep Vic waiting.</font></b>
+
+264
+00:21:36,421 --> 00:21:38,674
+<b><font face="Comic Sans MS">Reed, what are you doing here?</font></b>
+
+265
+00:21:38,966 --> 00:21:40,092
+<b><font face="Comic Sans MS">I thought...</font></b>
+
+266
+00:21:42,344 --> 00:21:44,721
+<b><font face="Comic Sans MS">Great! Maybe you can join us.</font></b>
+
+267
+00:21:45,806 --> 00:21:47,015
+<b><font face="Comic Sans MS"><i>How's the IPO now?</i></font></b>
+
+268
+00:21:47,182 --> 00:21:49,184
+<b><font face="Comic Sans MS">It's falling. We're looking at low 20s.</font></b>
+
+269
+00:21:49,351 --> 00:21:51,311
+<b><font face="Comic Sans MS">It's a good number
+considering the fallout from...</font></b>
+
+270
+00:21:51,520 --> 00:21:52,813
+<b><font face="Comic Sans MS">From Reed's disaster?</font></b>
+
+271
+00:21:52,980 --> 00:21:56,608
+<b><font face="Comic Sans MS"><i>Get me on the a.m. Shows,
+Larry King, the cover of the Journal. </i></font></b>
+
+272
+00:21:58,193 --> 00:22:00,445
+<b><font face="Comic Sans MS">I have to do something about this scar.</font></b>
+
+273
+00:22:01,488 --> 00:22:04,283
+<b><font face="Comic Sans MS">Make sure they only shoot me
+from my left side.</font></b>
+
+274
+00:22:04,700 --> 00:22:07,619
+<b><font face="Comic Sans MS">Actually, the scar's tracking well.</font></b>
+
+275
+00:22:07,911 --> 00:22:10,038
+<b><font face="Comic Sans MS">People seem to think it humanizes you.</font></b>
+
+276
+00:22:11,707 --> 00:22:13,333
+<b><font face="Comic Sans MS">And that's a good thing?</font></b>
+
+277
+00:22:17,004 --> 00:22:19,047
+<b><font face="Comic Sans MS">You know,
+maybe you should get some rest.</font></b>
+
+278
+00:22:19,298 --> 00:22:20,382
+<b><font face="Comic Sans MS">Later.</font></b>
+
+279
+00:22:20,841 --> 00:22:23,135
+<b><font face="Comic Sans MS">First, I have some unfinished business.</font></b>
+
+280
+00:22:23,886 --> 00:22:25,554
+<b><font face="Comic Sans MS">A deal that needs closing.</font></b>
+
+281
+00:22:25,804 --> 00:22:28,599
+<b><font face="Comic Sans MS">Sir, I have always wondered, why Sue?</font></b>
+
+282
+00:22:29,516 --> 00:22:31,435
+<b><font face="Comic Sans MS">You could have any other woman
+in the world.</font></b>
+
+283
+00:22:31,602 --> 00:22:34,563
+<b><font face="Comic Sans MS">That's why.
+Because I could have any other woman.</font></b>
+
+284
+00:22:35,564 --> 00:22:38,567
+<b><font face="Comic Sans MS">- No, let me tell the story.
+- No, let him tell the story.</font></b>
+
+285
+00:22:47,242 --> 00:22:49,703
+<b><font face="Comic Sans MS">- You all right?
+- Yeah, bad shrimp.</font></b>
+
+286
+00:22:50,954 --> 00:22:52,831
+<b><font face="Comic Sans MS">I think I better go lie down.</font></b>
+
+287
+00:22:53,582 --> 00:22:54,708
+<b><font face="Comic Sans MS">Excuse me.</font></b>
+
+288
+00:22:56,210 --> 00:22:57,377
+<b><font face="Comic Sans MS">Oh, God!</font></b>
+
+289
+00:23:14,102 --> 00:23:15,479
+<b><font face="Comic Sans MS"><i>So, you feeling better?</i></font></b>
+
+290
+00:23:16,271 --> 00:23:17,940
+<b><font face="Comic Sans MS">Yes, thank you.</font></b>
+
+291
+00:23:18,482 --> 00:23:19,525
+<b><font face="Comic Sans MS">Good.</font></b>
+
+292
+00:23:20,776 --> 00:23:23,445
+<b><font face="Comic Sans MS">That's... good.</font></b>
+
+293
+00:23:27,115 --> 00:23:29,076
+<b><font face="Comic Sans MS">You always had a way with words.</font></b>
+
+294
+00:23:33,997 --> 00:23:36,500
+<b><font face="Comic Sans MS">Wow. I should be going because...</font></b>
+
+295
+00:23:38,544 --> 00:23:40,087
+<b><font face="Comic Sans MS">I have to meet Victor.</font></b>
+
+296
+00:23:40,254 --> 00:23:42,381
+<b><font face="Comic Sans MS">I'm really happy for you and Victor.</font></b>
+
+297
+00:23:43,632 --> 00:23:45,467
+<b><font face="Comic Sans MS">You're really happy for me and Victor?</font></b>
+
+298
+00:23:45,634 --> 00:23:49,012
+<b><font face="Comic Sans MS">I can tell you guys are enjoying
+what was the best part of our relationship.</font></b>
+
+299
+00:23:49,263 --> 00:23:50,973
+<b><font face="Comic Sans MS">- Which was?
+- Passion...</font></b>
+
+300
+00:23:52,683 --> 00:23:54,142
+<b><font face="Comic Sans MS">for science.</font></b>
+
+301
+00:23:54,977 --> 00:23:57,437
+<b><font face="Comic Sans MS">You're such a dork, Reed.</font></b>
+
+302
+00:23:58,021 --> 00:23:59,523
+<b><font face="Comic Sans MS">You never got it...</font></b>
+
+303
+00:24:00,607 --> 00:24:02,276
+<b><font face="Comic Sans MS">- and you never will...
+- Well, what did I say?</font></b>
+
+304
+00:24:02,401 --> 00:24:04,361
+<b><font face="Comic Sans MS">...unless it's explained to you
+in quantum physics.</font></b>
+
+305
+00:24:04,486 --> 00:24:05,696
+<b><font face="Comic Sans MS">I just wanted to let you know that I...</font></b>
+
+306
+00:24:05,863 --> 00:24:08,282
+<b><font face="Comic Sans MS">It's been 2 years,
+and all you can say is that you're happy...</font></b>
+
+307
+00:24:08,490 --> 00:24:10,325
+<b><font face="Comic Sans MS">for me and some other guy?</font></b>
+
+308
+00:24:10,617 --> 00:24:12,327
+<b><font face="Comic Sans MS">Victor may be a lot of things.</font></b>
+
+309
+00:24:12,494 --> 00:24:15,497
+<b><font face="Comic Sans MS">But at least he's not afraid
+to fight for what he wants.</font></b>
+
+310
+00:24:15,873 --> 00:24:18,083
+<b><font face="Comic Sans MS">It's nice to be wanted sometimes, Reed.</font></b>
+
+311
+00:24:20,002 --> 00:24:22,754
+<b><font face="Comic Sans MS">To be seen and heard.</font></b>
+
+312
+00:24:26,091 --> 00:24:27,426
+<b><font face="Comic Sans MS">Look at me.</font></b>
+
+313
+00:24:30,095 --> 00:24:31,138
+<b><font face="Comic Sans MS">I can't.</font></b>
+
+314
+00:24:31,263 --> 00:24:33,098
+<b><font face="Comic Sans MS">What do you mean, you can't?
+Look at me!</font></b>
+
+315
+00:24:33,265 --> 00:24:34,975
+<b><font face="Comic Sans MS">Sue, look at your hands!</font></b>
+
+316
+00:24:54,453 --> 00:24:56,121
+<b><font face="Comic Sans MS">Hey, you guys.</font></b>
+
+317
+00:24:57,289 --> 00:24:59,791
+<b><font face="Comic Sans MS">You are never gonna believe
+what just happened to me.</font></b>
+
+318
+00:24:59,958 --> 00:25:01,043
+<b><font face="Comic Sans MS">What?</font></b>
+
+319
+00:25:02,461 --> 00:25:04,546
+<b><font face="Comic Sans MS">Well, I can explain this.</font></b>
+
+320
+00:25:32,074 --> 00:25:35,244
+<b><font face="Comic Sans MS">It has to be the cloud.
+It's fundamentally altered our DNA.</font></b>
+
+321
+00:25:35,494 --> 00:25:37,037
+<b><font face="Comic Sans MS">Let's not jump to conclusions.</font></b>
+
+322
+00:25:37,120 --> 00:25:39,957
+<b><font face="Comic Sans MS">We need a massive amount of evidence
+before making that leap.</font></b>
+
+323
+00:25:40,123 --> 00:25:41,667
+<b><font face="Comic Sans MS">Guys, look!</font></b>
+
+324
+00:25:52,302 --> 00:25:55,347
+<b><font face="Comic Sans MS">Now, picture that, but everywhere.</font></b>
+
+325
+00:25:56,598 --> 00:25:58,642
+<b><font face="Comic Sans MS">It was everywhere.</font></b>
+
+326
+00:25:59,768 --> 00:26:00,769
+<b><font face="Comic Sans MS">What?</font></b>
+
+327
+00:26:02,688 --> 00:26:05,107
+<b><font face="Comic Sans MS">The cloud has fundamentally altered
+our DNA.</font></b>
+
+328
+00:26:06,400 --> 00:26:08,402
+<b><font face="Comic Sans MS">- Cool!
+- We need to find Ben.</font></b>
+
+329
+00:26:08,569 --> 00:26:10,696
+<b><font face="Comic Sans MS">And you know what, guys?
+I think I was flying.</font></b>
+
+330
+00:26:17,661 --> 00:26:19,121
+<b><font face="Comic Sans MS">I said, cut it out, Johnny.</font></b>
+
+331
+00:26:19,246 --> 00:26:20,664
+<b><font face="Comic Sans MS">I'm getting the hang of it.</font></b>
+
+332
+00:26:20,831 --> 00:26:22,875
+<b><font face="Comic Sans MS">- Ben, it's Reed.
+- Stop.</font></b>
+
+333
+00:26:23,041 --> 00:26:24,418
+<b><font face="Comic Sans MS">- All right.
+- All right?</font></b>
+
+334
+00:26:24,585 --> 00:26:25,878
+<b><font face="Comic Sans MS">- Yes.
+- God!</font></b>
+
+335
+00:26:25,961 --> 00:26:27,254
+<b><font face="Comic Sans MS">- God?
+- What's wrong with you?</font></b>
+
+336
+00:26:27,421 --> 00:26:28,547
+<b><font face="Comic Sans MS">- What?
+- Sue, do you know the code?</font></b>
+
+337
+00:26:28,672 --> 00:26:29,673
+<b><font face="Comic Sans MS">I might.</font></b>
+
+338
+00:26:37,890 --> 00:26:39,099
+<b><font face="Comic Sans MS">Ben, open up.</font></b>
+
+339
+00:26:39,266 --> 00:26:40,267
+<b><font face="Comic Sans MS">You all right, Ben?</font></b>
+
+340
+00:26:40,392 --> 00:26:42,394
+<b><font face="Comic Sans MS">Does somebody have keys to these doors?</font></b>
+
+341
+00:26:43,395 --> 00:26:44,521
+<b><font face="Comic Sans MS">Anybody?</font></b>
+
+342
+00:26:45,856 --> 00:26:47,941
+<b><font face="Comic Sans MS">Just break the glass. It can't be that thick.</font></b>
+
+343
+00:26:48,108 --> 00:26:51,028
+<b><font face="Comic Sans MS">Give me another couple of seconds, guys.
+I almost got it.</font></b>
+
+344
+00:27:31,485 --> 00:27:32,611
+<b><font face="Comic Sans MS">That's gross.</font></b>
+
+345
+00:27:38,742 --> 00:27:39,785
+<b><font face="Comic Sans MS">Ben?</font></b>
+
+346
+00:27:40,661 --> 00:27:41,954
+<b><font face="Comic Sans MS">Look.</font></b>
+
+347
+00:27:45,624 --> 00:27:46,750
+<b><font face="Comic Sans MS">What is that thing?</font></b>
+
+348
+00:27:48,961 --> 00:27:50,295
+<b><font face="Comic Sans MS">What's going on?</font></b>
+
+349
+00:27:51,255 --> 00:27:52,506
+<b><font face="Comic Sans MS">What happened in here?</font></b>
+
+350
+00:27:52,631 --> 00:27:54,132
+<b><font face="Comic Sans MS">Victor, are you feeling all right?</font></b>
+
+351
+00:27:54,299 --> 00:27:55,843
+<b><font face="Comic Sans MS">I'm fine. Just a few scrapes, that's all.</font></b>
+
+352
+00:27:56,009 --> 00:27:57,302
+<b><font face="Comic Sans MS">Ben did this.</font></b>
+
+353
+00:27:57,427 --> 00:28:00,472
+<b><font face="Comic Sans MS">He's had some kind of reaction
+to exposure from the cloud.</font></b>
+
+354
+00:28:01,181 --> 00:28:03,475
+<b><font face="Comic Sans MS">We all have different symptoms.</font></b>
+
+355
+00:28:03,642 --> 00:28:04,768
+<b><font face="Comic Sans MS">Symptoms?</font></b>
+
+356
+00:28:04,935 --> 00:28:07,604
+<b><font face="Comic Sans MS">- Victor, I should have...
+- Just find him.</font></b>
+
+357
+00:28:10,649 --> 00:28:13,193
+<b><font face="Comic Sans MS">Anybody got any ideas
+where the big guy's going?</font></b>
+
+358
+00:28:17,156 --> 00:28:18,615
+<b><font face="Comic Sans MS">He's going home.</font></b>
+
+359
+00:28:57,738 --> 00:28:59,698
+<b><font face="Comic Sans MS">You gotta be kidding me.</font></b>
+
+360
+00:29:06,788 --> 00:29:08,040
+<b><font face="Comic Sans MS">Little buttons.</font></b>
+
+361
+00:29:08,707 --> 00:29:10,167
+<b><font face="Comic Sans MS">Hello, Operator?</font></b>
+
+362
+00:29:13,670 --> 00:29:15,380
+<b><font face="Comic Sans MS"><i>- Hello?
+- Debs?</i></font></b>
+
+363
+00:29:16,048 --> 00:29:17,591
+<b><font face="Comic Sans MS"><i>- It's me.
+- Ben?</i></font></b>
+
+364
+00:29:18,550 --> 00:29:21,053
+<b><font face="Comic Sans MS"><i>Are you all right?
+You sound a little different. </i></font></b>
+
+365
+00:29:21,386 --> 00:29:24,097
+<b><font face="Comic Sans MS"><i>- Listen, I need you to come out front.
+- Out front?</i></font></b>
+
+366
+00:29:24,890 --> 00:29:26,308
+<b><font face="Comic Sans MS"><i>You're home, baby?</i></font></b>
+
+367
+00:29:27,267 --> 00:29:28,268
+<b><font face="Comic Sans MS"><i>Yeah. </i></font></b>
+
+368
+00:29:30,562 --> 00:29:32,523
+<b><font face="Comic Sans MS"><i>I got a surprise for you. </i></font></b>
+
+369
+00:29:34,566 --> 00:29:37,361
+<b><font face="Comic Sans MS">Yeah, I got a little one for you, too.</font></b>
+
+370
+00:29:41,281 --> 00:29:42,366
+<b><font face="Comic Sans MS">Ben?</font></b>
+
+371
+00:29:45,786 --> 00:29:47,246
+<b><font face="Comic Sans MS">Where are you?</font></b>
+
+372
+00:29:47,663 --> 00:29:49,081
+<b><font face="Comic Sans MS">I'm over here.</font></b>
+
+373
+00:29:49,790 --> 00:29:52,209
+<b><font face="Comic Sans MS">Don't come any closer for a sec, okay?</font></b>
+
+374
+00:29:53,335 --> 00:29:56,463
+<b><font face="Comic Sans MS">It's gonna be a bit of a shock.</font></b>
+
+375
+00:29:56,672 --> 00:29:58,507
+<b><font face="Comic Sans MS">Honey, what's going on?</font></b>
+
+376
+00:29:58,882 --> 00:30:00,008
+<b><font face="Comic Sans MS">Debs...</font></b>
+
+377
+00:30:01,218 --> 00:30:03,428
+<b><font face="Comic Sans MS">remember when we used to say...</font></b>
+
+378
+00:30:03,846 --> 00:30:06,682
+<b><font face="Comic Sans MS">together forever no matter what?</font></b>
+
+379
+00:30:07,641 --> 00:30:08,684
+<b><font face="Comic Sans MS">Yeah.</font></b>
+
+380
+00:30:10,185 --> 00:30:11,478
+<b><font face="Comic Sans MS">Well...</font></b>
+
+381
+00:30:11,854 --> 00:30:13,522
+<b><font face="Comic Sans MS">Baby, you're scaring me.</font></b>
+
+382
+00:30:27,703 --> 00:30:28,829
+<b><font face="Comic Sans MS">Oh, my God.</font></b>
+
+383
+00:30:29,538 --> 00:30:32,207
+<b><font face="Comic Sans MS">Deb, it's me. It's still me.</font></b>
+
+384
+00:30:32,499 --> 00:30:34,168
+<b><font face="Comic Sans MS">It was the accident. Let me explain.</font></b>
+
+385
+00:30:34,334 --> 00:30:36,420
+<b><font face="Comic Sans MS">- No! Don't touch me!
+- Debs!</font></b>
+
+386
+00:30:43,552 --> 00:30:45,179
+<b><font face="Comic Sans MS">I'm calling the police.</font></b>
+
+387
+00:30:45,345 --> 00:30:46,346
+<b><font face="Comic Sans MS">Everybody all right?</font></b>
+
+388
+00:30:46,513 --> 00:30:48,932
+<b><font face="Comic Sans MS">I saw him. It's that guy over there!</font></b>
+
+389
+00:30:57,149 --> 00:30:59,359
+<b><font face="Comic Sans MS">Okay, so he was there last night.</font></b>
+
+390
+00:30:59,526 --> 00:31:01,695
+<b><font face="Comic Sans MS">Debbie's gonna meet us
+on the other side of the bridge.</font></b>
+
+391
+00:31:16,418 --> 00:31:17,878
+<b><font face="Comic Sans MS">Yeah, Ben.</font></b>
+
+392
+00:31:18,170 --> 00:31:20,464
+<b><font face="Comic Sans MS">"A few days in space. It'll be great.</font></b>
+
+393
+00:31:21,423 --> 00:31:23,634
+<b><font face="Comic Sans MS">"What's the worst that could happen?"</font></b>
+
+394
+00:31:27,763 --> 00:31:29,097
+<b><font face="Comic Sans MS">Hey, little guy.</font></b>
+
+395
+00:31:31,183 --> 00:31:33,227
+<b><font face="Comic Sans MS">You're not afraid of me, are you?</font></b>
+
+396
+00:31:38,941 --> 00:31:39,983
+<b><font face="Comic Sans MS">Perfect.</font></b>
+
+397
+00:31:41,610 --> 00:31:42,653
+<b><font face="Comic Sans MS">Thanks.</font></b>
+
+398
+00:31:57,167 --> 00:31:58,252
+<b><font face="Comic Sans MS">Hey!</font></b>
+
+399
+00:31:59,795 --> 00:32:02,840
+<b><font face="Comic Sans MS">You think you've got problems?
+You take a good look, pal.</font></b>
+
+400
+00:32:04,174 --> 00:32:05,968
+<b><font face="Comic Sans MS">How bad could it be, right?</font></b>
+
+401
+00:32:06,468 --> 00:32:08,220
+<b><font face="Comic Sans MS">I don't think you...</font></b>
+
+402
+00:32:09,888 --> 00:32:13,517
+<b><font face="Comic Sans MS">Okay, pal. Take it easy.
+No, don't go out there.</font></b>
+
+403
+00:32:13,725 --> 00:32:16,186
+<b><font face="Comic Sans MS">Look, I said stop, you fruitcake!</font></b>
+
+404
+00:32:16,478 --> 00:32:18,063
+<b><font face="Comic Sans MS">No. Come close.</font></b>
+
+405
+00:32:18,856 --> 00:32:21,108
+<b><font face="Comic Sans MS">That's further. Come closer.</font></b>
+
+406
+00:32:21,316 --> 00:32:23,485
+<b><font face="Comic Sans MS">I said, stop! No!</font></b>
+
+407
+00:32:48,177 --> 00:32:49,469
+<b><font face="Comic Sans MS">Come here.</font></b>
+
+408
+00:33:13,076 --> 00:33:15,537
+<b><font face="Comic Sans MS">All right, calm down.</font></b>
+
+409
+00:33:17,372 --> 00:33:18,749
+<b><font face="Comic Sans MS">You wanna be scared?</font></b>
+
+410
+00:33:18,957 --> 00:33:20,626
+<b><font face="Comic Sans MS">- Fine!
+- No!</font></b>
+
+411
+00:33:31,053 --> 00:33:32,763
+<b><font face="Comic Sans MS">Get back, everybody!</font></b>
+
+412
+00:33:33,013 --> 00:33:35,724
+<b><font face="Comic Sans MS">Get back in your vehicle.
+We'll tell you when you can go.</font></b>
+
+413
+00:33:35,974 --> 00:33:39,061
+<b><font face="Comic Sans MS">- What do we do now?
+- We're not going to get past these guys.</font></b>
+
+414
+00:33:39,269 --> 00:33:40,521
+<b><font face="Comic Sans MS">But you could.</font></b>
+
+415
+00:33:45,108 --> 00:33:47,736
+<b><font face="Comic Sans MS">Sorry about the truck, pal. Come on.</font></b>
+
+416
+00:33:48,320 --> 00:33:51,114
+<b><font face="Comic Sans MS">A little help, here?
+You wanna hit the button, sir?</font></b>
+
+417
+00:33:51,573 --> 00:33:52,741
+<b><font face="Comic Sans MS">It's stuck.</font></b>
+
+418
+00:33:54,493 --> 00:33:56,537
+<b><font face="Comic Sans MS">Sue, your clothes. Lose them.</font></b>
+
+419
+00:33:57,371 --> 00:33:58,455
+<b><font face="Comic Sans MS">Right.</font></b>
+
+420
+00:33:59,122 --> 00:34:00,791
+<b><font face="Comic Sans MS">This is so wrong.</font></b>
+
+421
+00:34:09,258 --> 00:34:11,802
+<b><font face="Comic Sans MS">- Wow, you've been working out.
+- Shut up!</font></b>
+
+422
+00:34:13,804 --> 00:34:14,847
+<b><font face="Comic Sans MS">All right.</font></b>
+
+423
+00:34:18,976 --> 00:34:20,686
+<b><font face="Comic Sans MS">All right, freeze!</font></b>
+
+424
+00:34:21,144 --> 00:34:22,437
+<b><font face="Comic Sans MS">Now just...</font></b>
+
+425
+00:34:23,105 --> 00:34:25,524
+<b><font face="Comic Sans MS">Just put the man in the seat down.</font></b>
+
+426
+00:34:26,859 --> 00:34:28,068
+<b><font face="Comic Sans MS">Do it!</font></b>
+
+427
+00:34:33,323 --> 00:34:34,616
+<b><font face="Comic Sans MS">Any more great ideas?</font></b>
+
+428
+00:34:34,783 --> 00:34:37,202
+<b><font face="Comic Sans MS">Why don't you strip down
+and have a 100 people stare at you?</font></b>
+
+429
+00:34:37,369 --> 00:34:39,121
+<b><font face="Comic Sans MS">- Sue.
+- What?</font></b>
+
+430
+00:34:43,709 --> 00:34:45,335
+<b><font face="Comic Sans MS">I'm gonna need therapy.</font></b>
+
+431
+00:34:47,462 --> 00:34:49,381
+<b><font face="Comic Sans MS">Come on, let's get out of here.</font></b>
+
+432
+00:34:51,341 --> 00:34:53,302
+<b><font face="Comic Sans MS">Excuse me. Coming through.</font></b>
+
+433
+00:34:57,973 --> 00:35:01,059
+<b><font face="Comic Sans MS">All right, now just back away from him.</font></b>
+
+434
+00:35:03,187 --> 00:35:05,939
+<b><font face="Comic Sans MS">And I want you to put your hands
+on your head...</font></b>
+
+435
+00:35:14,239 --> 00:35:15,699
+<b><font face="Comic Sans MS">954 approaching scene.</font></b>
+
+436
+00:35:15,908 --> 00:35:17,826
+<b><font face="Comic Sans MS">I still can't believe you made me do that.</font></b>
+
+437
+00:35:17,993 --> 00:35:20,287
+<b><font face="Comic Sans MS">We got through, didn't we? Just find Ben.</font></b>
+
+438
+00:35:27,586 --> 00:35:29,463
+<b><font face="Comic Sans MS">Ben!</font></b>
+
+439
+00:35:37,971 --> 00:35:39,056
+<b><font face="Comic Sans MS">Mum.</font></b>
+
+440
+00:36:25,352 --> 00:36:26,728
+<b><font face="Comic Sans MS">Stay here, okay?</font></b>
+
+441
+00:36:26,895 --> 00:36:28,021
+<b><font face="Comic Sans MS">I'm coming.</font></b>
+
+442
+00:36:28,605 --> 00:36:29,648
+<b><font face="Comic Sans MS">Hold on.</font></b>
+
+443
+00:37:12,691 --> 00:37:13,901
+<b><font face="Comic Sans MS">Hang on!</font></b>
+
+444
+00:37:20,407 --> 00:37:21,366
+<b><font face="Comic Sans MS">I got you.</font></b>
+
+445
+00:38:00,739 --> 00:38:03,283
+<b><font face="Comic Sans MS"><i>Get down on the ground. </i></font></b>
+
+446
+00:38:04,576 --> 00:38:06,495
+<b><font face="Comic Sans MS"><i>Get down on the ground now!</i></font></b>
+
+447
+00:38:11,959 --> 00:38:12,960
+<b><font face="Comic Sans MS">Ben.</font></b>
+
+448
+00:39:26,742 --> 00:39:28,243
+<b><font face="Comic Sans MS">I swear to you...</font></b>
+
+449
+00:39:29,077 --> 00:39:31,371
+<b><font face="Comic Sans MS">I will do everything in my power...</font></b>
+
+450
+00:39:31,622 --> 00:39:33,916
+<b><font face="Comic Sans MS">until there is not a breath left in me.</font></b>
+
+451
+00:39:35,709 --> 00:39:37,544
+<b><font face="Comic Sans MS">You're going to be Ben again.</font></b>
+
+452
+00:39:47,971 --> 00:39:49,598
+<b><font face="Comic Sans MS">I told you I felt fine.</font></b>
+
+453
+00:39:50,724 --> 00:39:52,267
+<b><font face="Comic Sans MS">Where are your ears?</font></b>
+
+454
+00:39:55,771 --> 00:39:58,524
+<b><font face="Comic Sans MS">There are some folks outside
+that want to talk to you.</font></b>
+
+455
+00:39:58,732 --> 00:40:00,400
+<b><font face="Comic Sans MS">We're not going public with this.</font></b>
+
+456
+00:40:00,526 --> 00:40:02,277
+<b><font face="Comic Sans MS">We're scientists, not celebrities.</font></b>
+
+457
+00:40:02,361 --> 00:40:03,779
+<b><font face="Comic Sans MS">It's too late, son.</font></b>
+
+458
+00:40:04,279 --> 00:40:05,280
+<b><font face="Comic Sans MS">Look.</font></b>
+
+459
+00:40:06,365 --> 00:40:08,158
+<b><font face="Comic Sans MS"><i>... when a New York Fire Department
+ladder truck... </i></font></b>
+
+460
+00:40:08,408 --> 00:40:09,326
+<b><font face="Comic Sans MS">See that?</font></b>
+
+461
+00:40:09,493 --> 00:40:10,661
+<b><font face="Comic Sans MS"><i>... became part of the tragedy. </i></font></b>
+
+462
+00:40:10,786 --> 00:40:13,121
+<b><font face="Comic Sans MS"><i>But the rescue itself is not the story. </i></font></b>
+
+463
+00:40:13,163 --> 00:40:15,624
+<b><font face="Comic Sans MS"><i>One of the 4 stretched
+to an amazing length... </i></font></b>
+
+464
+00:40:15,833 --> 00:40:18,961
+<b><font face="Comic Sans MS">That's what they're calling you.
+"The Fantastic Four."</font></b>
+
+465
+00:40:19,253 --> 00:40:21,463
+<b><font face="Comic Sans MS">- Cool.
+- No, wait! Where are you going?</font></b>
+
+466
+00:40:21,630 --> 00:40:22,714
+<b><font face="Comic Sans MS">I'm gonna go talk to them.</font></b>
+
+467
+00:40:22,840 --> 00:40:24,842
+<b><font face="Comic Sans MS">No, we should think this through.</font></b>
+
+468
+00:40:24,967 --> 00:40:26,760
+<b><font face="Comic Sans MS">That's great. Brainstorm.</font></b>
+
+469
+00:40:30,848 --> 00:40:33,225
+<b><font face="Comic Sans MS">Get back here, right now. Johnny!</font></b>
+
+470
+00:40:36,019 --> 00:40:37,396
+<b><font face="Comic Sans MS">Settle down.</font></b>
+
+471
+00:40:39,773 --> 00:40:41,400
+<b><font face="Comic Sans MS">Do you believe this?</font></b>
+
+472
+00:40:42,317 --> 00:40:43,861
+<b><font face="Comic Sans MS">Which one of you is the leader?</font></b>
+
+473
+00:40:44,027 --> 00:40:45,571
+<b><font face="Comic Sans MS">That would be me.</font></b>
+
+474
+00:40:45,779 --> 00:40:47,197
+<b><font face="Comic Sans MS">No, seriously.</font></b>
+
+475
+00:40:49,575 --> 00:40:51,160
+<b><font face="Comic Sans MS">Okay, son. You're on.</font></b>
+
+476
+00:40:59,710 --> 00:41:03,005
+<b><font face="Comic Sans MS">During our recent mission
+to the Von Doom space station...</font></b>
+
+477
+00:41:04,840 --> 00:41:07,759
+<b><font face="Comic Sans MS">we were exposed to
+as yet unidentified radioactive energy.</font></b>
+
+478
+00:41:08,010 --> 00:41:09,595
+<b><font face="Comic Sans MS">- What happened on the bridge?
+- How can you stretch?</font></b>
+
+479
+00:41:09,720 --> 00:41:11,555
+<b><font face="Comic Sans MS">- Were you really on fire?
+- Is it true you can fly?</font></b>
+
+480
+00:41:11,680 --> 00:41:13,599
+<b><font face="Comic Sans MS">Yeah, I'm working on it.
+It's actually really difficult.</font></b>
+
+481
+00:41:13,682 --> 00:41:16,143
+<b><font face="Comic Sans MS">No, actually, we do not know
+much more than you do at this point.</font></b>
+
+482
+00:41:18,187 --> 00:41:20,230
+<b><font face="Comic Sans MS">Sir, Larry King just cancelled.</font></b>
+
+483
+00:41:20,772 --> 00:41:22,983
+<b><font face="Comic Sans MS">Apparently, there's a bigger story.</font></b>
+
+484
+00:41:26,111 --> 00:41:29,573
+<b><font face="Comic Sans MS"><i>Actually, here they come now.
+You had to see it to believe it, folks. </i></font></b>
+
+485
+00:41:29,865 --> 00:41:32,242
+<b><font face="Comic Sans MS"><i>The man...
+... named The Fantastic Four... </i></font></b>
+
+486
+00:41:32,451 --> 00:41:35,245
+<b><font face="Comic Sans MS"><i>We'll be going directly to our lab
+to diagnose our symptoms. </i></font></b>
+
+487
+00:41:35,496 --> 00:41:37,164
+<b><font face="Comic Sans MS"><i>Symptoms? Is this some kind of disease?</i></font></b>
+
+488
+00:41:37,372 --> 00:41:39,750
+<b><font face="Comic Sans MS">No. It's not a disease.</font></b>
+
+489
+00:41:40,876 --> 00:41:43,712
+<b><font face="Comic Sans MS">If having special powers is a disease,
+then, yeah, we got it bad.</font></b>
+
+490
+00:41:43,837 --> 00:41:46,298
+<b><font face="Comic Sans MS">Excuse me,
+that thing doesn't look so fantastic.</font></b>
+
+491
+00:41:46,548 --> 00:41:48,717
+<b><font face="Comic Sans MS">Ben Grimm is a genuine American hero.</font></b>
+
+492
+00:41:48,800 --> 00:41:51,220
+<b><font face="Comic Sans MS">What he means is,
+every team needs a mascot.</font></b>
+
+493
+00:41:52,554 --> 00:41:56,558
+<b><font face="Comic Sans MS">A new day is dawning.
+The day of The Fantastic Four.</font></b>
+
+494
+00:42:00,020 --> 00:42:01,313
+<b><font face="Comic Sans MS">Look!</font></b>
+
+495
+00:42:01,396 --> 00:42:04,900
+<b><font face="Comic Sans MS"><i>We went up to space
+to find a way to understand DNA... </i></font></b>
+
+496
+00:42:05,526 --> 00:42:07,361
+<b><font face="Comic Sans MS"><i>cure disease, save lives. </i></font></b>
+
+497
+00:42:07,569 --> 00:42:11,990
+<b><font face="Comic Sans MS"><i>Well, now it's our DNA, our disease,
+our lives on the line. </i></font></b>
+
+498
+00:42:13,492 --> 00:42:15,661
+<b><font face="Comic Sans MS"><i>Thank you. No more questions. </i></font></b>
+
+499
+00:42:16,995 --> 00:42:19,164
+<b><font face="Comic Sans MS">This is how you turn things around?</font></b>
+
+500
+00:42:19,873 --> 00:42:23,210
+<b><font face="Comic Sans MS">These freaks on the front page?
+Your company's in the obituaries?</font></b>
+
+501
+00:42:23,836 --> 00:42:25,254
+<b><font face="Comic Sans MS">I was planning to use the publicity.</font></b>
+
+502
+00:42:25,420 --> 00:42:28,465
+<b><font face="Comic Sans MS">The board's in agreement,
+the bank's lost enough already.</font></b>
+
+503
+00:42:29,174 --> 00:42:31,260
+<b><font face="Comic Sans MS">- Wait a minute.
+- It's too late, Victor.</font></b>
+
+504
+00:42:31,426 --> 00:42:35,222
+<b><font face="Comic Sans MS">Do you know how much money
+I've invested in this company?</font></b>
+
+505
+00:42:35,472 --> 00:42:36,598
+<b><font face="Comic Sans MS">Victor, stop.</font></b>
+
+506
+00:42:37,516 --> 00:42:40,143
+<b><font face="Comic Sans MS">This isn't a negotiation. It's a notification.</font></b>
+
+507
+00:42:41,603 --> 00:42:42,980
+<b><font face="Comic Sans MS">We're pulling out.</font></b>
+
+508
+00:43:25,397 --> 00:43:27,483
+<b><font face="Comic Sans MS">Is all that for you, Dr. Richards?</font></b>
+
+509
+00:43:27,691 --> 00:43:28,901
+<b><font face="Comic Sans MS">I'm afraid so.</font></b>
+
+510
+00:43:32,070 --> 00:43:35,282
+<b><font face="Comic Sans MS">Come on, Ben, smile.
+They want to like you, Ben. Say hi.</font></b>
+
+511
+00:43:39,912 --> 00:43:41,330
+<b><font face="Comic Sans MS">Don't do drugs.</font></b>
+
+512
+00:43:53,050 --> 00:43:55,761
+<b><font face="Comic Sans MS">Welcome back to the Baxter, Dr. Richards.</font></b>
+
+513
+00:43:56,053 --> 00:43:58,055
+<b><font face="Comic Sans MS">I've got the usual for you.</font></b>
+
+514
+00:43:58,263 --> 00:43:59,890
+<b><font face="Comic Sans MS">Good to have you back, sir.</font></b>
+
+515
+00:43:59,973 --> 00:44:01,266
+<b><font face="Comic Sans MS">Thanks, Willie.</font></b>
+
+516
+00:44:04,144 --> 00:44:05,395
+<b><font face="Comic Sans MS">We had a tough year.</font></b>
+
+517
+00:44:05,437 --> 00:44:07,523
+<b><font face="Comic Sans MS">Yeah, like nine straight.</font></b>
+
+518
+00:44:21,453 --> 00:44:23,914
+<b><font face="Comic Sans MS">Either we're moving really fast
+or not at all.</font></b>
+
+519
+00:44:32,256 --> 00:44:34,007
+<b><font face="Comic Sans MS">I'll take the stairs.</font></b>
+
+520
+00:44:43,350 --> 00:44:45,644
+<b><font face="Comic Sans MS">How come Ben can't turn it on and off
+like we can?</font></b>
+
+521
+00:44:45,853 --> 00:44:47,437
+<b><font face="Comic Sans MS">That's what we're here to find out.</font></b>
+
+522
+00:44:47,688 --> 00:44:49,648
+<b><font face="Comic Sans MS">I mean, if it happened to him...</font></b>
+
+523
+00:44:49,857 --> 00:44:53,110
+<b><font face="Comic Sans MS">What? You mean, like, we won't be able
+to turn it off, either?</font></b>
+
+524
+00:44:53,610 --> 00:44:54,611
+<b><font face="Comic Sans MS">That would save time.</font></b>
+
+525
+00:44:54,778 --> 00:44:57,656
+<b><font face="Comic Sans MS">You don't really wanna walk around on fire
+for the rest of your life, do you?</font></b>
+
+526
+00:44:57,865 --> 00:44:59,449
+<b><font face="Comic Sans MS">- Is that a trick question?
+- Grow up.</font></b>
+
+527
+00:44:59,658 --> 00:45:02,452
+<b><font face="Comic Sans MS">Come on.
+Am I the only guy who thinks this is cool?</font></b>
+
+528
+00:45:03,829 --> 00:45:06,957
+<b><font face="Comic Sans MS">We should stay here until we can define
+the extent of our changes...</font></b>
+
+529
+00:45:07,124 --> 00:45:09,501
+<b><font face="Comic Sans MS">and figure out how to reverse them.</font></b>
+
+530
+00:45:13,589 --> 00:45:17,217
+<b><font face="Comic Sans MS">But I have to warn you, it's gonna be
+a little crowded in some areas.</font></b>
+
+531
+00:45:23,932 --> 00:45:25,517
+<b><font face="Comic Sans MS">So, what do you think?</font></b>
+
+532
+00:45:26,852 --> 00:45:30,564
+<b><font face="Comic Sans MS">I don't know, Reed, I think you might be
+bringing your work home with you.</font></b>
+
+533
+00:45:31,231 --> 00:45:34,193
+<b><font face="Comic Sans MS">Come on. Let me show you guys
+where you'll be staying.</font></b>
+
+534
+00:45:35,360 --> 00:45:36,612
+<b><font face="Comic Sans MS">Busy guy.</font></b>
+
+535
+00:45:43,160 --> 00:45:46,747
+<b><font face="Comic Sans MS">Mr. Von Doom, would you like to comment
+on the recent failure of your IPO?</font></b>
+
+536
+00:45:46,914 --> 00:45:48,749
+<b><font face="Comic Sans MS">What about the rumors of a takeover?</font></b>
+
+537
+00:46:11,146 --> 00:46:12,731
+<b><font face="Comic Sans MS">God, I was so worried about you.</font></b>
+
+538
+00:46:12,940 --> 00:46:16,026
+<b><font face="Comic Sans MS">Victor. I'm sorry
+I didn't get a chance to call.</font></b>
+
+539
+00:46:16,860 --> 00:46:17,986
+<b><font face="Comic Sans MS">Please.</font></b>
+
+540
+00:46:18,654 --> 00:46:19,863
+<b><font face="Comic Sans MS">No apologies.</font></b>
+
+541
+00:46:20,823 --> 00:46:23,909
+<b><font face="Comic Sans MS">I've arranged for your things to be moved
+to one of my condos.</font></b>
+
+542
+00:46:24,117 --> 00:46:25,786
+<b><font face="Comic Sans MS">You'll have round-the-clock care.</font></b>
+
+543
+00:46:25,911 --> 00:46:28,038
+<b><font face="Comic Sans MS">Thank you. That's very generous of you.</font></b>
+
+544
+00:46:28,247 --> 00:46:30,916
+<b><font face="Comic Sans MS">But I think I should stay here
+with my brother...</font></b>
+
+545
+00:46:31,542 --> 00:46:33,502
+<b><font face="Comic Sans MS">until we get a handle on things.</font></b>
+
+546
+00:46:33,627 --> 00:46:36,713
+<b><font face="Comic Sans MS">Susan, I think you should let my doctors
+have a look at you.</font></b>
+
+547
+00:46:36,880 --> 00:46:39,633
+<b><font face="Comic Sans MS">Victor, what are you doing here?</font></b>
+
+548
+00:46:41,593 --> 00:46:43,804
+<b><font face="Comic Sans MS">I'm starting to wonder the same thing.</font></b>
+
+549
+00:46:45,430 --> 00:46:47,683
+<b><font face="Comic Sans MS">How much do you know
+about what happened to you?</font></b>
+
+550
+00:46:47,891 --> 00:46:48,892
+<b><font face="Comic Sans MS">Not much.</font></b>
+
+551
+00:46:49,101 --> 00:46:51,186
+<b><font face="Comic Sans MS">We need to run tests
+to see the extent of the damage.</font></b>
+
+552
+00:46:51,353 --> 00:46:54,815
+<b><font face="Comic Sans MS">Well, you let me know what I can do.
+We're all in this together now.</font></b>
+
+553
+00:47:04,199 --> 00:47:05,742
+<b><font face="Comic Sans MS">Victor, wait.</font></b>
+
+554
+00:47:07,244 --> 00:47:10,914
+<b><font face="Comic Sans MS">I just wanted to say I'm sorry
+the mission didn't go as planned.</font></b>
+
+555
+00:47:11,456 --> 00:47:14,168
+<b><font face="Comic Sans MS">Didn't go as planned?
+It was a catastrophe.</font></b>
+
+556
+00:47:14,501 --> 00:47:16,628
+<b><font face="Comic Sans MS">You ruined the lives of four people.</font></b>
+
+557
+00:47:16,795 --> 00:47:19,464
+<b><font face="Comic Sans MS">With all due respect, we're both to blame.
+I told you to abort.</font></b>
+
+558
+00:47:19,673 --> 00:47:20,799
+<b><font face="Comic Sans MS">Abort?</font></b>
+
+559
+00:47:20,883 --> 00:47:23,969
+<b><font face="Comic Sans MS">I put my company, my name,
+billions of dollars on the line.</font></b>
+
+560
+00:47:24,261 --> 00:47:26,763
+<b><font face="Comic Sans MS">I will not let you make me look like a fool.</font></b>
+
+561
+00:47:27,014 --> 00:47:28,223
+<b><font face="Comic Sans MS">Victor, if we can understand...</font></b>
+
+562
+00:47:28,390 --> 00:47:31,518
+<b><font face="Comic Sans MS">I don't wanna understand it!
+This isn't one of your science projects!</font></b>
+
+563
+00:47:31,685 --> 00:47:34,021
+<b><font face="Comic Sans MS">I just wanna fix it. Fast!</font></b>
+
+564
+00:47:35,314 --> 00:47:37,024
+<b><font face="Comic Sans MS">Is there a problem?</font></b>
+
+565
+00:47:42,696 --> 00:47:43,739
+<b><font face="Comic Sans MS">No.</font></b>
+
+566
+00:47:45,073 --> 00:47:46,366
+<b><font face="Comic Sans MS">No problem, Ben.</font></b>
+
+567
+00:47:47,075 --> 00:47:50,662
+<b><font face="Comic Sans MS">Just pay your damn electric bill
+and get to work on finding a cure.</font></b>
+
+568
+00:48:25,739 --> 00:48:27,741
+<b><font face="Comic Sans MS">He's heating up from his core.</font></b>
+
+569
+00:48:27,866 --> 00:48:29,785
+<b><font face="Comic Sans MS">And his vitals are completely normal.</font></b>
+
+570
+00:48:29,952 --> 00:48:33,038
+<b><font face="Comic Sans MS">If we're going to identify
+the source of the mutation...</font></b>
+
+571
+00:48:33,163 --> 00:48:35,165
+<b><font face="Comic Sans MS">we need to isolate
+your recombinant DNA...</font></b>
+
+572
+00:48:35,457 --> 00:48:37,668
+<b><font face="Comic Sans MS">so we can activate positional genomes.</font></b>
+
+573
+00:48:37,835 --> 00:48:40,587
+<b><font face="Comic Sans MS">We have to do a physical
+in order to see what got zapped.</font></b>
+
+574
+00:48:40,838 --> 00:48:42,756
+<b><font face="Comic Sans MS">Why didn't you just say so?</font></b>
+
+575
+00:48:43,465 --> 00:48:45,884
+<b><font face="Comic Sans MS">His internal organs are completely solid.</font></b>
+
+576
+00:48:49,054 --> 00:48:50,556
+<b><font face="Comic Sans MS">How bad is it?</font></b>
+
+577
+00:48:51,056 --> 00:48:52,683
+<b><font face="Comic Sans MS">You know, I used to smoke.</font></b>
+
+578
+00:48:54,893 --> 00:48:56,812
+<b><font face="Comic Sans MS">It's not invisibility per se.</font></b>
+
+579
+00:48:57,020 --> 00:49:00,524
+<b><font face="Comic Sans MS">You should be able to bend light
+around other objects, even people...</font></b>
+
+580
+00:49:00,816 --> 00:49:03,485
+<b><font face="Comic Sans MS">if you could control
+your emotional state better.</font></b>
+
+581
+00:49:03,694 --> 00:49:04,778
+<b><font face="Comic Sans MS">Excuse me?</font></b>
+
+582
+00:49:04,945 --> 00:49:08,282
+<b><font face="Comic Sans MS">I'm saying, if you had a little more
+self-control, you could locate the trigger.</font></b>
+
+583
+00:49:08,532 --> 00:49:11,618
+<b><font face="Comic Sans MS">Can you remember your exact emotions
+on the bridge?</font></b>
+
+584
+00:49:11,827 --> 00:49:12,995
+<b><font face="Comic Sans MS">Anger.</font></b>
+
+585
+00:49:13,829 --> 00:49:14,955
+<b><font face="Comic Sans MS">Rage.</font></b>
+
+586
+00:49:15,664 --> 00:49:16,832
+<b><font face="Comic Sans MS">Frustration.</font></b>
+
+587
+00:49:16,957 --> 00:49:19,251
+<b><font face="Comic Sans MS">Okay. Is there any way
+to duplicate that feeling?</font></b>
+
+588
+00:49:19,459 --> 00:49:21,128
+<b><font face="Comic Sans MS">Some memory or...</font></b>
+
+589
+00:49:22,379 --> 00:49:24,590
+<b><font face="Comic Sans MS">I'm sure I can come up with something.</font></b>
+
+590
+00:49:24,756 --> 00:49:27,050
+<b><font face="Comic Sans MS">- You feel anything?
+- Nope.</font></b>
+
+591
+00:49:28,260 --> 00:49:29,344
+<b><font face="Comic Sans MS">Okay.</font></b>
+
+592
+00:49:35,684 --> 00:49:37,477
+<b><font face="Comic Sans MS">It's hotter than I anticipated.</font></b>
+
+593
+00:49:37,603 --> 00:49:40,063
+<b><font face="Comic Sans MS"><i>- Okay, Johnny, back it down.
+- I can go hotter!</i></font></b>
+
+594
+00:49:40,481 --> 00:49:42,149
+<b><font face="Comic Sans MS"><i>Johnny, just back it down. </i></font></b>
+
+595
+00:49:51,867 --> 00:49:54,244
+<b><font face="Comic Sans MS">- Johnny, back it down right now!
+- Johnny!</font></b>
+
+596
+00:50:00,292 --> 00:50:03,795
+<b><font face="Comic Sans MS">Buzz kill!
+You guys are cramping my style.</font></b>
+
+597
+00:50:04,087 --> 00:50:06,256
+<b><font face="Comic Sans MS">Johnny, you were at 4,000 Kelvin.</font></b>
+
+598
+00:50:06,465 --> 00:50:08,634
+<b><font face="Comic Sans MS">Any hotter
+and you're approaching supernova.</font></b>
+
+599
+00:50:08,800 --> 00:50:10,719
+<b><font face="Comic Sans MS">- Sweet!
+- No, not sweet!</font></b>
+
+600
+00:50:10,928 --> 00:50:12,638
+<b><font face="Comic Sans MS">That's the temperature of the sun.</font></b>
+
+601
+00:50:12,804 --> 00:50:14,515
+<b><font face="Comic Sans MS">Not only could you kill yourself...</font></b>
+
+602
+00:50:14,640 --> 00:50:16,308
+<b><font face="Comic Sans MS">but you could set fire
+to Earth's atmosphere...</font></b>
+
+603
+00:50:16,475 --> 00:50:18,477
+<b><font face="Comic Sans MS">and destroy all human life as we know it.</font></b>
+
+604
+00:50:18,602 --> 00:50:21,480
+<b><font face="Comic Sans MS">Got it. Supernova: Bad.</font></b>
+
+605
+00:50:28,737 --> 00:50:30,322
+<b><font face="Comic Sans MS">How's that coming?</font></b>
+
+606
+00:50:37,496 --> 00:50:39,832
+<b><font face="Comic Sans MS">- I'm so sorry. Are you okay?
+- Yeah, fine.</font></b>
+
+607
+00:50:39,957 --> 00:50:41,542
+<b><font face="Comic Sans MS">- You sure?
+- Yeah.</font></b>
+
+608
+00:50:41,708 --> 00:50:42,918
+<b><font face="Comic Sans MS">I...</font></b>
+
+609
+00:50:44,294 --> 00:50:47,339
+<b><font face="Comic Sans MS">You probably thought
+that was some form of latent hostility.</font></b>
+
+610
+00:50:47,631 --> 00:50:50,008
+<b><font face="Comic Sans MS">What in the world
+would give me that idea?</font></b>
+
+611
+00:50:55,597 --> 00:50:57,641
+<b><font face="Comic Sans MS">I mean, you broke up with me, right?</font></b>
+
+612
+00:50:58,392 --> 00:50:59,685
+<b><font face="Comic Sans MS">- Are you kidding?
+- No.</font></b>
+
+613
+00:50:59,893 --> 00:51:02,563
+<b><font face="Comic Sans MS">I distinctly remember,
+you walked out my door, ergo...</font></b>
+
+614
+00:51:02,813 --> 00:51:05,774
+<b><font face="Comic Sans MS">I was ready for the next step, you weren't.
+Ergo, I walked.</font></b>
+
+615
+00:51:06,024 --> 00:51:07,985
+<b><font face="Comic Sans MS">I think it was a little bit more
+complicated than that.</font></b>
+
+616
+00:51:08,193 --> 00:51:11,947
+<b><font face="Comic Sans MS">I just wanted to share an apartment.
+What was so complicated about that?</font></b>
+
+617
+00:51:12,614 --> 00:51:15,325
+<b><font face="Comic Sans MS">- There were a lot of variables to consider.
+- No, there weren't.</font></b>
+
+618
+00:51:15,534 --> 00:51:19,413
+<b><font face="Comic Sans MS">There was you and me.
+There were no variables, no math.</font></b>
+
+619
+00:51:19,621 --> 00:51:21,832
+<b><font face="Comic Sans MS">It was actually
+the simplest thing in the world.</font></b>
+
+620
+00:51:21,915 --> 00:51:23,750
+<b><font face="Comic Sans MS">But like always, Reed,
+your head got in the way.</font></b>
+
+621
+00:51:23,876 --> 00:51:25,878
+<b><font face="Comic Sans MS">- No, it didn't.
+- Then what was it?</font></b>
+
+622
+00:51:29,506 --> 00:51:31,508
+<b><font face="Comic Sans MS">Did you feel anything when I left?</font></b>
+
+623
+00:51:33,844 --> 00:51:35,804
+<b><font face="Comic Sans MS">Do you feel anything right now?</font></b>
+
+624
+00:51:38,599 --> 00:51:39,725
+<b><font face="Comic Sans MS">Hey, guys.</font></b>
+
+625
+00:51:42,186 --> 00:51:44,188
+<b><font face="Comic Sans MS">I think we have a serious problem.</font></b>
+
+626
+00:51:57,993 --> 00:51:59,578
+<b><font face="Comic Sans MS">So what's the prognosis?</font></b>
+
+627
+00:52:00,037 --> 00:52:04,249
+<b><font face="Comic Sans MS">Your tissue, your organs, your entire
+biophysical structure is changing.</font></b>
+
+628
+00:52:04,500 --> 00:52:06,877
+<b><font face="Comic Sans MS">Every system is still functioning somehow.</font></b>
+
+629
+00:52:07,503 --> 00:52:09,046
+<b><font face="Comic Sans MS">And it's changing into?</font></b>
+
+630
+00:52:09,213 --> 00:52:10,714
+<b><font face="Comic Sans MS">I don't really know.</font></b>
+
+631
+00:52:10,756 --> 00:52:13,759
+<b><font face="Comic Sans MS">Some kind of organic-metallic alloy...</font></b>
+
+632
+00:52:14,384 --> 00:52:17,638
+<b><font face="Comic Sans MS">stronger than titanium or carbon steel,
+harder than diamonds.</font></b>
+
+633
+00:52:18,222 --> 00:52:20,599
+<b><font face="Comic Sans MS">Like the shields
+Reed said would protect us.</font></b>
+
+634
+00:52:26,104 --> 00:52:27,314
+<b><font face="Comic Sans MS">How long?</font></b>
+
+635
+00:52:27,439 --> 00:52:31,026
+<b><font face="Comic Sans MS">At this rate, the infection could be
+complete in 2, maybe 3 weeks.</font></b>
+
+636
+00:52:31,235 --> 00:52:32,653
+<b><font face="Comic Sans MS">What do you mean complete?</font></b>
+
+637
+00:52:32,861 --> 00:52:34,404
+<b><font face="Comic Sans MS">I wish I could tell you.</font></b>
+
+638
+00:52:34,530 --> 00:52:37,324
+<b><font face="Comic Sans MS">I can't pretend to know
+what we're dealing with here.</font></b>
+
+639
+00:52:38,700 --> 00:52:40,702
+<b><font face="Comic Sans MS">I'll have to notify the CDC.</font></b>
+
+640
+00:52:40,911 --> 00:52:42,663
+<b><font face="Comic Sans MS">- What?
+- Centre for Disease Control.</font></b>
+
+641
+00:52:42,830 --> 00:52:43,831
+<b><font face="Comic Sans MS">I know what it is.</font></b>
+
+642
+00:52:43,956 --> 00:52:47,167
+<b><font face="Comic Sans MS">If this thing is contagious, we may have
+a big problem on our hands.</font></b>
+
+643
+00:52:47,417 --> 00:52:49,628
+<b><font face="Comic Sans MS">We're talking about an epidemic here.</font></b>
+
+644
+00:52:50,462 --> 00:52:51,588
+<b><font face="Comic Sans MS">Look at me.</font></b>
+
+645
+00:52:53,757 --> 00:52:54,925
+<b><font face="Comic Sans MS">I have a life.</font></b>
+
+646
+00:52:55,676 --> 00:52:57,970
+<b><font face="Comic Sans MS">I'm the face of a billion-dollar company.</font></b>
+
+647
+00:52:59,596 --> 00:53:02,140
+<b><font face="Comic Sans MS">We need to keep this confidential.</font></b>
+
+648
+00:53:02,349 --> 00:53:06,520
+<b><font face="Comic Sans MS">Victor, this disease is progressive,
+degenerative. I have to notify someone...</font></b>
+
+649
+00:53:07,396 --> 00:53:08,814
+<b><font face="Comic Sans MS">That's terrible news.</font></b>
+
+650
+00:53:16,864 --> 00:53:18,782
+<b><font face="Comic Sans MS">But I think I'll get a second opinion.</font></b>
+
+651
+00:53:48,604 --> 00:53:51,023
+<b><font face="Comic Sans MS">Our uniforms were exposed
+to the storm, like us.</font></b>
+
+652
+00:53:51,231 --> 00:53:53,025
+<b><font face="Comic Sans MS">So they can transform like us.</font></b>
+
+653
+00:53:53,442 --> 00:53:56,904
+<b><font face="Comic Sans MS">Becoming invisible, changing size on
+demand or remaining impervious to flame.</font></b>
+
+654
+00:53:57,196 --> 00:53:59,281
+<b><font face="Comic Sans MS">You guys look like an '80s rock band.</font></b>
+
+655
+00:53:59,490 --> 00:54:01,700
+<b><font face="Comic Sans MS">You know, Ben, this material stretches.</font></b>
+
+656
+00:54:01,950 --> 00:54:04,244
+<b><font face="Comic Sans MS">I'm sure I can figure out a way
+to make it fit.</font></b>
+
+657
+00:54:04,578 --> 00:54:06,330
+<b><font face="Comic Sans MS">I wouldn't be caught dead wearing that.</font></b>
+
+658
+00:54:06,497 --> 00:54:09,583
+<b><font face="Comic Sans MS">I love these costumes. They're missing
+something, though. Needs, like, spice.</font></b>
+
+659
+00:54:09,917 --> 00:54:10,959
+<b><font face="Comic Sans MS">They're not costumes.</font></b>
+
+660
+00:54:11,084 --> 00:54:13,337
+<b><font face="Comic Sans MS">You can't use your powers in public,
+Johnny.</font></b>
+
+661
+00:54:13,587 --> 00:54:16,715
+<b><font face="Comic Sans MS">- You guys are worse than NASA.
+- You could burn somebody.</font></b>
+
+662
+00:54:16,882 --> 00:54:18,926
+<b><font face="Comic Sans MS">Maybe it's missing a utility belt.</font></b>
+
+663
+00:54:24,431 --> 00:54:25,807
+<b><font face="Comic Sans MS">Here you go, there's your change.</font></b>
+
+664
+00:54:27,643 --> 00:54:29,144
+<b><font face="Comic Sans MS">Can I help you, buddy?</font></b>
+
+665
+00:54:29,812 --> 00:54:32,481
+<b><font face="Comic Sans MS">- Oh, my.
+- It's Sue Storm, it's the Invisible Woman!</font></b>
+
+666
+00:54:32,689 --> 00:54:35,692
+<b><font face="Comic Sans MS">Sue Storm, it is you.
+Listen, my kid loves you!</font></b>
+
+667
+00:54:44,451 --> 00:54:46,620
+<b><font face="Comic Sans MS">I can't believe I'm doing this again.</font></b>
+
+668
+00:54:55,504 --> 00:54:57,965
+<b><font face="Comic Sans MS">Reed, we really can't go outside anymore.</font></b>
+
+669
+00:54:58,131 --> 00:55:00,342
+<b><font face="Comic Sans MS"><i>We are on the cover of every publication
+from People... </i></font></b>
+
+670
+00:55:00,551 --> 00:55:04,263
+<b><font face="Comic Sans MS">All right, I'm here, let's make this quick.
+I got a lot of places to go today.</font></b>
+
+671
+00:55:04,555 --> 00:55:07,182
+<b><font face="Comic Sans MS">Oh, wait. I don't go anywhere.</font></b>
+
+672
+00:55:07,391 --> 00:55:10,811
+<b><font face="Comic Sans MS">Johnny, it's imperative that we stay inside
+for the foreseeable future.</font></b>
+
+673
+00:55:11,061 --> 00:55:14,189
+<b><font face="Comic Sans MS">I know, but when you said that last time,
+my brain heard "a week."</font></b>
+
+674
+00:55:14,356 --> 00:55:16,483
+<b><font face="Comic Sans MS">Johnny, it's too dangerous
+for you to be in public.</font></b>
+
+675
+00:55:16,692 --> 00:55:17,943
+<b><font face="Comic Sans MS">You've been saying that for years.</font></b>
+
+676
+00:55:18,110 --> 00:55:20,237
+<b><font face="Comic Sans MS">What worries me is
+that our powers are evolving.</font></b>
+
+677
+00:55:20,404 --> 00:55:22,114
+<b><font face="Comic Sans MS">I know!</font></b>
+
+678
+00:55:22,656 --> 00:55:25,242
+<b><font face="Comic Sans MS">I am so close to flying, guys, I can taste it.</font></b>
+
+679
+00:55:25,450 --> 00:55:27,244
+<b><font face="Comic Sans MS">- You can't fly.
+- Yet.</font></b>
+
+680
+00:55:27,452 --> 00:55:29,496
+<b><font face="Comic Sans MS">Johnny, can you put that napkin out?</font></b>
+
+681
+00:55:29,705 --> 00:55:30,831
+<b><font face="Comic Sans MS">Jesus.</font></b>
+
+682
+00:55:32,124 --> 00:55:35,043
+<b><font face="Comic Sans MS">So what's going on, Reed?
+How're you going to cure us?</font></b>
+
+683
+00:55:35,335 --> 00:55:38,088
+<b><font face="Comic Sans MS">I'm going to build a machine
+to recreate the storm.</font></b>
+
+684
+00:55:38,714 --> 00:55:42,176
+<b><font face="Comic Sans MS">The cosmic rays will travel
+from this generator to this chamber.</font></b>
+
+685
+00:55:42,426 --> 00:55:43,719
+<b><font face="Comic Sans MS">What, no pop-ups?</font></b>
+
+686
+00:55:44,052 --> 00:55:47,890
+<b><font face="Comic Sans MS">- If I can reverse the wave signal...
+- It'll return us back to normal.</font></b>
+
+687
+00:55:51,602 --> 00:55:53,437
+<b><font face="Comic Sans MS">Right. But what are the risks?</font></b>
+
+688
+00:55:53,604 --> 00:55:57,316
+<b><font face="Comic Sans MS">Even a small miscalculation could increase
+our symptoms exponentially...</font></b>
+
+689
+00:55:57,733 --> 00:55:59,067
+<b><font face="Comic Sans MS">or perhaps even kill us.</font></b>
+
+690
+00:55:59,193 --> 00:56:01,737
+<b><font face="Comic Sans MS">Now, dying. That's bad, right?</font></b>
+
+691
+00:56:02,362 --> 00:56:04,406
+<b><font face="Comic Sans MS">I say we just let sleeping dogs lie, guys.</font></b>
+
+692
+00:56:04,656 --> 00:56:06,950
+<b><font face="Comic Sans MS">So how long
+till this contraption's up and running?</font></b>
+
+693
+00:56:07,117 --> 00:56:08,994
+<b><font face="Comic Sans MS">- I don't know, it's hard to say.
+- How long, Reed?</font></b>
+
+694
+00:56:09,119 --> 00:56:10,913
+<b><font face="Comic Sans MS">- I don't know.
+- You don't know?</font></b>
+
+695
+00:56:11,038 --> 00:56:14,082
+<b><font face="Comic Sans MS">- You don't want this to get worse.
+- Worse than that?</font></b>
+
+696
+00:56:14,333 --> 00:56:18,754
+<b><font face="Comic Sans MS">Guys, look, we're gonna be stuck here
+for a while, so let's just try and get along.</font></b>
+
+697
+00:56:35,145 --> 00:56:37,147
+<b><font face="Comic Sans MS">- You could knock!
+- Sorry!</font></b>
+
+698
+00:57:12,724 --> 00:57:14,226
+<b><font face="Comic Sans MS">Johnny!</font></b>
+
+699
+00:57:18,355 --> 00:57:21,942
+<b><font face="Comic Sans MS"><i>More bad news for Von Doom Industries
+today as Ned Cecil announced... </i></font></b>
+
+700
+00:57:22,192 --> 00:57:24,361
+<b><font face="Comic Sans MS"><i>that his group of investors
+would seek to gain control... </i></font></b>
+
+701
+00:57:24,570 --> 00:57:26,989
+<b><font face="Comic Sans MS"><i>of Victor Von Doom's numerous
+technology companies. </i></font></b>
+
+702
+00:57:27,156 --> 00:57:29,283
+<b><font face="Comic Sans MS"><i>Earlier, the IPO was pulled
+from the market... </i></font></b>
+
+703
+00:57:29,491 --> 00:57:32,119
+<b><font face="Comic Sans MS"><i>after the steady decline
+of its projected opening price. </i></font></b>
+
+704
+00:57:32,369 --> 00:57:36,290
+<b><font face="Comic Sans MS"><i>Von Doom Industries was never able
+to overcome the negative publicity... </i></font></b>
+
+705
+00:57:58,479 --> 00:57:59,480
+<b><font face="Comic Sans MS">Interesting.</font></b>
+
+706
+00:58:26,089 --> 00:58:27,090
+<b><font face="Comic Sans MS">Hello?</font></b>
+
+707
+00:58:32,971 --> 00:58:34,097
+<b><font face="Comic Sans MS">Victor?</font></b>
+
+708
+00:58:37,392 --> 00:58:39,311
+<b><font face="Comic Sans MS">What's with these lights, huh?</font></b>
+
+709
+00:58:39,561 --> 00:58:42,564
+<b><font face="Comic Sans MS">About the IPO, no hard feelings, right?</font></b>
+
+710
+00:58:43,690 --> 00:58:44,942
+<b><font face="Comic Sans MS">Nothing personal.</font></b>
+
+711
+00:58:49,488 --> 00:58:53,408
+<b><font face="Comic Sans MS">You know, you could always move back
+to Latveria.</font></b>
+
+712
+00:58:54,243 --> 00:58:55,494
+<b><font face="Comic Sans MS">Start fresh.</font></b>
+
+713
+00:58:56,119 --> 00:58:58,997
+<b><font face="Comic Sans MS">Maybe that's where you belong,
+the old country.</font></b>
+
+714
+00:59:14,471 --> 00:59:15,973
+<b><font face="Comic Sans MS">Nothing personal, Ned.</font></b>
+
+715
+00:59:17,516 --> 00:59:19,226
+<b><font face="Comic Sans MS">But I'm not going anywhere.</font></b>
+
+716
+00:59:32,489 --> 00:59:35,075
+<b><font face="Comic Sans MS"><i>... assassinated the competition
+everywhere this season. </i></font></b>
+
+717
+00:59:35,159 --> 00:59:39,204
+<b><font face="Comic Sans MS"><i>Truly unbelievable.
+The crowd is going nuts here at the arena. </i></font></b>
+
+718
+00:59:39,538 --> 00:59:42,833
+<b><font face="Comic Sans MS"><i>I tell you, if there's anybody out there
+who can do what these guys do... </i></font></b>
+
+719
+00:59:42,958 --> 00:59:45,752
+<b><font face="Comic Sans MS"><i>we dare you to come on down here.
+Look at this spread-eagle... </i></font></b>
+
+720
+00:59:45,878 --> 00:59:48,505
+<b><font face="Comic Sans MS"><i>no arm, back of the seat.
+Motorbike grab, landed... </i></font></b>
+
+721
+00:59:48,714 --> 00:59:50,007
+<b><font face="Comic Sans MS">I got to get out of here.</font></b>
+
+722
+01:00:09,151 --> 01:00:11,403
+<b><font face="Comic Sans MS">Hey, pretty boy, let's see what you got.</font></b>
+
+723
+01:00:16,158 --> 01:00:18,577
+<b><font face="Comic Sans MS">Where's your hot sister and the monster?</font></b>
+
+724
+01:00:21,872 --> 01:00:22,873
+<b><font face="Comic Sans MS">Let's go!</font></b>
+
+725
+01:00:40,474 --> 01:00:41,558
+<b><font face="Comic Sans MS"><i>All right. </i></font></b>
+
+726
+01:00:41,642 --> 01:00:45,270
+<b><font face="Comic Sans MS"><i>I want you all to make a lot of noise
+now for a very special guest. </i></font></b>
+
+727
+01:00:45,813 --> 01:00:49,233
+<b><font face="Comic Sans MS"><i>Mr. Johnny Storm
+from The Fantastic Four!</i></font></b>
+
+728
+01:00:55,739 --> 01:00:57,199
+<b><font face="Comic Sans MS"><i>Look at that lift!</i></font></b>
+
+729
+01:01:02,955 --> 01:01:04,581
+<b><font face="Comic Sans MS"><i>That was fantastic!</i></font></b>
+
+730
+01:01:05,791 --> 01:01:08,794
+<b><font face="Comic Sans MS"><i>But, Johnny, come on. That's old school. </i></font></b>
+
+731
+01:01:09,002 --> 01:01:10,796
+<b><font face="Comic Sans MS"><i>Show us something new. </i></font></b>
+
+732
+01:01:12,923 --> 01:01:14,174
+<b><font face="Comic Sans MS">Something new.</font></b>
+
+733
+01:01:15,175 --> 01:01:16,343
+<b><font face="Comic Sans MS">You got it.</font></b>
+
+734
+01:01:25,185 --> 01:01:26,854
+<b><font face="Comic Sans MS"><i>Come on, Johnny, come on!</i></font></b>
+
+735
+01:01:27,479 --> 01:01:28,981
+<b><font face="Comic Sans MS"><i>Is he flying?</i></font></b>
+
+736
+01:01:29,815 --> 01:01:31,024
+<b><font face="Comic Sans MS">Wait, no!</font></b>
+
+737
+01:01:41,160 --> 01:01:43,370
+<b><font face="Comic Sans MS">That's dangerous.</font></b>
+
+738
+01:01:46,456 --> 01:01:49,710
+<b><font face="Comic Sans MS">I'm okay, I'm all right, I'm good.</font></b>
+
+739
+01:01:50,002 --> 01:01:51,879
+<b><font face="Comic Sans MS"><i>He's okay! He's all right!</i></font></b>
+
+740
+01:01:52,171 --> 01:01:54,756
+<b><font face="Comic Sans MS"><i>Johnny Storm, ladies and gentlemen!</i></font></b>
+
+741
+01:01:55,883 --> 01:01:59,219
+<b><font face="Comic Sans MS"><i>I have to give you props, Johnny!
+You were on fire!</i></font></b>
+
+742
+01:02:10,063 --> 01:02:12,191
+<b><font face="Comic Sans MS">- He didn't.
+- Oh, yes, he did.</font></b>
+
+743
+01:02:12,816 --> 01:02:16,069
+<b><font face="Comic Sans MS">- Flame Boy never listens.
+- What did he do to his uniform?</font></b>
+
+744
+01:02:18,197 --> 01:02:20,365
+<b><font face="Comic Sans MS"><i>Johnny, I've gotta ask you
+about this outfit. </i></font></b>
+
+745
+01:02:20,574 --> 01:02:22,576
+<b><font face="Comic Sans MS">Yeah, it's sort of
+Armani meets astronaut.</font></b>
+
+746
+01:02:22,743 --> 01:02:24,453
+<b><font face="Comic Sans MS">So what are your superhero names?</font></b>
+
+747
+01:02:24,620 --> 01:02:27,873
+<b><font face="Comic Sans MS">They call me The Human Torch.
+Ladies call me Torch.</font></b>
+
+748
+01:02:28,540 --> 01:02:30,250
+<b><font face="Comic Sans MS">What about the rest of the team?</font></b>
+
+749
+01:02:30,459 --> 01:02:32,211
+<b><font face="Comic Sans MS"><i>- That's the Invisible Girl.
+- Girl?</i></font></b>
+
+750
+01:02:32,419 --> 01:02:35,672
+<b><font face="Comic Sans MS"><i>What about your leader, Reed Richards?
+I hear you call him Mr. Fantastic. </i></font></b>
+
+751
+01:02:35,839 --> 01:02:37,299
+<b><font face="Comic Sans MS">- Could've been worse.
+- I guess.</font></b>
+
+752
+01:02:37,466 --> 01:02:41,553
+<b><font face="Comic Sans MS"><i>Is it true what they say about him that
+he can expand any part of his anatomy?</i></font></b>
+
+753
+01:02:43,222 --> 01:02:45,808
+<b><font face="Comic Sans MS"><i>Well, I've always found him
+to be a little limp. </i></font></b>
+
+754
+01:02:47,476 --> 01:02:49,895
+<b><font face="Comic Sans MS">What is that?
+What do you call that thing?</font></b>
+
+755
+01:02:50,103 --> 01:02:51,939
+<b><font face="Comic Sans MS"><i>That's it. The Thing. </i></font></b>
+
+756
+01:02:52,064 --> 01:02:54,358
+<b><font face="Comic Sans MS"><i>Yeah, you think this is bad,
+you should have seen him before. </i></font></b>
+
+757
+01:02:54,566 --> 01:02:56,652
+<b><font face="Comic Sans MS">Okay. Now I'm gonna go kill him.</font></b>
+
+758
+01:03:04,785 --> 01:03:05,953
+<b><font face="Comic Sans MS">There he is.</font></b>
+
+759
+01:03:13,544 --> 01:03:15,295
+<b><font face="Comic Sans MS">- Johnny!
+- Can we talk about this later, guys?</font></b>
+
+760
+01:03:15,462 --> 01:03:17,631
+<b><font face="Comic Sans MS">- No. We can't talk about this later.
+- We can do this at home.</font></b>
+
+761
+01:03:17,756 --> 01:03:20,133
+<b><font face="Comic Sans MS">- What are you thinking?
+- Where's my ride?</font></b>
+
+762
+01:03:32,187 --> 01:03:33,438
+<b><font face="Comic Sans MS">You think that's funny, Pebbles?</font></b>
+
+763
+01:03:33,564 --> 01:03:34,606
+<b><font face="Comic Sans MS">- Johnny!
+- What?</font></b>
+
+764
+01:03:34,773 --> 01:03:36,900
+<b><font face="Comic Sans MS">You gave us names? You don't think.</font></b>
+
+765
+01:03:37,109 --> 01:03:39,194
+<b><font face="Comic Sans MS">So now you're the face
+of The Fantastic Four?</font></b>
+
+766
+01:03:39,361 --> 01:03:41,196
+<b><font face="Comic Sans MS">A face that's about to be broken!</font></b>
+
+767
+01:03:41,446 --> 01:03:42,865
+<b><font face="Comic Sans MS">Look, this isn't permanent, Johnny.</font></b>
+
+768
+01:03:43,031 --> 01:03:45,033
+<b><font face="Comic Sans MS">We need to be careful
+until we're normal again.</font></b>
+
+769
+01:03:45,200 --> 01:03:47,953
+<b><font face="Comic Sans MS">What if I don't wanna be normal?
+I didn't turn into a monster!</font></b>
+
+770
+01:03:48,579 --> 01:03:49,663
+<b><font face="Comic Sans MS">Ben!</font></b>
+
+771
+01:03:59,631 --> 01:04:00,924
+<b><font face="Comic Sans MS">Did you just...</font></b>
+
+772
+01:04:01,842 --> 01:04:02,843
+<b><font face="Comic Sans MS">Johnny, stop it.</font></b>
+
+773
+01:04:03,010 --> 01:04:04,845
+<b><font face="Comic Sans MS">- That's it, Tinkerbell!
+- No, Ben.</font></b>
+
+774
+01:04:05,095 --> 01:04:07,222
+<b><font face="Comic Sans MS">You wanna fly? Then fly!</font></b>
+
+775
+01:04:13,312 --> 01:04:16,690
+<b><font face="Comic Sans MS">Wait a minute, guys! Ben, don't do this!</font></b>
+
+776
+01:04:17,107 --> 01:04:19,151
+<b><font face="Comic Sans MS">Let's see if we can get blood
+from a stone.</font></b>
+
+777
+01:04:19,234 --> 01:04:21,195
+<b><font face="Comic Sans MS">Let's see. Bring it, burnout!</font></b>
+
+778
+01:04:21,403 --> 01:04:23,030
+<b><font face="Comic Sans MS">You two need a time-out!</font></b>
+
+779
+01:04:25,866 --> 01:04:27,409
+<b><font face="Comic Sans MS">Talk to blockhead, he started it.</font></b>
+
+780
+01:04:27,576 --> 01:04:30,120
+<b><font face="Comic Sans MS">I don't care. Damn it, Johnny.</font></b>
+
+781
+01:04:31,705 --> 01:04:32,873
+<b><font face="Comic Sans MS">Ben, wait!</font></b>
+
+782
+01:04:33,916 --> 01:04:34,958
+<b><font face="Comic Sans MS">What?</font></b>
+
+783
+01:04:37,669 --> 01:04:40,923
+<b><font face="Comic Sans MS">You need to control yourself
+and think before you act.</font></b>
+
+784
+01:04:41,131 --> 01:04:44,301
+<b><font face="Comic Sans MS">Yeah, but see, that's your problem.
+You always think, you never act.</font></b>
+
+785
+01:04:44,551 --> 01:04:47,888
+<b><font face="Comic Sans MS">What if we got these powers for a reason?
+What if it's like some higher calling?</font></b>
+
+786
+01:04:48,180 --> 01:04:50,390
+<b><font face="Comic Sans MS">A higher calling?
+Like getting girls and making money?</font></b>
+
+787
+01:04:50,516 --> 01:04:52,017
+<b><font face="Comic Sans MS">Is there any higher?</font></b>
+
+788
+01:04:52,267 --> 01:04:54,478
+<b><font face="Comic Sans MS">You know what, Reed?
+This is who we are.</font></b>
+
+789
+01:04:55,187 --> 01:04:56,188
+<b><font face="Comic Sans MS">Accept it.</font></b>
+
+790
+01:04:57,481 --> 01:04:59,733
+<b><font face="Comic Sans MS">Or better yet, enjoy it.</font></b>
+
+791
+01:05:04,112 --> 01:05:07,825
+<b><font face="Comic Sans MS">Wait, Ben, slow down. He didn't mean it.</font></b>
+
+792
+01:05:08,826 --> 01:05:10,786
+<b><font face="Comic Sans MS">You know Johnny.
+He's always been a hothead.</font></b>
+
+793
+01:05:10,953 --> 01:05:13,288
+<b><font face="Comic Sans MS">It ain't him. It's them!</font></b>
+
+794
+01:05:14,957 --> 01:05:16,500
+<b><font face="Comic Sans MS">I can't live like this.</font></b>
+
+795
+01:05:16,834 --> 01:05:19,127
+<b><font face="Comic Sans MS">Just give Reed a little more time.
+You know how he works.</font></b>
+
+796
+01:05:19,336 --> 01:05:21,630
+<b><font face="Comic Sans MS">Analyzing every little step
+before he takes one.</font></b>
+
+797
+01:05:21,797 --> 01:05:24,424
+<b><font face="Comic Sans MS">- It's easy for you to be patient.
+- No, it's not!</font></b>
+
+798
+01:05:25,425 --> 01:05:28,178
+<b><font face="Comic Sans MS">I thought I was done waiting for Reed,
+but I...</font></b>
+
+799
+01:05:31,431 --> 01:05:33,851
+<b><font face="Comic Sans MS">- We're all in this together, Ben.
+- Together?</font></b>
+
+800
+01:05:35,102 --> 01:05:38,397
+<b><font face="Comic Sans MS">Susie, look at me.
+You got no idea what I'd...</font></b>
+
+801
+01:05:41,441 --> 01:05:43,277
+<b><font face="Comic Sans MS">What I'd give to be invisible.</font></b>
+
+802
+01:05:59,293 --> 01:06:00,711
+<b><font face="Comic Sans MS">Thank you, gentlemen.</font></b>
+
+803
+01:06:02,171 --> 01:06:04,339
+<b><font face="Comic Sans MS">I'm just gonna pick up a few things...</font></b>
+
+804
+01:06:05,716 --> 01:06:07,176
+<b><font face="Comic Sans MS">for some friends.</font></b>
+
+805
+01:06:24,776 --> 01:06:25,986
+<b><font face="Comic Sans MS">Perfect.</font></b>
+
+806
+01:06:55,015 --> 01:06:56,433
+<b><font face="Comic Sans MS">That's not funny.</font></b>
+
+807
+01:06:57,434 --> 01:06:58,977
+<b><font face="Comic Sans MS">This is Ben Grimm here.</font></b>
+
+808
+01:06:59,186 --> 01:07:01,855
+<b><font face="Comic Sans MS">The first mook from Brooklyn
+to go into outer space.</font></b>
+
+809
+01:07:02,064 --> 01:07:03,732
+<b><font face="Comic Sans MS">So pay him some respect.</font></b>
+
+810
+01:07:03,941 --> 01:07:05,943
+<b><font face="Comic Sans MS">Just give me the usual and I'm out.</font></b>
+
+811
+01:07:06,109 --> 01:07:07,152
+<b><font face="Comic Sans MS">All right.</font></b>
+
+812
+01:07:08,237 --> 01:07:10,322
+<b><font face="Comic Sans MS">- Make it a double.
+- Make it a triple.</font></b>
+
+813
+01:07:12,991 --> 01:07:15,661
+<b><font face="Comic Sans MS">- Put it on my tab, Ernie.
+- All right, Alicia.</font></b>
+
+814
+01:07:15,911 --> 01:07:17,037
+<b><font face="Comic Sans MS">Appreciate it.</font></b>
+
+815
+01:07:17,621 --> 01:07:18,747
+<b><font face="Comic Sans MS">No problem.</font></b>
+
+816
+01:07:24,461 --> 01:07:25,462
+<b><font face="Comic Sans MS">It's okay, Ben.</font></b>
+
+817
+01:07:25,587 --> 01:07:27,923
+<b><font face="Comic Sans MS">If there's a God, he hates me.</font></b>
+
+818
+01:07:28,173 --> 01:07:30,759
+<b><font face="Comic Sans MS">She is not so into hate.</font></b>
+
+819
+01:07:32,886 --> 01:07:35,055
+<b><font face="Comic Sans MS">If you could see me,
+you wouldn't be saying that.</font></b>
+
+820
+01:07:35,264 --> 01:07:36,640
+<b><font face="Comic Sans MS">Then let me see you.</font></b>
+
+821
+01:07:37,891 --> 01:07:38,934
+<b><font face="Comic Sans MS">Can I?</font></b>
+
+822
+01:07:44,273 --> 01:07:45,482
+<b><font face="Comic Sans MS">- Careful.
+- It's okay.</font></b>
+
+823
+01:08:08,714 --> 01:08:10,007
+<b><font face="Comic Sans MS">So sad.</font></b>
+
+824
+01:08:13,886 --> 01:08:17,848
+<b><font face="Comic Sans MS">You know,
+being different isn't always a bad thing.</font></b>
+
+825
+01:08:19,808 --> 01:08:22,895
+<b><font face="Comic Sans MS">Trust me. This ain't one of them times.</font></b>
+
+826
+01:08:25,230 --> 01:08:27,149
+<b><font face="Comic Sans MS">Not if you don't want it to be.</font></b>
+
+827
+01:08:28,650 --> 01:08:31,236
+<b><font face="Comic Sans MS">- All right, Ernie, I'm out of here.
+- I'll take you.</font></b>
+
+828
+01:08:31,528 --> 01:08:33,030
+<b><font face="Comic Sans MS">See you later, Benny.</font></b>
+
+829
+01:08:40,370 --> 01:08:41,914
+<b><font face="Comic Sans MS">I'm Alicia, by the way.</font></b>
+
+830
+01:08:47,169 --> 01:08:48,378
+<b><font face="Comic Sans MS">Thanks, Ernie.</font></b>
+
+831
+01:08:57,971 --> 01:09:00,390
+<b><font face="Comic Sans MS">Reed got what he wanted.</font></b>
+
+832
+01:09:01,058 --> 01:09:02,768
+<b><font face="Comic Sans MS">And everything he wanted...</font></b>
+
+833
+01:09:03,977 --> 01:09:05,312
+<b><font face="Comic Sans MS">he took from me.</font></b>
+
+834
+01:09:10,734 --> 01:09:13,821
+<b><font face="Comic Sans MS">Now it's time to take it back.</font></b>
+
+835
+01:09:17,074 --> 01:09:20,994
+<b><font face="Comic Sans MS">But first,
+I need to get rid of his bodyguard.</font></b>
+
+836
+01:09:36,510 --> 01:09:37,803
+<b><font face="Comic Sans MS">This seat taken?</font></b>
+
+837
+01:09:39,054 --> 01:09:40,681
+<b><font face="Comic Sans MS">What are you doing here?</font></b>
+
+838
+01:09:42,099 --> 01:09:43,767
+<b><font face="Comic Sans MS">I was worried about you.</font></b>
+
+839
+01:09:44,309 --> 01:09:46,728
+<b><font face="Comic Sans MS">You were worried about me?
+That's sweet.</font></b>
+
+840
+01:09:47,437 --> 01:09:49,690
+<b><font face="Comic Sans MS">Come on.
+Let me buy you something to eat.</font></b>
+
+841
+01:09:52,151 --> 01:09:54,319
+<b><font face="Comic Sans MS">Looks like you could use the company.</font></b>
+
+842
+01:09:59,408 --> 01:10:00,409
+<b><font face="Comic Sans MS">Reed?</font></b>
+
+843
+01:10:07,749 --> 01:10:10,294
+<b><font face="Comic Sans MS">- I was just resting my eyes.
+- So I see.</font></b>
+
+844
+01:10:11,837 --> 01:10:14,047
+<b><font face="Comic Sans MS">The new readouts look very promising.</font></b>
+
+845
+01:10:14,548 --> 01:10:15,883
+<b><font face="Comic Sans MS">Not promising enough.</font></b>
+
+846
+01:10:16,008 --> 01:10:17,634
+<b><font face="Comic Sans MS">When are the next tests?</font></b>
+
+847
+01:10:18,927 --> 01:10:20,512
+<b><font face="Comic Sans MS">I've run out of plans.</font></b>
+
+848
+01:10:22,347 --> 01:10:24,057
+<b><font face="Comic Sans MS">So I was thinking maybe...</font></b>
+
+849
+01:10:26,560 --> 01:10:28,520
+<b><font face="Comic Sans MS">There's always me.</font></b>
+
+850
+01:10:28,896 --> 01:10:31,064
+<b><font face="Comic Sans MS">No. It's too soon.</font></b>
+
+851
+01:10:31,857 --> 01:10:33,817
+<b><font face="Comic Sans MS">- Reed?
+- I should get back to work.</font></b>
+
+852
+01:10:34,151 --> 01:10:36,528
+<b><font face="Comic Sans MS">- You need a break.
+- Sue, not now, please.</font></b>
+
+853
+01:10:37,029 --> 01:10:38,405
+<b><font face="Comic Sans MS">Come on. Let's go.</font></b>
+
+854
+01:10:40,073 --> 01:10:41,658
+<b><font face="Comic Sans MS">Remember this place?</font></b>
+
+855
+01:10:42,367 --> 01:10:44,661
+<b><font face="Comic Sans MS">Of course. This is where
+I first asked you out.</font></b>
+
+856
+01:10:44,912 --> 01:10:47,789
+<b><font face="Comic Sans MS">I think that it was me
+that asked you.</font></b>
+
+857
+01:10:48,207 --> 01:10:49,333
+<b><font face="Comic Sans MS">Right.</font></b>
+
+858
+01:10:52,044 --> 01:10:53,504
+<b><font face="Comic Sans MS">You can be a little intimidating.</font></b>
+
+859
+01:10:53,587 --> 01:10:56,006
+<b><font face="Comic Sans MS">You know a girl can grow old
+waiting for you to take charge.</font></b>
+
+860
+01:10:56,173 --> 01:10:59,051
+<b><font face="Comic Sans MS">- We can't be as bold as...
+- As who ? Victor ?</font></b>
+
+861
+01:11:01,261 --> 01:11:03,597
+<b><font face="Comic Sans MS">You know, there is no me and Victor.</font></b>
+
+862
+01:11:05,307 --> 01:11:05,933
+<b><font face="Comic Sans MS">Never was.</font></b>
+
+863
+01:11:08,477 --> 01:11:11,063
+<b><font face="Comic Sans MS">Well, I guess that's what
+I thought you always wanted.</font></b>
+
+864
+01:11:14,191 --> 01:11:15,359
+<b><font face="Comic Sans MS">A stronger man.</font></b>
+
+865
+01:11:21,114 --> 01:11:22,241
+<b><font face="Comic Sans MS">I did, Reed.</font></b>
+
+866
+01:11:22,991 --> 01:11:24,284
+<b><font face="Comic Sans MS">But I wanted you to be that man.</font></b>
+
+867
+01:11:25,244 --> 01:11:26,245
+<b><font face="Comic Sans MS">Why didn't you say so?</font></b>
+
+868
+01:11:28,288 --> 01:11:30,499
+<b><font face="Comic Sans MS">I guess, it, kind of, would
+have defeated the purpose.</font></b>
+
+869
+01:11:32,292 --> 01:11:35,254
+<b><font face="Comic Sans MS">But I'm saying it now.
+So take charge.</font></b>
+
+870
+01:11:45,347 --> 01:11:46,181
+<b><font face="Comic Sans MS">That's not fair.</font></b>
+
+871
+01:11:53,772 --> 01:11:54,815
+<b><font face="Comic Sans MS">Excuse me.</font></b>
+
+872
+01:11:59,528 --> 01:12:01,071
+<b><font face="Comic Sans MS">I know it's not easy.</font></b>
+
+873
+01:12:02,030 --> 01:12:04,616
+<b><font face="Comic Sans MS">Life hasn't changed that much for Reed,
+Sue, or Johnny.</font></b>
+
+874
+01:12:04,825 --> 01:12:07,452
+<b><font face="Comic Sans MS">At least they can still go out in public.
+But for you...</font></b>
+
+875
+01:12:07,619 --> 01:12:10,205
+<b><font face="Comic Sans MS">If you're trying to cheer me up,
+you're doing a hell of a job.</font></b>
+
+876
+01:12:10,455 --> 01:12:11,832
+<b><font face="Comic Sans MS">You know what I mean, Scarface?</font></b>
+
+877
+01:12:11,999 --> 01:12:14,710
+<b><font face="Comic Sans MS">I'm just saying I know what it's like
+to lose something that you love...</font></b>
+
+878
+01:12:14,877 --> 01:12:16,837
+<b><font face="Comic Sans MS">to see it slip away
+and know it's never coming back.</font></b>
+
+879
+01:12:16,962 --> 01:12:18,088
+<b><font face="Comic Sans MS">Look.</font></b>
+
+880
+01:12:18,881 --> 01:12:21,049
+<b><font face="Comic Sans MS">Reed is gonna fix me up, okay?</font></b>
+
+881
+01:12:22,885 --> 01:12:25,012
+<b><font face="Comic Sans MS">For your sake I hope you're right.</font></b>
+
+882
+01:12:25,596 --> 01:12:27,097
+<b><font face="Comic Sans MS">Look, he's a brilliant man.</font></b>
+
+883
+01:12:27,264 --> 01:12:30,225
+<b><font face="Comic Sans MS">We should all trust
+that he's working as hard as he can.</font></b>
+
+884
+01:12:30,893 --> 01:12:32,102
+<b><font face="Comic Sans MS">You're his best friend.</font></b>
+
+885
+01:12:32,269 --> 01:12:35,230
+<b><font face="Comic Sans MS">So what possible reason could he have
+for taking his time?</font></b>
+
+886
+01:12:38,233 --> 01:12:41,153
+<b><font face="Comic Sans MS">I mean, other than spending
+more time with Sue.</font></b>
+
+887
+01:12:44,990 --> 01:12:48,076
+<b><font face="Comic Sans MS">- Wow, I had no idea.
+- It's true.</font></b>
+
+888
+01:12:52,080 --> 01:12:53,207
+<b><font face="Comic Sans MS">Yeah.</font></b>
+
+889
+01:12:53,916 --> 01:12:55,709
+<b><font face="Comic Sans MS">I have that effect on people.</font></b>
+
+890
+01:12:57,336 --> 01:12:58,420
+<b><font face="Comic Sans MS">Ben.</font></b>
+
+891
+01:13:00,547 --> 01:13:02,633
+<b><font face="Comic Sans MS">So you remember my name now, do you?</font></b>
+
+892
+01:13:03,842 --> 01:13:07,137
+<b><font face="Comic Sans MS">Do you also remember
+what you swore to do...</font></b>
+
+893
+01:13:07,429 --> 01:13:09,181
+<b><font face="Comic Sans MS">with every breath in your body?</font></b>
+
+894
+01:13:09,348 --> 01:13:11,266
+<b><font face="Comic Sans MS">We're working as hard as we can.</font></b>
+
+895
+01:13:11,767 --> 01:13:13,769
+<b><font face="Comic Sans MS">Yeah. I can tell.</font></b>
+
+896
+01:13:15,562 --> 01:13:17,564
+<b><font face="Comic Sans MS">- Victor was right.
+- Victor?</font></b>
+
+897
+01:13:18,440 --> 01:13:21,610
+<b><font face="Comic Sans MS">Ben, I don't know if this thing
+will change us back or make us worse.</font></b>
+
+898
+01:13:21,860 --> 01:13:23,612
+<b><font face="Comic Sans MS">I need you to be patient
+for a little while longer.</font></b>
+
+899
+01:13:23,779 --> 01:13:24,780
+<b><font face="Comic Sans MS">Reed, look at me!</font></b>
+
+900
+01:13:24,947 --> 01:13:27,491
+<b><font face="Comic Sans MS">I am looking.
+That's why I can't make a mistake.</font></b>
+
+901
+01:13:27,741 --> 01:13:30,244
+<b><font face="Comic Sans MS">I've gotta get it right and it's not right yet!
+We need to test it!</font></b>
+
+902
+01:13:30,410 --> 01:13:33,413
+<b><font face="Comic Sans MS">I spent my whole life protecting you,
+and for what?</font></b>
+
+903
+01:13:33,622 --> 01:13:35,666
+<b><font face="Comic Sans MS">So you can play Twister
+with your girlfriend...</font></b>
+
+904
+01:13:35,833 --> 01:13:37,793
+<b><font face="Comic Sans MS">while I'm the freak of the week?</font></b>
+
+905
+01:13:38,919 --> 01:13:40,128
+<b><font face="Comic Sans MS">Ben, stop it!</font></b>
+
+906
+01:13:40,796 --> 01:13:43,507
+<b><font face="Comic Sans MS">- You stay out of this, Susie!
+- Stop it, or I will.</font></b>
+
+907
+01:13:44,842 --> 01:13:46,635
+<b><font face="Comic Sans MS">Get off me, rubber boy!</font></b>
+
+908
+01:13:47,386 --> 01:13:48,929
+<b><font face="Comic Sans MS">You guys, quit it.</font></b>
+
+909
+01:14:05,529 --> 01:14:07,281
+<b><font face="Comic Sans MS">Calm down!</font></b>
+
+910
+01:14:21,837 --> 01:14:24,882
+<b><font face="Comic Sans MS">Good thing you're flexible enough
+to watch your own back.</font></b>
+
+911
+01:14:33,015 --> 01:14:35,017
+<b><font face="Comic Sans MS">'Cause I ain't doing it no more.</font></b>
+
+912
+01:14:38,687 --> 01:14:40,272
+<b><font face="Comic Sans MS">You two are on your own.</font></b>
+
+913
+01:14:52,326 --> 01:14:53,785
+<b><font face="Comic Sans MS">Look what the marketing guys gave me.</font></b>
+
+914
+01:14:53,911 --> 01:14:56,038
+<b><font face="Comic Sans MS">Look, check it out, listen.
+You're gonna love this.</font></b>
+
+915
+01:14:56,205 --> 01:14:58,582
+<b><font face="Comic Sans MS"><i>It's clobbering time!</i></font></b>
+
+916
+01:14:58,916 --> 01:15:00,250
+<b><font face="Comic Sans MS">It's catchy, right?</font></b>
+
+917
+01:15:02,294 --> 01:15:03,629
+<b><font face="Comic Sans MS">Isn't that great?</font></b>
+
+918
+01:15:06,632 --> 01:15:08,342
+<b><font face="Comic Sans MS">That was the prototype.</font></b>
+
+919
+01:15:15,474 --> 01:15:18,435
+<b><font face="Comic Sans MS">- Johnny, have you seen Ben?
+- Yeah, Sunshine just left.</font></b>
+
+920
+01:15:18,644 --> 01:15:21,230
+<b><font face="Comic Sans MS">Look, Sue, I'm sorry.
+I can't stand this freak show.</font></b>
+
+921
+01:15:21,355 --> 01:15:24,566
+<b><font face="Comic Sans MS">- I gotta get back to the real world.
+- You're calling that the real world?</font></b>
+
+922
+01:15:24,775 --> 01:15:27,736
+<b><font face="Comic Sans MS">Sue, stop. You're not Mum.
+Don't talk to me like I'm a little boy, okay?</font></b>
+
+923
+01:15:27,986 --> 01:15:30,113
+<b><font face="Comic Sans MS">Maybe I would
+if you stopped acting like one.</font></b>
+
+924
+01:15:30,322 --> 01:15:33,075
+<b><font face="Comic Sans MS">Do you even hear yourself?
+Who do you think you are?</font></b>
+
+925
+01:15:33,325 --> 01:15:36,078
+<b><font face="Comic Sans MS">Why is everyone on my ass?
+If you guys are jealous, that's fine.</font></b>
+
+926
+01:15:36,286 --> 01:15:37,830
+<b><font face="Comic Sans MS">I didn't expect it
+to come from you, though.</font></b>
+
+927
+01:15:37,955 --> 01:15:40,624
+<b><font face="Comic Sans MS">You really think those people out there
+care about you?</font></b>
+
+928
+01:15:40,833 --> 01:15:42,334
+<b><font face="Comic Sans MS">You're just a fad to them, Johnny!</font></b>
+
+929
+01:15:42,501 --> 01:15:45,629
+<b><font face="Comic Sans MS">Let's try something new.
+You live your life, I'll live mine.</font></b>
+
+930
+01:15:47,798 --> 01:15:48,924
+<b><font face="Comic Sans MS">Sound good?</font></b>
+
+931
+01:15:51,385 --> 01:15:53,846
+<b><font face="Comic Sans MS">And just for the record, they love me!</font></b>
+
+932
+01:16:39,099 --> 01:16:40,767
+<b><font face="Comic Sans MS">Oh, God. Reed.</font></b>
+
+933
+01:17:22,309 --> 01:17:24,311
+<b><font face="Comic Sans MS">Oh, my God, Reed. What did you do?</font></b>
+
+934
+01:17:24,728 --> 01:17:26,563
+<b><font face="Comic Sans MS">- I can make it work.
+- No!</font></b>
+
+935
+01:17:26,730 --> 01:17:30,275
+<b><font face="Comic Sans MS">I need more power to control the storm.</font></b>
+
+936
+01:17:30,567 --> 01:17:31,735
+<b><font face="Comic Sans MS">More power?</font></b>
+
+937
+01:17:31,902 --> 01:17:34,196
+<b><font face="Comic Sans MS"><i>- You need a doctor. Come with me.
+- Sue. </i></font></b>
+
+938
+01:17:35,239 --> 01:17:36,949
+<b><font face="Comic Sans MS"><i>- One more try...
+- You need to rest. </i></font></b>
+
+939
+01:17:37,115 --> 01:17:40,577
+<b><font face="Comic Sans MS">Leonard, bring me our lab rat.</font></b>
+
+940
+01:17:45,207 --> 01:17:47,251
+<b><font face="Comic Sans MS">Ben. Come in.</font></b>
+
+941
+01:17:48,919 --> 01:17:50,963
+<b><font face="Comic Sans MS">What is this? Where's Reed?</font></b>
+
+942
+01:17:51,129 --> 01:17:53,549
+<b><font face="Comic Sans MS">Where do you think? With Sue.</font></b>
+
+943
+01:17:54,800 --> 01:17:56,718
+<b><font face="Comic Sans MS">I'll take it from here, Leonard.</font></b>
+
+944
+01:17:58,011 --> 01:17:59,012
+<b><font face="Comic Sans MS">Yes, sir.</font></b>
+
+945
+01:18:04,226 --> 01:18:05,686
+<b><font face="Comic Sans MS">What do you want, Vic?</font></b>
+
+946
+01:18:05,978 --> 01:18:07,020
+<b><font face="Comic Sans MS">To help you.</font></b>
+
+947
+01:18:08,188 --> 01:18:10,774
+<b><font face="Comic Sans MS">The machine is ready.</font></b>
+
+948
+01:18:11,316 --> 01:18:12,651
+<b><font face="Comic Sans MS">But Reed said it wouldn't...</font></b>
+
+949
+01:18:12,776 --> 01:18:14,987
+<b><font face="Comic Sans MS">He also said we'd avoid
+that storm in space...</font></b>
+
+950
+01:18:15,154 --> 01:18:17,281
+<b><font face="Comic Sans MS">but we all know how that turned out.</font></b>
+
+951
+01:18:17,823 --> 01:18:21,577
+<b><font face="Comic Sans MS">He couldn't generate enough power
+for the machine to reach critical mass.</font></b>
+
+952
+01:18:21,994 --> 01:18:25,164
+<b><font face="Comic Sans MS">Yet another mistake for Mr. Fantastic.</font></b>
+
+953
+01:18:25,956 --> 01:18:27,958
+<b><font face="Comic Sans MS">- And you can?
+- Yes.</font></b>
+
+954
+01:18:32,254 --> 01:18:33,255
+<b><font face="Comic Sans MS">Tell me...</font></b>
+
+955
+01:18:35,132 --> 01:18:37,259
+<b><font face="Comic Sans MS">do you want to be Ben Grimm again?</font></b>
+
+956
+01:20:22,573 --> 01:20:23,657
+<b><font face="Comic Sans MS">Thank you.</font></b>
+
+957
+01:20:26,201 --> 01:20:27,327
+<b><font face="Comic Sans MS">Vic?</font></b>
+
+958
+01:20:42,342 --> 01:20:43,552
+<b><font face="Comic Sans MS">Vic, it worked.</font></b>
+
+959
+01:20:51,143 --> 01:20:53,770
+<b><font face="Comic Sans MS">Everyone thought I was safe
+behind those shields.</font></b>
+
+960
+01:20:56,732 --> 01:20:57,983
+<b><font face="Comic Sans MS">Oh, my God.</font></b>
+
+961
+01:20:59,359 --> 01:21:01,945
+<b><font face="Comic Sans MS">The machine worked for me.
+It can work for you, too!</font></b>
+
+962
+01:21:02,154 --> 01:21:05,157
+<b><font face="Comic Sans MS">It did, Ben. It worked perfectly.</font></b>
+
+963
+01:21:07,576 --> 01:21:10,370
+<b><font face="Comic Sans MS">- You planned this.
+- I've always wanted power.</font></b>
+
+964
+01:21:11,121 --> 01:21:14,791
+<b><font face="Comic Sans MS">Now I have an unlimited supply.</font></b>
+
+965
+01:21:15,459 --> 01:21:17,294
+<b><font face="Comic Sans MS">And no Thing to stand in your way.</font></b>
+
+966
+01:21:17,503 --> 01:21:18,962
+<b><font face="Comic Sans MS">Take a good look, Ben.</font></b>
+
+967
+01:21:19,421 --> 01:21:22,883
+<b><font face="Comic Sans MS">This is what a man looks like
+who embraces his destiny.</font></b>
+
+968
+01:21:28,013 --> 01:21:30,140
+<b><font face="Comic Sans MS">1 down, 3 to go.</font></b>
+
+969
+01:21:31,225 --> 01:21:32,226
+<b><font face="Comic Sans MS">Vic?</font></b>
+
+970
+01:21:33,602 --> 01:21:34,812
+<b><font face="Comic Sans MS">Right on cue.</font></b>
+
+971
+01:21:35,646 --> 01:21:36,730
+<b><font face="Comic Sans MS">Ben?</font></b>
+
+972
+01:21:38,232 --> 01:21:40,234
+<b><font face="Comic Sans MS">- What did you do?
+- Exactly what I said I would.</font></b>
+
+973
+01:21:40,442 --> 01:21:43,487
+<b><font face="Comic Sans MS">I built a better, stronger being.</font></b>
+
+974
+01:21:44,530 --> 01:21:47,074
+<b><font face="Comic Sans MS">And outsmarted the great Reed Richards.</font></b>
+
+975
+01:21:47,241 --> 01:21:50,452
+<b><font face="Comic Sans MS">If you've exposed yourself to the storm,
+you're endangering your life.</font></b>
+
+976
+01:21:50,744 --> 01:21:53,372
+<b><font face="Comic Sans MS">- You need help.
+- You always know best.</font></b>
+
+977
+01:21:55,582 --> 01:21:58,585
+<b><font face="Comic Sans MS">So tell me, what happens
+when you superheat rubber?</font></b>
+
+978
+01:22:21,441 --> 01:22:23,318
+<b><font face="Comic Sans MS">No!</font></b>
+
+979
+01:22:33,287 --> 01:22:35,831
+<b><font face="Comic Sans MS">Mr. Von Doom, are you okay?</font></b>
+
+980
+01:22:36,874 --> 01:22:38,125
+<b><font face="Comic Sans MS">Never better, Jimmy.</font></b>
+
+981
+01:22:50,512 --> 01:22:53,515
+<b><font face="Comic Sans MS">Why the long face? Let's talk in my office.</font></b>
+
+982
+01:23:14,036 --> 01:23:15,120
+<b><font face="Comic Sans MS">Ben.</font></b>
+
+983
+01:23:17,831 --> 01:23:19,041
+<b><font face="Comic Sans MS">Sue!</font></b>
+
+984
+01:23:19,166 --> 01:23:21,043
+<b><font face="Comic Sans MS">Johnny, the machine worked!</font></b>
+
+985
+01:23:21,710 --> 01:23:23,420
+<b><font face="Comic Sans MS">Give me a hand. Come on.</font></b>
+
+986
+01:23:26,006 --> 01:23:27,216
+<b><font face="Comic Sans MS">Get his arm.</font></b>
+
+987
+01:23:29,635 --> 01:23:31,845
+<b><font face="Comic Sans MS">You all right, Ben? Put him on the step.</font></b>
+
+988
+01:23:32,012 --> 01:23:35,015
+<b><font face="Comic Sans MS">What happened, big guy?
+I leave you for 5 minutes...</font></b>
+
+989
+01:23:36,225 --> 01:23:37,309
+<b><font face="Comic Sans MS">The machine.</font></b>
+
+990
+01:23:37,851 --> 01:23:41,438
+<b><font face="Comic Sans MS">Vic used it on himself.
+He was affected by the cloud like us.</font></b>
+
+991
+01:23:41,730 --> 01:23:44,274
+<b><font face="Comic Sans MS">- Where's Reed?
+- Vic must have taken him.</font></b>
+
+992
+01:23:49,238 --> 01:23:52,241
+<b><font face="Comic Sans MS">Dr. Richards,
+allow me to begin your lesson.</font></b>
+
+993
+01:23:52,950 --> 01:23:54,701
+<b><font face="Comic Sans MS">Chemistry 101.</font></b>
+
+994
+01:23:56,245 --> 01:23:59,623
+<b><font face="Comic Sans MS">What happens to rubber
+when it's supercooled?</font></b>
+
+995
+01:24:04,670 --> 01:24:05,963
+<b><font face="Comic Sans MS">Give up?</font></b>
+
+996
+01:24:08,590 --> 01:24:10,259
+<b><font face="Comic Sans MS">That's not like you, Reed.</font></b>
+
+997
+01:24:16,974 --> 01:24:19,726
+<b><font face="Comic Sans MS">After all, we're both doctors.</font></b>
+
+998
+01:24:22,104 --> 01:24:23,188
+<b><font face="Comic Sans MS">Painful?</font></b>
+
+999
+01:24:24,064 --> 01:24:26,024
+<b><font face="Comic Sans MS">You don't know the meaning of the word.</font></b>
+
+1000
+01:24:34,324 --> 01:24:37,119
+<b><font face="Comic Sans MS">Just a little something
+from our defense contracts.</font></b>
+
+1001
+01:24:41,373 --> 01:24:44,751
+<b><font face="Comic Sans MS">Let's check in on the rest of the family,
+shall we?</font></b>
+
+1002
+01:24:51,717 --> 01:24:53,177
+<b><font face="Comic Sans MS">We gotta get out of here!</font></b>
+
+1003
+01:24:56,346 --> 01:24:58,932
+<b><font face="Comic Sans MS">Wait a minute. I got an idea!</font></b>
+
+1004
+01:24:59,433 --> 01:25:01,852
+<b><font face="Comic Sans MS">- Don't even think about it.
+- Never do.</font></b>
+
+1005
+01:25:02,019 --> 01:25:04,354
+<b><font face="Comic Sans MS">What are you doing? Johnny, no!</font></b>
+
+1006
+01:25:10,527 --> 01:25:13,572
+<b><font face="Comic Sans MS">Come on, flame on!</font></b>
+
+1007
+01:25:26,710 --> 01:25:28,253
+<b><font face="Comic Sans MS">We have to help Reed.</font></b>
+
+1008
+01:25:28,420 --> 01:25:31,298
+<b><font face="Comic Sans MS">It's too dangerous for you now.
+You have to stay here.</font></b>
+
+1009
+01:25:33,634 --> 01:25:35,093
+<b><font face="Comic Sans MS">What did I do?</font></b>
+
+1010
+01:26:12,214 --> 01:26:13,632
+<b><font face="Comic Sans MS">Come on, think!</font></b>
+
+1011
+01:26:36,155 --> 01:26:38,615
+<b><font face="Comic Sans MS">2 down, 2 to go.</font></b>
+
+1012
+01:26:52,421 --> 01:26:53,589
+<b><font face="Comic Sans MS">Sue.</font></b>
+
+1013
+01:26:55,924 --> 01:26:58,594
+<b><font face="Comic Sans MS">- What has he done to you?
+- How romantic.</font></b>
+
+1014
+01:27:01,346 --> 01:27:02,556
+<b><font face="Comic Sans MS">Victor, please.</font></b>
+
+1015
+01:27:04,057 --> 01:27:05,350
+<b><font face="Comic Sans MS">Call me Doom.</font></b>
+
+1016
+01:27:06,518 --> 01:27:10,147
+<b><font face="Comic Sans MS">The machine works. It worked on Ben,
+it can work on you. We can turn you back.</font></b>
+
+1017
+01:27:10,397 --> 01:27:14,359
+<b><font face="Comic Sans MS">Do you really think fate turned us
+into gods so we could refuse these gifts?</font></b>
+
+1018
+01:27:14,568 --> 01:27:17,404
+<b><font face="Comic Sans MS">Victor, you always thought
+you were a god. Now back off.</font></b>
+
+1019
+01:27:17,654 --> 01:27:19,656
+<b><font face="Comic Sans MS">Susan, let's not fight.</font></b>
+
+1020
+01:27:19,823 --> 01:27:21,033
+<b><font face="Comic Sans MS">No. Let's.</font></b>
+
+1021
+01:27:26,205 --> 01:27:28,332
+<b><font face="Comic Sans MS">Susan, you're fired!</font></b>
+
+1022
+01:27:39,218 --> 01:27:40,594
+<b><font face="Comic Sans MS">Marco.</font></b>
+
+1023
+01:27:42,012 --> 01:27:43,222
+<b><font face="Comic Sans MS">Polo.</font></b>
+
+1024
+01:27:56,693 --> 01:27:59,154
+<b><font face="Comic Sans MS">Did you say goodbye
+to your brother Johnny?</font></b>
+
+1025
+01:28:03,492 --> 01:28:05,702
+<b><font face="Comic Sans MS">It's time to end this!</font></b>
+
+1026
+01:28:08,038 --> 01:28:10,749
+<b><font face="Comic Sans MS">No, Vic. It's clobbering time.</font></b>
+
+1027
+01:28:19,925 --> 01:28:22,010
+<b><font face="Comic Sans MS">Damn, I've been waiting to do that.</font></b>
+
+1028
+01:28:22,928 --> 01:28:24,513
+<b><font face="Comic Sans MS">Susie, you okay?</font></b>
+
+1029
+01:28:25,806 --> 01:28:27,558
+<b><font face="Comic Sans MS">Victor ain't that bad, huh?</font></b>
+
+1030
+01:28:29,893 --> 01:28:32,312
+<b><font face="Comic Sans MS">"He's just a little larger than life," right?</font></b>
+
+1031
+01:28:33,021 --> 01:28:35,440
+<b><font face="Comic Sans MS">Maybe next time
+you'll listen to me before...</font></b>
+
+1032
+01:28:36,233 --> 01:28:37,276
+<b><font face="Comic Sans MS">Ben!</font></b>
+
+1033
+01:29:28,035 --> 01:29:29,912
+<b><font face="Comic Sans MS">- Sorry, ladies.
+- Stop the car!</font></b>
+
+1034
+01:29:30,078 --> 01:29:33,248
+<b><font face="Comic Sans MS">Pull over. Hit the brakes!</font></b>
+
+1035
+01:29:42,049 --> 01:29:43,509
+<b><font face="Comic Sans MS"><i>This is the police. </i></font></b>
+
+1036
+01:29:44,051 --> 01:29:47,721
+<b><font face="Comic Sans MS"><i>Put your hands up
+and step down from the vehicle!</i></font></b>
+
+1037
+01:29:51,433 --> 01:29:52,559
+<b><font face="Comic Sans MS">Take him out!</font></b>
+
+1038
+01:29:58,690 --> 01:30:01,109
+<b><font face="Comic Sans MS">Ladies, I'm gonna need
+to borrow your car.</font></b>
+
+1039
+01:30:01,318 --> 01:30:04,238
+<b><font face="Comic Sans MS">- The transmission sticks.
+- Not gonna be a problem.</font></b>
+
+1040
+01:30:42,109 --> 01:30:44,027
+<b><font face="Comic Sans MS">I can't let you do that!</font></b>
+
+1041
+01:30:45,237 --> 01:30:46,321
+<b><font face="Comic Sans MS">Reed?</font></b>
+
+1042
+01:30:49,032 --> 01:30:50,617
+<b><font face="Comic Sans MS">I'll be right with you.</font></b>
+
+1043
+01:30:57,791 --> 01:30:59,042
+<b><font face="Comic Sans MS">Hello, Susan.</font></b>
+
+1044
+01:31:01,003 --> 01:31:03,005
+<b><font face="Comic Sans MS">You three are pathetic.</font></b>
+
+1045
+01:31:11,597 --> 01:31:12,723
+<b><font face="Comic Sans MS">You missed me.</font></b>
+
+1046
+01:31:15,934 --> 01:31:17,561
+<b><font face="Comic Sans MS">Had a little relapse, huh?</font></b>
+
+1047
+01:31:19,146 --> 01:31:21,482
+<b><font face="Comic Sans MS">- Welcome back.
+- This is gonna be fun.</font></b>
+
+1048
+01:31:43,962 --> 01:31:45,589
+<b><font face="Comic Sans MS">I can't hold it!</font></b>
+
+1049
+01:31:58,060 --> 01:31:59,478
+<b><font face="Comic Sans MS">Johnny, supernova!</font></b>
+
+1050
+01:31:59,645 --> 01:32:01,063
+<b><font face="Comic Sans MS">I thought we agreed that was bad.</font></b>
+
+1051
+01:32:01,230 --> 01:32:02,189
+<b><font face="Comic Sans MS">Now!</font></b>
+
+1052
+01:32:04,233 --> 01:32:05,526
+<b><font face="Comic Sans MS">- Ben!
+- Gotcha.</font></b>
+
+1053
+01:32:14,284 --> 01:32:16,495
+<b><font face="Comic Sans MS">Sue! Think you can contain it?</font></b>
+
+1054
+01:32:27,506 --> 01:32:28,757
+<b><font face="Comic Sans MS">Flame on, kid.</font></b>
+
+1055
+01:32:55,534 --> 01:32:58,495
+<b><font face="Comic Sans MS">Is that the best you can do?</font></b>
+
+1056
+01:32:59,454 --> 01:33:01,707
+<b><font face="Comic Sans MS">Time for your lesson. Chem 101.</font></b>
+
+1057
+01:33:01,957 --> 01:33:04,418
+<b><font face="Comic Sans MS">What happens when you rapidly cool hot metal?</font></b>
+
+1058
+01:33:05,752 --> 01:33:06,879
+<b><font face="Comic Sans MS">Ben!</font></b>
+
+1059
+01:33:57,971 --> 01:33:59,598
+<b><font face="Comic Sans MS">You done good, kid.</font></b>
+
+1060
+01:34:01,350 --> 01:34:02,351
+<b><font face="Comic Sans MS">Come on.</font></b>
+
+1061
+01:34:04,269 --> 01:34:05,437
+<b><font face="Comic Sans MS">Sue, you okay?</font></b>
+
+1062
+01:34:05,979 --> 01:34:07,064
+<b><font face="Comic Sans MS">Yeah.</font></b>
+
+1063
+01:34:15,113 --> 01:34:16,573
+<b><font face="Comic Sans MS">Man, I love this job.</font></b>
+
+1064
+01:34:18,408 --> 01:34:19,576
+<b><font face="Comic Sans MS">Job, huh?</font></b>
+
+1065
+01:34:20,619 --> 01:34:22,496
+<b><font face="Comic Sans MS">Well, we do have the suits.</font></b>
+
+1066
+01:34:44,393 --> 01:34:45,644
+<b><font face="Comic Sans MS">Ladies, your drinks.</font></b>
+
+1067
+01:34:45,727 --> 01:34:47,980
+<b><font face="Comic Sans MS">- I don't think we need another.
+- Just one more.</font></b>
+
+1068
+01:34:48,147 --> 01:34:50,858
+<b><font face="Comic Sans MS">Thank you, thank you so much. Cheers!</font></b>
+
+1069
+01:34:53,652 --> 01:34:56,488
+<b><font face="Comic Sans MS">I need names and shots.</font></b>
+
+1070
+01:34:56,738 --> 01:34:57,865
+<b><font face="Comic Sans MS">Bartender!</font></b>
+
+1071
+01:34:58,365 --> 01:35:00,826
+<b><font face="Comic Sans MS">They're custom-made, 36 EEEE.</font></b>
+
+1072
+01:35:00,951 --> 01:35:03,745
+<b><font face="Comic Sans MS">Well, look. I've been crunching
+the numbers on the machine.</font></b>
+
+1073
+01:35:03,954 --> 01:35:05,706
+<b><font face="Comic Sans MS">And I think if I can rework
+the power settings...</font></b>
+
+1074
+01:35:05,873 --> 01:35:08,625
+<b><font face="Comic Sans MS">Forget about it, egghead. I'm good as is.</font></b>
+
+1075
+01:35:08,792 --> 01:35:10,335
+<b><font face="Comic Sans MS">Better than good, baby.</font></b>
+
+1076
+01:35:12,087 --> 01:35:14,756
+<b><font face="Comic Sans MS">You just need to work on your touch.</font></b>
+
+1077
+01:35:15,674 --> 01:35:17,384
+<b><font face="Comic Sans MS">I like the sound of that.</font></b>
+
+1078
+01:35:20,262 --> 01:35:22,848
+<b><font face="Comic Sans MS">- Can I talk to you for a second?
+- Sure.</font></b>
+
+1079
+01:35:27,227 --> 01:35:28,187
+<b><font face="Comic Sans MS">Thanks.</font></b>
+
+1080
+01:35:34,193 --> 01:35:36,820
+<b><font face="Comic Sans MS">I found a broken gasket from space.</font></b>
+
+1081
+01:35:38,155 --> 01:35:39,364
+<b><font face="Comic Sans MS">A gasket?</font></b>
+
+1082
+01:35:39,531 --> 01:35:42,868
+<b><font face="Comic Sans MS">- Reed, come on, we're at a party.
+- And if one of us were to wear it...</font></b>
+
+1083
+01:35:51,835 --> 01:35:53,128
+<b><font face="Comic Sans MS">No more thinking.</font></b>
+
+1084
+01:35:53,754 --> 01:35:55,464
+<b><font face="Comic Sans MS">No more variables.</font></b>
+
+1085
+01:36:00,594 --> 01:36:01,720
+<b><font face="Comic Sans MS">Sue Storm...</font></b>
+
+1086
+01:36:02,888 --> 01:36:04,264
+<b><font face="Comic Sans MS">will you marry me?</font></b>
+
+1087
+01:36:15,567 --> 01:36:19,488
+<b><font face="Comic Sans MS">Sue, you kind of need to say something.</font></b>
+
+1088
+01:36:20,322 --> 01:36:21,406
+<b><font face="Comic Sans MS">Yes.</font></b>
+
+1089
+01:36:31,667 --> 01:36:35,003
+<b><font face="Comic Sans MS">That's my nose, genius. These are my lips.</font></b>
+
+1090
+01:36:41,135 --> 01:36:42,469
+<b><font face="Comic Sans MS">She's kissing him.</font></b>
+
+1091
+01:36:42,970 --> 01:36:44,555
+<b><font face="Comic Sans MS">That's so cute.</font></b>
+
+1092
+01:36:46,014 --> 01:36:47,474
+<b><font face="Comic Sans MS">About time, you guys.</font></b>
+
+1093
+01:36:48,851 --> 01:36:50,894
+<b><font face="Comic Sans MS">No more wisecracks about the way I look.</font></b>
+
+1094
+01:36:53,397 --> 01:36:55,065
+<b><font face="Comic Sans MS">Call me Mr. Sensitivity.</font></b>
+
+1095
+01:36:56,525 --> 01:37:00,028
+<b><font face="Comic Sans MS">Okay. Wide load coming through.
+Everybody move, he's huge.</font></b>
+
+1096
+01:37:01,446 --> 01:37:03,699
+<b><font face="Comic Sans MS">- Come here, Mr. Sensitive.
+- Flame on.</font></b>
+
+1097
+01:37:07,578 --> 01:37:08,662
+<b><font face="Comic Sans MS">Showoff!</font></b>
+
+1098
+01:37:37,107 --> 01:37:38,567
+<b><font face="Comic Sans MS">How long will it be?</font></b>
+
+1099
+01:37:38,817 --> 01:37:40,402
+<b><font face="Comic Sans MS">Should be about 12 days.</font></b>
+
+1100
+01:37:44,406 --> 01:37:47,409
+<b><font face="Comic Sans MS">Aw, come on.
+What's wrong with this thing?</font></b>
+
+1101
+01:37:52,831 --> 01:37:55,083
+<b><font face="Comic Sans MS">Ready.</font></b>

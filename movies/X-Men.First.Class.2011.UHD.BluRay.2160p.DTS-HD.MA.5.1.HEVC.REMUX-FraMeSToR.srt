@@ -1,0 +1,6103 @@
+﻿1
+00:01:25,412 --> 00:01:26,871
+Mama!
+
+2
+00:01:35,463 --> 00:01:36,631
+Mama!
+
+3
+00:01:42,595 --> 00:01:43,930
+Mama!
+
+4
+00:02:48,786 --> 00:02:51,998
+Mother. What are you...
+
+5
+00:02:52,081 --> 00:02:54,417
+I thought you were a burglar.
+
+6
+00:02:54,459 --> 00:02:57,337
+I didn't mean to scare you, darling.
+I was just getting a snack.
+
+7
+00:02:57,545 --> 00:02:59,631
+Go back to bed.
+
+8
+00:03:00,590 --> 00:03:02,467
+What's the matter?
+
+9
+00:03:02,634 --> 00:03:04,928
+Go on, back to bed.
+
+10
+00:03:06,513 --> 00:03:08,473
+I'll make you a hot chocolate.
+
+11
+00:03:09,307 --> 00:03:10,433
+Who are you?
+
+12
+00:03:15,146 --> 00:03:16,981
+And what have you done with my mother?
+
+13
+00:03:17,148 --> 00:03:21,319
+<i>My mother has never set foot
+in this kitchen in her life.</i>
+
+14
+00:03:21,986 --> 00:03:25,156
+<i>And she certainly never
+made me a hot chocolate.</i>
+
+15
+00:03:25,448 --> 00:03:28,076
+<i>Unless you count ordering
+the maid to do it.</i>
+
+16
+00:03:46,261 --> 00:03:48,304
+You're not scared of me?
+
+17
+00:03:48,680 --> 00:03:51,849
+I always believed I couldn't be
+the only one in the world.
+
+18
+00:03:52,517 --> 00:03:54,310
+The only person who was
+
+19
+00:03:55,019 --> 00:03:56,437
+different.
+
+20
+00:03:57,730 --> 00:03:59,232
+And here you are.
+
+21
+00:03:59,816 --> 00:04:01,025
+Charles Xavier.
+
+22
+00:04:04,320 --> 00:04:05,613
+Raven.
+
+23
+00:04:06,781 --> 00:04:08,575
+You're hungry and alone.
+
+24
+00:04:08,992 --> 00:04:10,451
+Take whatever you want.
+
+25
+00:04:10,577 --> 00:04:14,038
+We've got lots of food.
+You don't have to steal.
+
+26
+00:04:14,414 --> 00:04:16,958
+In fact,
+
+27
+00:04:17,041 --> 00:04:18,793
+you never have to steal again.
+
+28
+00:04:33,433 --> 00:04:35,518
+<font color="#ffff00">Understand this, Erik...</font>
+
+29
+00:04:36,561 --> 00:04:39,439
+<font color="#ffff00">These Nazis, I'm not like them.</font>
+
+30
+00:04:43,776 --> 00:04:46,070
+<font color="#ffff00">Genes are the key, yes?</font>
+
+31
+00:04:47,238 --> 00:04:49,324
+<font color="#ffff00">But their goals?</font>
+
+32
+00:04:49,407 --> 00:04:53,870
+<font color="#ffff00">Blue eyes? Blond Hair? Pathetic.</font>
+
+33
+00:04:59,417 --> 00:05:00,960
+<font color="#ffff00">Eat the chocolate.</font>
+
+34
+00:05:02,003 --> 00:05:03,046
+<font color="#ffff00">It's good.</font>
+
+35
+00:05:03,838 --> 00:05:04,881
+<font color="#ffff00">Want some?</font>
+
+36
+00:05:07,425 --> 00:05:09,177
+<font color="#ffff00">I want to see my mama.</font>
+
+37
+00:05:16,017 --> 00:05:21,439
+<font color="#ffff00">Genes are the key that unlocks
+the door to a new age, Erik.</font>
+
+38
+00:05:22,231 --> 00:05:25,526
+<font color="#ffff00">A new future for mankind.</font>
+
+39
+00:05:25,985 --> 00:05:28,696
+<font color="#ffff00">Evolution.</font>
+
+40
+00:05:28,780 --> 00:05:30,865
+<font color="#ffff00">You know what I'm talking about?</font>
+
+41
+00:05:32,408 --> 00:05:35,953
+<font color="#ffff00">It's a simple thing I ask of you.</font>
+
+42
+00:05:36,245 --> 00:05:41,042
+<font color="#ffff00">A little coin is nothing
+compared to a big gate.</font>
+
+43
+00:05:42,460 --> 00:05:43,628
+<font color="#ffff00">Is it?</font>
+
+44
+00:05:52,970 --> 00:05:55,014
+<i>Ja.</i>
+
+45
+00:05:58,685 --> 00:06:00,603
+<font color="#ffff00">I tried, Herr Doctor.</font>
+
+46
+00:06:00,770 --> 00:06:04,982
+<font color="#ffff00">I can't... I don't...</font>
+
+47
+00:06:05,024 --> 00:06:06,693
+<font color="#ffff00">It's impossible.</font>
+
+48
+00:06:09,529 --> 00:06:14,409
+<font color="#ffff00">The one thing I can say for the Nazis
+is their methods seem to produce results.</font>
+
+49
+00:06:17,745 --> 00:06:19,288
+<font color="#ffff00">I'm sorry, Erik.</font>
+
+50
+00:06:30,299 --> 00:06:31,509
+<font color="#ffff00">Mama!</font>
+
+51
+00:06:32,427 --> 00:06:33,720
+<font color="#ffff00">My darling.</font>
+
+52
+00:06:34,679 --> 00:06:35,722
+<font color="#ffff00">How are you?</font>
+
+53
+00:06:39,934 --> 00:06:41,185
+<font color="#ffff00">Here's what we're going to do.</font>
+
+54
+00:06:42,603 --> 00:06:44,480
+<font color="#ffff00">I'm going to count to three...</font>
+
+55
+00:06:46,023 --> 00:06:48,401
+<font color="#ffff00">...and you're going to move the coin.</font>
+
+56
+00:06:49,610 --> 00:06:53,489
+<font color="#ffff00">You don't move the coin,
+I pull the trigger.</font>
+
+57
+00:06:56,284 --> 00:06:57,452
+<font color="#ffff00">Understand?</font>
+
+58
+00:06:59,120 --> 00:07:00,913
+<font color="#ffff00">One</font>
+
+59
+00:07:01,456 --> 00:07:02,498
+Mama.
+
+60
+00:07:02,623 --> 00:07:03,791
+<font color="#ffff00">You can do it.</font>
+
+61
+00:07:08,796 --> 00:07:10,089
+<font color="#ffff00">Two</font>
+
+62
+00:07:13,134 --> 00:07:14,385
+<font color="#ffff00">Everything is all right.</font>
+
+63
+00:07:30,777 --> 00:07:31,819
+<font color="#ffff00">Three.</font>
+
+64
+00:07:53,257 --> 00:07:55,051
+<font color="#ffff00">Yes. Wonderful.</font>
+
+65
+00:08:05,144 --> 00:08:06,145
+<font color="#ffff00">Excellent.</font>
+
+66
+00:08:17,365 --> 00:08:20,827
+<i>Nein!</i>
+
+67
+00:08:50,690 --> 00:08:52,316
+<font color="#ffff00">Outstanding, Erik.</font>
+
+68
+00:08:53,651 --> 00:08:57,196
+<font color="#ffff00">So we unlock your gift with anger.</font>
+
+69
+00:08:58,614 --> 00:09:01,659
+<font color="#ffff00">Anger and pain.</font>
+
+70
+00:09:04,287 --> 00:09:05,913
+<font color="#ffff00">You and me...</font>
+
+71
+00:09:07,123 --> 00:09:10,001
+<font color="#ffff00">...we're going to have a lot of fun together.</font>
+
+72
+00:10:23,240 --> 00:10:25,409
+Heterochromia.
+
+73
+00:10:27,078 --> 00:10:29,580
+A gentleman would at least
+offer to buy me a drink first.
+
+74
+00:10:30,373 --> 00:10:34,293
+Norman, a pint of bitter for me
+and a brandy for the lady, please.
+
+75
+00:10:34,377 --> 00:10:35,795
+- How did you know that?
+- Lucky guess.
+
+76
+00:10:36,128 --> 00:10:38,005
+My name is Xavier. Charles Xavier.
+
+77
+00:10:38,089 --> 00:10:39,298
+- How do you do?
+- Amy.
+
+78
+00:10:39,382 --> 00:10:41,300
+Heterochromia was
+in reference to your eyes,
+
+79
+00:10:41,384 --> 00:10:43,886
+which I have to say are stunning.
+
+80
+00:10:43,928 --> 00:10:45,596
+One green, one blue.
+
+81
+00:10:45,805 --> 00:10:47,890
+It's a mutation.
+It's a very groovy mutation.
+
+82
+00:10:47,932 --> 00:10:49,517
+I've got news for you, Amy.
+
+83
+00:10:49,600 --> 00:10:51,143
+You are a mutant.
+
+84
+00:10:51,435 --> 00:10:54,939
+First you proposition a girl,
+and then you call her deformed.
+
+85
+00:10:54,981 --> 00:10:57,149
+How is that seduction
+technique working for you?
+
+86
+00:10:57,233 --> 00:10:58,317
+I'll tell you in the morning.
+
+87
+00:10:59,110 --> 00:11:01,570
+No, seriously, though,
+you mustn't knock it.
+
+88
+00:11:01,612 --> 00:11:03,447
+Mutation took us from
+single-celled organisms
+
+89
+00:11:03,489 --> 00:11:06,951
+to being the dominant form
+of reproductive life on this planet.
+
+90
+00:11:06,993 --> 00:11:10,121
+Infinite forms of variation
+with each generation,
+
+91
+00:11:10,246 --> 00:11:12,915
+all through mutation.
+
+92
+00:11:14,250 --> 00:11:15,876
+Then let's reclaim that word.
+
+93
+00:11:20,172 --> 00:11:22,508
+- Mutant and proud.
+- Chin-chin. Hey.
+
+94
+00:11:22,591 --> 00:11:25,302
+- I guess I have to buy my own drink.
+- I'm sorry. One cola.
+
+95
+00:11:25,761 --> 00:11:26,846
+Charles here was just telling me
+
+96
+00:11:26,929 --> 00:11:29,348
+that I'm like one of the first
+sea creatures that grew legs.
+
+97
+00:11:29,432 --> 00:11:31,392
+A tiny bit sexier.
+
+98
+00:11:31,475 --> 00:11:34,478
+I'm sorry. This is my sister, Raven.
+
+99
+00:11:34,520 --> 00:11:35,813
+- Hi.
+- Amy.
+
+100
+00:11:36,105 --> 00:11:38,441
+- And what do you study?
+- Waitressing.
+
+101
+00:11:42,862 --> 00:11:44,488
+Oh, look, you have heterochromia, too.
+
+102
+00:11:44,572 --> 00:11:47,491
+- Sorry, what?
+- Look at her eye.
+
+103
+00:11:50,327 --> 00:11:52,913
+Right. Raven, get your coat, please.
+
+104
+00:11:53,372 --> 00:11:55,082
+Don't talk to me. You did that on purpose.
+
+105
+00:11:55,166 --> 00:11:57,293
+- I did not! Why would I do it on purpose?
+- Yes, you did!
+
+106
+00:11:57,334 --> 00:11:59,712
+You know I can't control it
+sometimes if I'm stressed or tired.
+
+107
+00:11:59,795 --> 00:12:02,715
+You seem to be doing a perfectly
+good job right now.
+
+108
+00:12:02,798 --> 00:12:04,592
+- "Mutant and proud."
+- What?
+
+109
+00:12:04,675 --> 00:12:08,137
+Or is it only with pretty mutations,
+or invisible ones like yours?
+
+110
+00:12:08,179 --> 00:12:09,764
+But if you're a freak, you better hide.
+
+111
+00:12:09,847 --> 00:12:12,016
+You're being ridiculous.
+
+112
+00:12:12,099 --> 00:12:14,185
+I don't mean to sound like an old fart.
+
+113
+00:12:14,268 --> 00:12:16,562
+- Which you are.
+- Sometimes.
+
+114
+00:12:17,021 --> 00:12:19,440
+But we've talked about this, Raven.
+
+115
+00:12:19,523 --> 00:12:22,902
+A small slip-up is one thing.
+A big one does not bear thinking about.
+
+116
+00:12:29,033 --> 00:12:31,410
+"Mutant and proud."
+
+117
+00:12:33,871 --> 00:12:36,040
+"Mutant and proud"?
+
+118
+00:12:46,759 --> 00:12:48,260
+If only.
+
+119
+00:12:54,225 --> 00:12:56,477
+- Would you date me?
+- Of course I would.
+
+120
+00:12:56,936 --> 00:12:59,855
+Any young man would be lucky
+to have you. You are stunning.
+
+121
+00:12:59,897 --> 00:13:01,065
+Looking like this?
+
+122
+00:13:01,148 --> 00:13:03,150
+Like... What?
+
+123
+00:13:06,570 --> 00:13:07,696
+Blue?
+
+124
+00:13:10,491 --> 00:13:13,327
+- You're my oldest friend.
+- I'm your only friend.
+
+125
+00:13:13,410 --> 00:13:16,580
+- Thank you for that.
+- Well?
+
+126
+00:13:16,622 --> 00:13:18,916
+I'm incapable of thinking of you that way.
+
+127
+00:13:18,999 --> 00:13:20,167
+I feel responsible for you.
+
+128
+00:13:20,835 --> 00:13:24,004
+Anything else would just feel wrong.
+
+129
+00:13:24,088 --> 00:13:26,590
+- But what if you didn't know me?
+- Unfortunately, I do know you.
+
+130
+00:13:26,674 --> 00:13:28,092
+I don't know what's gotten into you lately.
+
+131
+00:13:28,134 --> 00:13:29,927
+You're awfully concerned with your looks.
+
+132
+00:13:34,765 --> 00:13:36,433
+I'm sleepy. Will you read to me?
+
+133
+00:13:36,517 --> 00:13:38,811
+I can't. I have my thesis coming up.
+I have to study.
+
+134
+00:13:38,894 --> 00:13:41,772
+Fine, read that.
+Your thesis always sends me right off.
+
+135
+00:13:42,314 --> 00:13:46,277
+"To Homo neanderthalensis,
+his mutant cousin, Homo sapiens,
+
+136
+00:13:46,318 --> 00:13:47,444
+"was an aberration.
+
+137
+00:13:48,195 --> 00:13:52,533
+<i>"Peaceful cohabitation,
+if ever it existed, was short-lived.</i>
+
+138
+00:13:52,616 --> 00:13:54,076
+<i>"Records show, without exception,</i>
+
+139
+00:13:54,118 --> 00:13:57,288
+<i>"that the arrival of the mutated
+human species in any region</i>
+
+140
+00:13:57,371 --> 00:13:59,540
+<i>"was followed by the immediate extinction</i>
+
+141
+00:13:59,623 --> 00:14:02,293
+<i>"of their less-evolved kin."</i>
+
+142
+00:14:08,257 --> 00:14:11,635
+<font color="#ffff00">Possession of that gold is illegal.</font>
+
+143
+00:14:11,719 --> 00:14:13,637
+<font color="#ffff00">I should inform the police.</font>
+
+144
+00:14:14,221 --> 00:14:15,431
+<font color="#ffff00">Let's not play this game.</font>
+
+145
+00:14:15,764 --> 00:14:17,474
+<font color="#ffff00">Where did you get it?</font>
+
+146
+00:14:18,392 --> 00:14:19,435
+<font color="#ffff00">A friend.</font>
+
+147
+00:14:19,727 --> 00:14:22,188
+<font color="#ffff00">He recommended your bank most highly.</font>
+
+148
+00:14:24,148 --> 00:14:25,149
+<font color="#ffff00">I see.</font>
+
+149
+00:14:25,274 --> 00:14:27,651
+<font color="#ffff00">Do you know our terms, sir?</font>
+
+150
+00:14:28,194 --> 00:14:29,236
+<font color="#ffff00">Yes.</font>
+
+151
+00:14:30,863 --> 00:14:33,157
+<font color="#ffff00">And you should know mine.</font>
+
+152
+00:14:35,618 --> 00:14:38,454
+<font color="#ffff00">This gold is what remains of my people.</font>
+
+153
+00:14:39,496 --> 00:14:40,956
+<font color="#ffff00">Melted from their possessions.</font>
+
+154
+00:14:40,998 --> 00:14:43,000
+<font color="#ffff00">Torn from their teeth.</font>
+
+155
+00:14:43,083 --> 00:14:45,002
+<font color="#ffff00">This is blood money.</font>
+
+156
+00:14:45,377 --> 00:14:48,172
+<font color="#ffff00">And you're going to help me find
+the bastards responsible for it.</font>
+
+157
+00:14:53,844 --> 00:14:55,304
+<font color="#ffff00">Don't touch that alarm.</font>
+
+158
+00:14:58,057 --> 00:15:02,019
+<font color="#ffff00">I want Schmidt. Klaus Schmidt.</font>
+
+159
+00:15:02,102 --> 00:15:03,187
+<font color="#ffff00">Where is he?</font>
+
+160
+00:15:03,687 --> 00:15:05,898
+<font color="#ffff00">Our clients don't provide addresses.
+We're not...</font>
+
+161
+00:15:05,981 --> 00:15:08,442
+<font color="#ffff00">Not that sort of bank?</font>
+
+162
+00:15:16,367 --> 00:15:17,868
+<font color="#ffff00">Metal fillings, eh?</font>
+
+163
+00:15:17,910 --> 00:15:18,911
+<font color="#ffff00">Not gold.</font>
+
+164
+00:15:18,994 --> 00:15:20,454
+<font color="#ffff00">Worried someone might steal them?</font>
+
+165
+00:15:20,537 --> 00:15:23,749
+<font color="#ffff00">Argentina! Schmidt is in Argentina!</font>
+
+166
+00:15:25,251 --> 00:15:28,963
+<font color="#ffff00">Villa Gesell! Please!</font>
+
+167
+00:15:45,229 --> 00:15:46,230
+<font color="#ffff00">Thank you.</font>
+
+168
+00:15:50,693 --> 00:15:53,112
+<font color="#ffff00">I would love to kill you.</font>
+
+169
+00:15:57,157 --> 00:15:59,410
+<font color="#ffff00">So mark my words.</font>
+
+170
+00:15:59,493 --> 00:16:04,039
+<font color="#ffff00">If you warn anyone I'm coming...</font>
+
+171
+00:16:04,081 --> 00:16:05,749
+<font color="#ffff00">I will find you.</font>
+
+172
+00:16:18,262 --> 00:16:20,639
+Another day at the office.
+
+173
+00:16:20,723 --> 00:16:22,474
+Is that Colonel Hendry?
+
+174
+00:16:22,558 --> 00:16:23,934
+The NATO guy?
+
+175
+00:16:23,976 --> 00:16:25,436
+Yeah.
+
+176
+00:16:26,103 --> 00:16:27,771
+Yes, it is.
+
+177
+00:16:27,855 --> 00:16:30,274
+Because that's three mob bosses,
+the Italian ambassador
+
+178
+00:16:30,357 --> 00:16:32,276
+and the CEO of Lockheed.
+
+179
+00:16:32,609 --> 00:16:34,278
+They can't all be Communists.
+
+180
+00:16:34,320 --> 00:16:36,780
+This Hellfire Club,
+it's got to be something else.
+
+181
+00:16:38,282 --> 00:16:40,826
+Do you see that?
+
+182
+00:16:40,951 --> 00:16:43,037
+Hello, girls.
+
+183
+00:16:43,120 --> 00:16:45,122
+Wow! Very nice.
+
+184
+00:16:46,665 --> 00:16:48,208
+What are you doing?
+
+185
+00:16:48,292 --> 00:16:52,046
+Using some equipment the CIA
+didn't give me. Stay put.
+
+186
+00:16:55,257 --> 00:16:57,134
+- Colonel Hendry?
+- Yes, ma'am.
+
+187
+00:16:57,343 --> 00:17:00,304
+Emma Frost. Sebastian Shaw's associate.
+
+188
+00:17:01,388 --> 00:17:03,640
+And where is Mr. Shaw?
+
+189
+00:17:03,766 --> 00:17:07,144
+We're having a party,
+and here's the entertainment.
+
+190
+00:17:07,186 --> 00:17:08,812
+Come with me.
+
+191
+00:17:47,309 --> 00:17:48,936
+Hello, beautiful. How are you?
+
+192
+00:17:49,019 --> 00:17:51,688
+Hey, baby. You want to find a quiet place?
+
+193
+00:17:51,814 --> 00:17:55,901
+I am so sorry.
+I've been booked by Colonel Hendry.
+
+194
+00:17:57,152 --> 00:17:58,695
+Excuse me.
+
+195
+00:18:19,091 --> 00:18:21,427
+You sure we can't get you a refill, Bob?
+
+196
+00:18:21,510 --> 00:18:22,886
+No.
+
+197
+00:18:22,928 --> 00:18:27,933
+So, I hear you blocked the proposal
+to position Jupiter missiles in Turkey.
+
+198
+00:18:30,144 --> 00:18:32,146
+I expect you'll reconsider.
+
+199
+00:18:32,229 --> 00:18:33,939
+We've had this conversation.
+
+200
+00:18:34,356 --> 00:18:38,193
+You put our nukes in Turkey
+or anywhere that close to Russia,
+
+201
+00:18:38,235 --> 00:18:40,070
+and you're looking at war.
+
+202
+00:18:40,154 --> 00:18:41,655
+Nuclear war.
+
+203
+00:19:14,605 --> 00:19:16,273
+I don't ask for favors, Colonel.
+
+204
+00:19:16,565 --> 00:19:19,026
+I express my expectations.
+
+205
+00:19:19,234 --> 00:19:22,613
+So, let me say it again.
+
+206
+00:19:22,696 --> 00:19:25,866
+I expect you'll reconsider.
+
+207
+00:19:26,575 --> 00:19:28,911
+The only thing I will reconsider
+
+208
+00:19:28,952 --> 00:19:32,206
+is having another glass
+of that delicious champagne.
+
+209
+00:19:44,510 --> 00:19:47,804
+What the hell did you put in my drink?
+
+210
+00:20:05,155 --> 00:20:08,075
+<i>You're thinking of running. Hiding.</i>
+
+211
+00:20:08,158 --> 00:20:10,077
+<i>We'd find you, Hendry.</i>
+
+212
+00:20:10,160 --> 00:20:12,996
+<i>There's not a fortress in the world
+that could keep us out.</i>
+
+213
+00:20:29,805 --> 00:20:32,683
+Magnificent. Isn't she, Bob?
+
+214
+00:20:33,809 --> 00:20:37,938
+Genetic mutation.
+The evolution of the human genome.
+
+215
+00:20:38,021 --> 00:20:39,481
+Where's Azazel?
+
+216
+00:20:45,737 --> 00:20:47,197
+We don't want the Colonel to be late.
+
+217
+00:20:51,326 --> 00:20:52,327
+Comrade.
+
+218
+00:20:55,330 --> 00:20:58,041
+Missiles in Turkey send
+a very clear message.
+
+219
+00:20:58,125 --> 00:20:59,293
+If we ever decide to fire them,
+
+220
+00:20:59,376 --> 00:21:02,087
+the Russian early-warning system
+won't even have time to kick in.
+
+221
+00:21:02,170 --> 00:21:03,880
+This better be important, MacTaggert.
+
+222
+00:21:03,964 --> 00:21:06,300
+Whoa, slow down.
+
+223
+00:21:06,383 --> 00:21:08,719
+Are you smoking them funny cigarettes?
+People don't disappear.
+
+224
+00:21:08,802 --> 00:21:10,095
+Colonel Hendry was there.
+
+225
+00:21:10,178 --> 00:21:12,014
+He was there, McCone, in the Hellfire Club.
+
+226
+00:21:12,306 --> 00:21:13,599
+Colonel Hendry?
+
+227
+00:21:13,682 --> 00:21:15,726
+I agree with you, General.
+
+228
+00:21:15,767 --> 00:21:17,269
+I've reconsidered my position
+
+229
+00:21:17,352 --> 00:21:20,731
+and I now believe we should put
+Jupiter missiles in Turkey.
+
+230
+00:21:20,856 --> 00:21:22,024
+Colonel Hendry is here.
+
+231
+00:21:22,065 --> 00:21:25,402
+So unless he magically traveled
+3,000 miles in the last 10 minutes,
+
+232
+00:21:25,485 --> 00:21:28,989
+listen to me, I suggest
+that you stop wasting my time.
+
+233
+00:21:29,072 --> 00:21:31,366
+Looks like Hendry wants
+to start World War III.
+
+234
+00:21:31,408 --> 00:21:33,910
+I got bigger things to deal with
+right now, MacTaggert.
+
+235
+00:21:34,036 --> 00:21:35,495
+Sir, I...
+
+236
+00:21:35,579 --> 00:21:37,748
+- God!
+- Have you lost your mind?
+
+237
+00:21:38,415 --> 00:21:40,042
+So, now what?
+
+238
+00:21:42,085 --> 00:21:44,713
+We find an expert on genetic mutation.
+
+239
+00:21:45,672 --> 00:21:49,968
+<i>Professor of Genetics,
+Charles Francis Xavier.</i>
+
+240
+00:21:52,679 --> 00:21:54,723
+So, how does it feel to be a professor?
+
+241
+00:21:54,765 --> 00:21:56,767
+Don't call me that.
+You don't get to be called a professor
+
+242
+00:21:56,808 --> 00:21:58,435
+until you actually have a teaching position.
+
+243
+00:21:58,518 --> 00:21:59,603
+I know, but it suits you.
+
+244
+00:21:59,645 --> 00:22:01,355
+Don't say that. Do say,
+"Let's go have a drink."
+
+245
+00:22:01,438 --> 00:22:03,690
+- Let's go have a drink.
+- Wonderful.
+
+246
+00:22:31,510 --> 00:22:34,429
+<font color="#ffff00">Afternoon, gentlemen.</font>
+
+247
+00:22:34,513 --> 00:22:35,514
+<font color="#ffff00">Hot out there.</font>
+
+248
+00:22:35,889 --> 00:22:37,641
+<font color="#ffff00">Beer, please.</font>
+
+249
+00:23:01,456 --> 00:23:03,375
+<font color="#ffff00">- German beer.
+- Of course.</font>
+
+250
+00:23:04,000 --> 00:23:07,587
+<font color="#ffff00">Yes, it's Bitburger. You like it?</font>
+
+251
+00:23:14,052 --> 00:23:15,721
+<font color="#ffff00">The best.</font>
+
+252
+00:23:20,642 --> 00:23:23,437
+<font color="#ffff00">What brings you to Argentina?</font>
+
+253
+00:23:24,896 --> 00:23:28,525
+<font color="#ffff00">The climate. I'm a pig farmer.</font>
+
+254
+00:23:32,529 --> 00:23:35,532
+<font color="#ffff00">Tailor. Since I was a boy.</font>
+
+255
+00:23:35,615 --> 00:23:38,160
+<font color="#ffff00">My father made the finest
+suits in Dusseldorf.</font>
+
+256
+00:23:39,494 --> 00:23:42,205
+<font color="#ffff00">My parents were from Dusseldorf.</font>
+
+257
+00:23:43,790 --> 00:23:44,791
+<font color="#ffff00">What was their name?</font>
+
+258
+00:23:45,041 --> 00:23:46,626
+<font color="#ffff00">They didn't have a name.</font>
+
+259
+00:23:48,628 --> 00:23:50,505
+<font color="#ffff00">It was taken away from them...</font>
+
+260
+00:23:50,547 --> 00:23:52,090
+<font color="#ffff00">by pig farmers...</font>
+
+261
+00:23:53,592 --> 00:23:54,634
+<font color="#ffff00">...and tailors.</font>
+
+262
+00:24:23,914 --> 00:24:25,582
+<font color="#ffff00">Blood and Honor.</font>
+
+263
+00:24:26,082 --> 00:24:27,751
+<font color="#ffff00">Which would you care to shed first?</font>
+
+264
+00:24:27,876 --> 00:24:29,753
+<font color="#ffff00">We were under orders...</font>
+
+265
+00:24:29,920 --> 00:24:30,921
+<font color="#ffff00">Blood then.</font>
+
+266
+00:24:33,632 --> 00:24:34,633
+<font color="#ffff00">Freeze, asshole.</font>
+
+267
+00:24:35,050 --> 00:24:36,259
+<font color="#ffff00">Come on, shoot.</font>
+
+268
+00:24:56,947 --> 00:24:58,949
+<font color="#ffff00">Who... what are you?</font>
+
+269
+00:25:01,952 --> 00:25:05,121
+Let's just say I'm Frankenstein's monster.
+
+270
+00:25:16,800 --> 00:25:18,844
+And I'm looking for my creator.
+
+271
+00:25:23,181 --> 00:25:25,642
+Drink! Drink! Drink!
+
+272
+00:25:33,650 --> 00:25:35,610
+Yeah!
+
+273
+00:25:41,324 --> 00:25:44,077
+- I'm so proud of you.
+- Thank you.
+
+274
+00:25:44,160 --> 00:25:47,330
+I need another drink.
+And you need another cola.
+
+275
+00:25:51,001 --> 00:25:53,003
+- Congratulations, Professor.
+- Thank you very much.
+
+276
+00:25:53,086 --> 00:25:54,671
+It's much harder than it looks, actually.
+
+277
+00:25:54,754 --> 00:25:56,006
+No, on your presentation.
+
+278
+00:25:56,089 --> 00:25:58,550
+You were at my presentation?
+How nice of you. Thank you very much.
+
+279
+00:25:58,675 --> 00:25:59,718
+Moira MacTaggert.
+
+280
+00:25:59,843 --> 00:26:01,845
+- Charles Xavier.
+- Do you have a minute?
+
+281
+00:26:01,928 --> 00:26:05,056
+For a pretty little bean
+with a mutated MCR1 gene?
+
+282
+00:26:05,140 --> 00:26:06,683
+I have five.
+
+283
+00:26:06,933 --> 00:26:11,605
+I say "MCR1," you would say "Auburn hair."
+
+284
+00:26:11,688 --> 00:26:13,023
+It's a mutation.
+
+285
+00:26:13,231 --> 00:26:14,816
+It's a very groovy mutation.
+
+286
+00:26:15,317 --> 00:26:17,152
+Mutation, right,
+
+287
+00:26:17,193 --> 00:26:21,364
+took us from single-celled
+organisms to the dominant form...
+
+288
+00:26:21,406 --> 00:26:24,159
+You know what? This routine may
+go over great with the co-eds,
+
+289
+00:26:24,200 --> 00:26:26,828
+- but I'm here on business.
+- What?
+
+290
+00:26:27,120 --> 00:26:30,457
+- I really need your help.
+- All right.
+
+291
+00:26:30,540 --> 00:26:34,044
+The kind of mutations that you
+were talking about in your thesis.
+
+292
+00:26:34,085 --> 00:26:36,129
+I need to know if they may
+have already happened.
+
+293
+00:26:37,714 --> 00:26:39,174
+In people alive today.
+
+294
+00:26:51,144 --> 00:26:52,979
+Professor?
+
+295
+00:26:54,814 --> 00:26:56,316
+I think we should just
+talk when you're sober.
+
+296
+00:26:56,399 --> 00:26:57,484
+Do you have any time tomorrow?
+
+297
+00:26:59,402 --> 00:27:02,614
+Something tells me you already
+know the answer to your question.
+
+298
+00:27:05,283 --> 00:27:09,537
+This is very important to me, and if
+I can help you, I will do my utmost.
+
+299
+00:27:09,746 --> 00:27:10,747
+Thank you.
+
+300
+00:27:14,417 --> 00:27:16,628
+Still drinking champagne, Bob?
+
+301
+00:27:16,711 --> 00:27:18,672
+I will pass.
+
+302
+00:27:18,755 --> 00:27:21,675
+Okay, well, so much for the pleasantries.
+
+303
+00:27:22,425 --> 00:27:25,637
+I was wondering who you told
+about our little arrangement.
+
+304
+00:27:25,887 --> 00:27:27,097
+No one.
+
+305
+00:27:29,891 --> 00:27:32,102
+- He's telling the truth.
+- Good.
+
+306
+00:27:32,268 --> 00:27:34,437
+Well, I guess we're done here.
+
+307
+00:27:34,479 --> 00:27:36,022
+Let's wrap things up, shall we?
+
+308
+00:27:40,443 --> 00:27:42,904
+I knew better than to trust you.
+
+309
+00:27:43,863 --> 00:27:47,492
+Now, you let me walk out
+of here with my money,
+
+310
+00:27:47,575 --> 00:27:51,663
+or I will pull this pin, and we all die.
+
+311
+00:27:52,205 --> 00:27:55,125
+Go ahead. Pull it.
+
+312
+00:27:55,208 --> 00:27:57,085
+I'll do it, I swear to God.
+
+313
+00:28:06,678 --> 00:28:08,138
+No, you won't.
+
+314
+00:28:12,892 --> 00:28:14,019
+But I will.
+
+315
+00:28:27,991 --> 00:28:29,284
+You're one of them?
+
+316
+00:28:29,325 --> 00:28:31,119
+Very astute of you, Colonel Hendry.
+
+317
+00:28:31,494 --> 00:28:33,038
+You want to guess what I can do?
+
+318
+00:28:33,204 --> 00:28:36,124
+I've got the power to absorb energy.
+It keeps me young.
+
+319
+00:28:36,499 --> 00:28:37,917
+But that's the boring part.
+
+320
+00:28:38,168 --> 00:28:41,755
+The fun stuff is what I can do
+with it once I've got it.
+
+321
+00:28:47,719 --> 00:28:51,681
+The advent of the nuclear age may have
+accelerated the mutation process.
+
+322
+00:28:52,015 --> 00:28:57,395
+Individuals with extraordinary
+abilities may already be among us.
+
+323
+00:28:57,479 --> 00:28:58,521
+Thank you very much.
+
+324
+00:28:58,605 --> 00:29:01,191
+MacTaggert, you really think
+that some crackpot scientist
+
+325
+00:29:01,232 --> 00:29:05,195
+is going to make me believe
+in sparkly dames and vanishing men?
+
+326
+00:29:05,278 --> 00:29:08,364
+You just bought yourself a one-way
+ticket back to the typing pool.
+
+327
+00:29:08,448 --> 00:29:09,866
+This meeting is over.
+
+328
+00:29:10,033 --> 00:29:13,411
+Please sit down, Agent MacTaggert.
+
+329
+00:29:13,495 --> 00:29:15,455
+I didn't really expect you to believe me,
+
+330
+00:29:15,538 --> 00:29:17,707
+given that all you could think about
+during my presentation was
+
+331
+00:29:17,749 --> 00:29:21,169
+what sort of pie they were
+serving in the commissary.
+
+332
+00:29:21,211 --> 00:29:23,213
+It's apple pecan.
+
+333
+00:29:23,296 --> 00:29:25,715
+I haven't been entirely honest
+with you, love. I'm sorry.
+
+334
+00:29:25,757 --> 00:29:28,051
+You see, one of the many spectacular things
+
+335
+00:29:28,093 --> 00:29:32,388
+my mutation allows me to do
+is that I can read your mind.
+
+336
+00:29:32,847 --> 00:29:35,141
+I've seen this before in a magic show.
+
+337
+00:29:35,225 --> 00:29:39,187
+Are you going to ask us to think
+of a number between one and 10 now?
+
+338
+00:29:39,229 --> 00:29:40,980
+No, Agent Stryker. Although,
+
+339
+00:29:41,064 --> 00:29:43,108
+I could ask you about your son, William,
+
+340
+00:29:43,191 --> 00:29:44,818
+who you were thinking about,
+which is very nice.
+
+341
+00:29:44,901 --> 00:29:47,612
+But I think I'd rather ask you
+about the Jupiter missiles
+
+342
+00:29:47,695 --> 00:29:49,781
+America are currently placing in Turkey.
+
+343
+00:29:51,866 --> 00:29:53,034
+He's a goddamn spy.
+
+344
+00:29:53,076 --> 00:29:55,787
+You brought a goddamned
+spy into this facility!
+
+345
+00:30:15,598 --> 00:30:17,267
+How's that for a magic trick?
+
+346
+00:30:20,353 --> 00:30:22,564
+Best I've ever seen.
+
+347
+00:30:23,189 --> 00:30:25,191
+I want them out of here.
+
+348
+00:30:25,275 --> 00:30:28,111
+And locked down until I can
+figure out what to do.
+
+349
+00:30:28,945 --> 00:30:30,363
+My facility is off-site.
+
+350
+00:30:32,115 --> 00:30:33,616
+I'll take them.
+
+351
+00:30:34,868 --> 00:30:36,911
+I can't believe this.
+You'd think the director of the CIA
+
+352
+00:30:36,953 --> 00:30:38,121
+would have a little more composure.
+
+353
+00:30:38,163 --> 00:30:39,581
+We should be going after Shaw right now.
+
+354
+00:30:39,622 --> 00:30:42,083
+But instead, he's out there worrying
+about the wrong mutants.
+
+355
+00:30:42,167 --> 00:30:43,710
+What are we going to do, Levene?
+
+356
+00:30:44,210 --> 00:30:46,754
+Levene? Levene, what's wrong with you?
+
+357
+00:30:49,299 --> 00:30:50,550
+<i>Absolutely nothing.</i>
+
+358
+00:30:50,633 --> 00:30:52,969
+<i>I've just frozen him for a moment
+because I'd like to talk to you.</i>
+
+359
+00:30:53,011 --> 00:30:54,387
+<i>It's good, isn't it?</i>
+
+360
+00:30:54,470 --> 00:30:57,056
+<i>I'm as interested in this
+Sebastian Shaw as you are.</i>
+
+361
+00:30:57,140 --> 00:31:00,977
+<i>If you still want my help, meet me
+on the third floor of the parking garage.</i>
+
+362
+00:31:01,269 --> 00:31:04,189
+I've always known that there
+were people like you out there.
+
+363
+00:31:04,272 --> 00:31:07,817
+I've been the laughing stock of this
+agency for years, but I knew it!
+
+364
+00:31:07,859 --> 00:31:08,860
+You are going to love my facility.
+
+365
+00:31:08,943 --> 00:31:10,945
+- That's going to have to wait.
+- Why?
+
+366
+00:31:11,029 --> 00:31:12,906
+Agent MacTaggert has
+a lead on Sebastian Shaw,
+
+367
+00:31:12,989 --> 00:31:15,408
+and if we don't move now,
+apparently, we're going to lose him.
+
+368
+00:31:15,491 --> 00:31:17,827
+- What?
+- Not only can he read minds,
+
+369
+00:31:17,911 --> 00:31:19,412
+he can communicate with them as well.
+
+370
+00:31:19,495 --> 00:31:21,331
+Moira and I have just had
+a lovely conversation.
+
+371
+00:31:21,414 --> 00:31:22,665
+Yes, we did.
+
+372
+00:31:22,749 --> 00:31:24,250
+That is incredible!
+
+373
+00:31:25,043 --> 00:31:28,087
+But I cannot take you anywhere else
+without permission from upstairs.
+
+374
+00:31:28,171 --> 00:31:30,173
+- Like to see one more magic trick?
+- Okay.
+
+375
+00:31:30,256 --> 00:31:32,675
+- Get in the car.
+- Good idea.
+
+376
+00:31:53,196 --> 00:31:54,405
+<i>Herr Doktor.</i>
+
+377
+00:31:58,826 --> 00:32:00,912
+<font color="#ffff00">Little Erik Lensherr.</font>
+
+378
+00:32:01,371 --> 00:32:03,039
+He's here to kill you.
+
+379
+00:32:09,796 --> 00:32:12,632
+<font color="#ffff00">What kind of a greeting is that...</font>
+
+380
+00:32:15,093 --> 00:32:16,636
+<font color="#ffff00">...after all these years?</font>
+
+381
+00:32:26,229 --> 00:32:28,314
+Emma.
+
+382
+00:32:28,982 --> 00:32:30,566
+We don't harm our own kind.
+
+383
+00:32:32,443 --> 00:32:34,737
+Now it's a party.
+
+384
+00:32:36,072 --> 00:32:38,408
+<i>This is the US Coast Guard.</i>
+
+385
+00:32:38,449 --> 00:32:42,495
+<i>Do not attempt to move your vessel.
+Stay where you are.</i>
+
+386
+00:32:48,835 --> 00:32:50,670
+They have a telepath.
+
+387
+00:32:54,173 --> 00:32:59,262
+I've lost Shaw. I've lost Shaw.
+There's something blocking me.
+
+388
+00:32:59,304 --> 00:33:00,430
+This has never happened to me before.
+
+389
+00:33:00,471 --> 00:33:02,765
+I think there's someone like me
+on that ship.
+
+390
+00:33:02,849 --> 00:33:05,435
+- Like you?
+- I'm sorry, a telepath.
+
+391
+00:33:05,518 --> 00:33:08,396
+This is incredible. I could actually feel
+her inside my mind. I'm very sorry,
+
+392
+00:33:08,438 --> 00:33:10,815
+but I don't think I'm gonna be much
+help tonight. You're on your own.
+
+393
+00:33:24,996 --> 00:33:26,289
+- Oh, my God!
+- Jesus!
+
+394
+00:33:29,959 --> 00:33:31,586
+Get inside.
+
+395
+00:33:37,050 --> 00:33:38,426
+Stop, stop, stop.
+
+396
+00:33:39,844 --> 00:33:42,263
+Charles! Are you okay?
+
+397
+00:33:42,305 --> 00:33:43,473
+There's someone else out there.
+
+398
+00:33:47,518 --> 00:33:48,603
+There.
+
+399
+00:33:52,065 --> 00:33:53,149
+Time to go.
+
+400
+00:34:47,995 --> 00:34:49,455
+Let go!
+
+401
+00:34:51,541 --> 00:34:52,708
+You have to let it go!
+
+402
+00:34:52,959 --> 00:34:54,710
+You've got to put someone
+in the water to help him.
+
+403
+00:34:54,836 --> 00:34:57,964
+Let it go! You have to let it go!
+
+404
+00:35:18,234 --> 00:35:21,737
+<i>You can't. You'll drown.
+You have to let go.</i>
+
+405
+00:35:21,821 --> 00:35:24,907
+<i>I know what this means to you,
+but you're going to die.</i>
+
+406
+00:35:24,949 --> 00:35:29,078
+<i>Please, Erik, calm your mind.</i>
+
+407
+00:35:40,631 --> 00:35:42,258
+Get off me! Get off!
+
+408
+00:35:42,300 --> 00:35:44,594
+Calm down! Just breathe. We're here!
+
+409
+00:35:44,635 --> 00:35:46,762
+- Who are you?
+- My name is Charles Xavier.
+
+410
+00:35:47,597 --> 00:35:49,807
+You were in my head.
+How did you do that?
+
+411
+00:35:50,349 --> 00:35:54,187
+You have your tricks, I have mine.
+I'm like you. Just calm your mind.
+
+412
+00:35:56,606 --> 00:35:57,857
+I thought I was alone.
+
+413
+00:35:59,192 --> 00:36:00,651
+You're not alone.
+
+414
+00:36:02,069 --> 00:36:04,864
+Erik, you're not alone.
+
+415
+00:36:25,551 --> 00:36:28,137
+Welcome to my facility.
+
+416
+00:36:28,221 --> 00:36:29,889
+My mission has been to investigate
+
+417
+00:36:29,972 --> 00:36:33,059
+the application of paranormal
+powers in military defense.
+
+418
+00:36:33,351 --> 00:36:35,061
+Or offense.
+
+419
+00:36:35,144 --> 00:36:37,355
+This guy Shaw, Schmidt,
+
+420
+00:36:37,438 --> 00:36:40,149
+whatever you want to call him,
+he's working with the Russians.
+
+421
+00:36:40,191 --> 00:36:42,568
+- We might need your help to stop him.
+- Marvelous.
+
+422
+00:36:42,652 --> 00:36:45,613
+So we're to be the CIA's
+new mutant division, yes?
+
+423
+00:36:46,739 --> 00:36:47,907
+Something like that.
+
+424
+00:36:51,327 --> 00:36:55,581
+It's a supersonic.
+The most advanced plane ever built.
+
+425
+00:36:56,999 --> 00:37:00,127
+You should see it in real life. It's incredible.
+
+426
+00:37:00,169 --> 00:37:04,131
+Hank, these are the special new
+recruits I was telling you about.
+
+427
+00:37:04,173 --> 00:37:07,176
+This is Hank McCoy, one of our
+most talented young researchers.
+
+428
+00:37:07,260 --> 00:37:10,930
+How wonderful.
+Another mutant, already here.
+
+429
+00:37:11,013 --> 00:37:13,057
+Why didn't you say?
+
+430
+00:37:13,140 --> 00:37:14,267
+Say what?
+
+431
+00:37:15,434 --> 00:37:17,687
+Because you don't know.
+
+432
+00:37:17,728 --> 00:37:21,023
+I am so, so terribly sorry.
+
+433
+00:37:23,818 --> 00:37:27,321
+- Hank?
+- You didn't ask, so I didn't tell.
+
+434
+00:37:27,363 --> 00:37:29,031
+So, your mutation is what?
+
+435
+00:37:29,073 --> 00:37:31,784
+- You're super-smart?
+- I'll say.
+
+436
+00:37:31,867 --> 00:37:33,744
+Hank here graduated
+Harvard at the age of 15.
+
+437
+00:37:34,996 --> 00:37:37,081
+I wish that's all it was.
+
+438
+00:37:37,290 --> 00:37:39,041
+You're among friends now, Hank.
+
+439
+00:37:39,125 --> 00:37:40,543
+You can show off.
+
+440
+00:37:56,726 --> 00:37:57,852
+Splendid.
+
+441
+00:38:04,567 --> 00:38:06,110
+I'm sorry.
+
+442
+00:38:11,949 --> 00:38:13,451
+Ta-da!
+
+443
+00:38:20,416 --> 00:38:21,584
+You're amazing.
+
+444
+00:38:22,418 --> 00:38:23,502
+Really?
+
+445
+00:38:28,966 --> 00:38:30,593
+<i>"The presence of US missiles in Turkey</i>
+
+446
+00:38:30,676 --> 00:38:34,221
+<i>"represents an unprecedented threat
+to the people of the Soviet Union,"</i>
+
+447
+00:38:34,305 --> 00:38:37,683
+<i>warned Russian Foreign Minister
+Gromyko earlier today.</i>
+
+448
+00:38:38,184 --> 00:38:41,270
+<i>But he was quick to insist
+the Russians would not be the first</i>
+
+449
+00:38:41,312 --> 00:38:43,564
+<i>to initiate any military action.</i>
+
+450
+00:38:43,606 --> 00:38:46,442
+Yeah, we'll fix that as soon
+as we get to Russia.
+
+451
+00:38:46,525 --> 00:38:49,111
+Unless the CIA find us first.
+
+452
+00:38:49,153 --> 00:38:51,322
+I'll take care of them, too.
+
+453
+00:38:52,448 --> 00:38:57,286
+If that telepath gets inside your head,
+he won't be as much fun as I am.
+
+454
+00:38:57,370 --> 00:38:59,246
+Already in hand, my love.
+
+455
+00:39:08,964 --> 00:39:10,841
+The Russians
+
+456
+00:39:12,802 --> 00:39:15,137
+made me this.
+
+457
+00:39:17,765 --> 00:39:20,351
+So, what am I thinking?
+
+458
+00:39:29,777 --> 00:39:31,195
+I don't know.
+
+459
+00:39:34,156 --> 00:39:36,075
+I was thinking that you are
+the most exquisite thing
+
+460
+00:39:36,158 --> 00:39:37,785
+I have ever seen in my life.
+
+461
+00:39:41,997 --> 00:39:43,958
+And that this needs ice.
+
+462
+00:39:45,459 --> 00:39:47,211
+Fetch me some.
+
+463
+00:39:47,294 --> 00:39:48,587
+There's a good girl.
+
+464
+00:40:13,904 --> 00:40:18,075
+I promised myself I'd find a cure
+ever since I was a little boy.
+
+465
+00:40:18,534 --> 00:40:22,580
+You have no idea what I'd give to feel
+
+466
+00:40:22,663 --> 00:40:24,248
+- normal.
+- Normal.
+
+467
+00:40:29,003 --> 00:40:31,464
+Charles has never understood.
+
+468
+00:40:31,547 --> 00:40:34,383
+He's different, but he's never had to hide.
+
+469
+00:40:35,551 --> 00:40:39,722
+Hank, this serum that you're making,
+it doesn't affect abilities, right?
+
+470
+00:40:39,764 --> 00:40:42,725
+Just appearance. It normalizes it.
+
+471
+00:40:42,808 --> 00:40:43,893
+Yeah.
+
+472
+00:40:44,727 --> 00:40:46,395
+Do you think it would work on me?
+
+473
+00:40:47,897 --> 00:40:50,941
+I can look into it, if you'd like.
+It's the least I can do
+
+474
+00:40:51,025 --> 00:40:53,235
+after asking you to come down here
+with such a weird request.
+
+475
+00:40:54,069 --> 00:40:57,239
+I have to admit, usually when guys
+ask me out, they're not after my blood.
+
+476
+00:40:58,032 --> 00:41:01,869
+Sorry. I didn't intend to be forward.
+I was just...
+
+477
+00:41:02,495 --> 00:41:06,165
+I was excited.
+You know, the nature of your mutation.
+
+478
+00:41:06,248 --> 00:41:09,335
+If any genes hold the key
+to changing appearance, it's yours.
+
+479
+00:41:09,627 --> 00:41:13,714
+Hank, you weren't being forward.
+That's kind of what I meant.
+
+480
+00:41:14,590 --> 00:41:15,800
+No.
+
+481
+00:41:15,883 --> 00:41:17,927
+But I'm just sorry if you thought I was.
+
+482
+00:41:18,219 --> 00:41:20,346
+And I'm sorry that you weren't.
+
+483
+00:41:21,555 --> 00:41:24,016
+Go ahead. Take the blood.
+
+484
+00:41:35,778 --> 00:41:37,279
+Sorry. Did I hurt you?
+
+485
+00:41:40,115 --> 00:41:41,575
+Kinky.
+
+486
+00:41:43,452 --> 00:41:47,414
+By the way, if I looked like you,
+
+487
+00:41:47,498 --> 00:41:49,083
+I wouldn't change a thing.
+
+488
+00:42:16,360 --> 00:42:17,403
+From what I know about you,
+
+489
+00:42:17,486 --> 00:42:19,822
+I'm surprised you've managed
+to stay this long.
+
+490
+00:42:21,490 --> 00:42:22,825
+What do you know about me?
+
+491
+00:42:23,868 --> 00:42:25,077
+Everything.
+
+492
+00:42:25,286 --> 00:42:26,829
+Then you know to stay out of my head.
+
+493
+00:42:27,329 --> 00:42:30,958
+I'm sorry, Erik, but I've seen
+what Shaw did to you.
+
+494
+00:42:32,501 --> 00:42:35,087
+I've felt your agony.
+
+495
+00:42:36,755 --> 00:42:38,549
+I can help you.
+
+496
+00:42:45,556 --> 00:42:46,765
+I don't need your help.
+
+497
+00:42:46,849 --> 00:42:49,018
+Don't kid yourself.
+You needed my help last night.
+
+498
+00:42:49,101 --> 00:42:51,604
+It's not just me you're walking away from.
+
+499
+00:42:52,354 --> 00:42:56,525
+Here you have the chance to be part
+of something much bigger than yourself.
+
+500
+00:42:58,903 --> 00:43:01,697
+I won't stop you leaving. I could.
+
+501
+00:43:05,034 --> 00:43:06,535
+But I won't.
+
+502
+00:43:10,497 --> 00:43:11,624
+Shaw has got friends.
+
+503
+00:43:12,625 --> 00:43:14,793
+You could do with some.
+
+504
+00:43:20,633 --> 00:43:23,594
+Hank turned that radar
+installation into a transmitter.
+
+505
+00:43:23,677 --> 00:43:26,221
+It's designed to amplify brainwaves
+
+506
+00:43:26,263 --> 00:43:28,641
+so it could enhance your telepathic powers,
+
+507
+00:43:28,724 --> 00:43:30,851
+help us find other mutants for our division.
+
+508
+00:43:30,893 --> 00:43:32,978
+What if they don't want to be found by you?
+
+509
+00:43:33,062 --> 00:43:34,563
+Erik.
+
+510
+00:43:34,939 --> 00:43:36,065
+You decided to stay.
+
+511
+00:43:39,109 --> 00:43:43,238
+If a new species is being discovered,
+it should be by its own kind.
+
+512
+00:43:43,322 --> 00:43:45,783
+Charles and I find the mutants. No suits.
+
+513
+00:43:46,075 --> 00:43:47,743
+First of all, that's my machine out there.
+
+514
+00:43:47,785 --> 00:43:50,746
+Second of all, and much more
+importantly, this is Charles' decision.
+
+515
+00:43:50,788 --> 00:43:52,665
+Charles is fine with the CIA being involved.
+
+516
+00:43:52,748 --> 00:43:54,249
+Isn't that right?
+
+517
+00:43:55,751 --> 00:43:59,046
+No. I'm sorry, but I'm with Erik.
+
+518
+00:44:00,339 --> 00:44:02,257
+We'll find them alone.
+
+519
+00:44:03,509 --> 00:44:04,760
+What if I say no?
+
+520
+00:44:06,136 --> 00:44:09,223
+Then good luck using your installation
+without me.
+
+521
+00:44:21,402 --> 00:44:24,947
+I call it Cerebro.
+
+522
+00:44:25,072 --> 00:44:27,992
+- As in the Spanish for "brain."
+- Yes.
+
+523
+00:44:28,075 --> 00:44:31,453
+Okay, so, the electrodes connect Charles
+to the transmitter on the roof.
+
+524
+00:44:31,537 --> 00:44:35,624
+When he picks up a mutant,
+his brain sends a signal through a relay
+
+525
+00:44:35,666 --> 00:44:38,794
+and then the co-ordinates
+of their location are printed out here.
+
+526
+00:44:38,877 --> 00:44:41,255
+- You designed this?
+- Yeah.
+
+527
+00:44:44,717 --> 00:44:46,343
+What an adorable lab rat you make, Charles.
+
+528
+00:44:46,427 --> 00:44:48,512
+Don't spoil this for me, Erik.
+
+529
+00:44:48,595 --> 00:44:51,015
+I've been a lab rat.
+I know one when I see one.
+
+530
+00:44:51,265 --> 00:44:55,185
+Okay, great.
+Are you sure we can't shave your head?
+
+531
+00:44:55,269 --> 00:44:57,354
+- Don't touch my hair.
+- Okay.
+
+532
+00:45:41,023 --> 00:45:42,149
+It's working!
+
+533
+00:46:00,542 --> 00:46:03,545
+For that, daddy-o, you get a private dance.
+
+534
+00:46:07,049 --> 00:46:09,426
+You cats know it's double for both, right?
+
+535
+00:46:10,385 --> 00:46:12,387
+No, that won't be necessary.
+Although, I'm sure it'd be magical.
+
+536
+00:46:12,429 --> 00:46:15,891
+We were thinking more, we'll show you ours
+
+537
+00:46:15,974 --> 00:46:17,267
+if you show us yours.
+
+538
+00:46:17,392 --> 00:46:19,728
+Baby, that is not the way
+it works around here.
+
+539
+00:46:21,814 --> 00:46:23,190
+More tea, vicar?
+
+540
+00:46:23,565 --> 00:46:25,609
+Don't mind if I do.
+
+541
+00:46:27,945 --> 00:46:29,738
+My turn.
+
+542
+00:46:47,256 --> 00:46:49,925
+How would you like a job where
+you get to keep your clothes on?
+
+543
+00:46:55,597 --> 00:46:57,766
+- Where to, fellas?
+- Richmond, Virginia, please.
+
+544
+00:46:57,850 --> 00:47:00,769
+Right, so, you want the airport?
+The station? What?
+
+545
+00:47:00,811 --> 00:47:04,022
+No, we were rather hoping you
+would take us all the way.
+
+546
+00:47:04,273 --> 00:47:05,607
+That's a six-hour drive.
+
+547
+00:47:05,649 --> 00:47:08,068
+That will give us plenty of time to talk.
+
+548
+00:47:12,030 --> 00:47:14,616
+What does the government want
+with a guy like Alex Summers?
+
+549
+00:47:15,033 --> 00:47:16,743
+I hope you're not planning
+on putting him with others.
+
+550
+00:47:17,119 --> 00:47:21,623
+First guy I've ever met who actually
+prefers solitary confinement.
+
+551
+00:47:30,924 --> 00:47:32,384
+Crazy, huh?
+
+552
+00:47:32,467 --> 00:47:33,635
+What?
+
+553
+00:47:33,719 --> 00:47:35,679
+You like fish. I like fish, too.
+
+554
+00:47:36,305 --> 00:47:39,641
+Maybe we should get a bite
+sometime, talk about it?
+
+555
+00:47:41,727 --> 00:47:43,395
+I'd rather go out with the fish.
+
+556
+00:47:49,735 --> 00:47:51,486
+These fish?
+
+557
+00:48:10,422 --> 00:48:12,507
+- Excuse me, I'm Erik Lensherr.
+- Charles Xavier.
+
+558
+00:48:12,591 --> 00:48:14,509
+Go fuck yourself.
+
+559
+00:48:34,363 --> 00:48:36,406
+- There's nothing on radar?
+- Nothing.
+
+560
+00:48:36,490 --> 00:48:38,450
+- Sonar?
+- <i>Nyet.</i>
+
+561
+00:48:39,368 --> 00:48:41,411
+Then we have a problem.
+
+562
+00:49:00,055 --> 00:49:02,641
+Beautiful, isn't it?
+
+563
+00:49:02,724 --> 00:49:04,851
+The reason we exist.
+
+564
+00:49:04,893 --> 00:49:07,062
+We are the children of the atom, my love.
+
+565
+00:49:07,396 --> 00:49:08,563
+We have a situation.
+
+566
+00:49:09,439 --> 00:49:10,857
+The telepath.
+
+567
+00:49:10,899 --> 00:49:13,110
+I shouldn't be able to feel
+him at this distance.
+
+568
+00:49:13,318 --> 00:49:15,612
+It's like his reach is
+
+569
+00:49:15,696 --> 00:49:16,780
+amplified.
+
+570
+00:49:20,117 --> 00:49:22,244
+They're recruiting.
+
+571
+00:49:22,327 --> 00:49:25,998
+You go on to Russia. I'll handle them.
+
+572
+00:49:27,666 --> 00:49:29,918
+I can't stop thinking about
+the others out there.
+
+573
+00:49:30,002 --> 00:49:33,797
+All those minds that I touched.
+I could feel them.
+
+574
+00:49:34,756 --> 00:49:39,261
+Their isolation, their hopes,
+their ambitions.
+
+575
+00:49:39,303 --> 00:49:41,722
+I tell you, we are at the start
+of something incredible, Erik.
+
+576
+00:49:41,763 --> 00:49:42,973
+We can help them.
+
+577
+00:49:43,473 --> 00:49:44,766
+Can we?
+
+578
+00:49:46,059 --> 00:49:49,229
+Identification, that's how it starts.
+
+579
+00:49:50,480 --> 00:49:54,067
+And ends with being rounded up,
+experimented on, eliminated.
+
+580
+00:49:54,109 --> 00:49:55,944
+Not this time.
+
+581
+00:49:55,986 --> 00:49:58,280
+We have common enemies.
+Shaw, the Russians.
+
+582
+00:49:58,322 --> 00:49:59,906
+They need us.
+
+583
+00:49:59,948 --> 00:50:01,450
+For now.
+
+584
+00:50:07,080 --> 00:50:08,415
+We should think of code names.
+
+585
+00:50:08,665 --> 00:50:10,834
+We're government agents now,
+we should have secret code names.
+
+586
+00:50:11,251 --> 00:50:12,377
+I want to be called Mystique.
+
+587
+00:50:12,753 --> 00:50:15,297
+Damn! I wanted to be called Mystique.
+
+588
+00:50:15,380 --> 00:50:17,299
+Well, tough. I called it.
+
+589
+00:50:18,884 --> 00:50:21,595
+And I'm way more mysterious than you.
+
+590
+00:50:24,139 --> 00:50:25,390
+Darwin, what about you?
+
+591
+00:50:25,724 --> 00:50:27,684
+Well, "Darwin" is already a nickname,
+
+592
+00:50:27,768 --> 00:50:30,312
+and, you know, it sort of fits.
+
+593
+00:50:30,395 --> 00:50:31,772
+Adapt to survive and all.
+
+594
+00:50:32,356 --> 00:50:34,441
+Check this out.
+
+595
+00:50:47,454 --> 00:50:49,164
+- That was incredible.
+- Thank you.
+
+596
+00:50:49,748 --> 00:50:53,710
+- What about you?
+- I'm going to be
+
+597
+00:50:53,794 --> 00:50:54,836
+Banshee.
+
+598
+00:50:54,878 --> 00:50:56,671
+Why do you want to be named
+after a wailing spirit?
+
+599
+00:50:56,797 --> 00:50:58,090
+You might want to cover your ears.
+
+600
+00:51:14,398 --> 00:51:17,859
+- Your turn.
+- My stage name is Angel.
+
+601
+00:51:19,111 --> 00:51:21,196
+- It kind of fits.
+- You can fly?
+
+602
+00:51:22,197 --> 00:51:23,198
+And...
+
+603
+00:51:32,290 --> 00:51:33,291
+What's your name?
+
+604
+00:51:34,626 --> 00:51:35,710
+How about Big Foot?
+
+605
+00:51:36,420 --> 00:51:39,214
+You know what they say
+about guys with big feet.
+
+606
+00:51:39,256 --> 00:51:41,216
+And yours are kind of small.
+
+607
+00:51:41,341 --> 00:51:42,634
+Okay, now.
+
+608
+00:51:44,010 --> 00:51:45,887
+Alex, what is your gift?
+What can you do?
+
+609
+00:51:46,054 --> 00:51:48,723
+It's not...
+
+610
+00:51:48,765 --> 00:51:51,059
+I just can't do it.
+I can't do it in here.
+
+611
+00:51:51,101 --> 00:51:53,395
+- Can you do it out there?
+- Why don't you just do it out there?
+
+612
+00:51:53,437 --> 00:51:57,065
+- Come on!
+- Alex! Alex! Alex!
+
+613
+00:52:01,987 --> 00:52:03,488
+That's the spirit!
+
+614
+00:52:03,572 --> 00:52:05,657
+Get down when I tell you.
+
+615
+00:52:05,740 --> 00:52:07,576
+"Get down when I tell you."
+
+616
+00:52:12,497 --> 00:52:13,582
+Get back.
+
+617
+00:52:19,087 --> 00:52:20,130
+Get back!
+
+618
+00:52:21,756 --> 00:52:23,425
+Whatever.
+
+619
+00:52:37,063 --> 00:52:41,234
+We have intel that Shaw is meeting
+with the Russian Defense Chief in Moscow.
+
+620
+00:52:41,276 --> 00:52:43,445
+So go ahead. Say it.
+
+621
+00:52:43,487 --> 00:52:45,947
+I'm not here to say "I told you so."
+You know why I'm here.
+
+622
+00:52:45,989 --> 00:52:48,700
+Yeah, yeah, yeah.
+Clearance to bring along your mutants.
+
+623
+00:52:48,783 --> 00:52:52,245
+Fight fire with fire. It makes sense.
+
+624
+00:52:52,287 --> 00:52:54,206
+Wait! You're okay with this?
+
+625
+00:52:54,289 --> 00:52:57,083
+Sending in a bunch of untrained,
+unauthorized freaks?
+
+626
+00:52:57,125 --> 00:53:01,630
+These freaks are dedicated,
+hardworking people.
+
+627
+00:53:02,714 --> 00:53:04,216
+Plane leaves for Russia in an hour.
+
+628
+00:53:04,299 --> 00:53:06,218
+I'm telling you, these kids
+are not ready for Shaw.
+
+629
+00:53:06,301 --> 00:53:07,344
+I think they're gonna surprise you.
+
+630
+00:53:07,427 --> 00:53:08,678
+They're an exceptional
+bunch of young people.
+
+631
+00:53:08,762 --> 00:53:09,804
+What the hell?
+
+632
+00:53:18,772 --> 00:53:20,815
+Come on! You can go harder than that.
+
+633
+00:53:22,651 --> 00:53:23,818
+Harder!
+
+634
+00:53:24,528 --> 00:53:25,570
+Harder!
+
+635
+00:53:28,532 --> 00:53:30,242
+What are you doing?
+
+636
+00:53:36,248 --> 00:53:37,791
+Who destroyed the statue?
+
+637
+00:53:37,832 --> 00:53:39,376
+It was Alex.
+
+638
+00:53:39,459 --> 00:53:40,752
+No, Havok.
+
+639
+00:53:40,835 --> 00:53:42,921
+We have to call him Havok.
+That's his name now.
+
+640
+00:53:43,004 --> 00:53:46,758
+And we were thinking,
+you should be Professor X
+
+641
+00:53:46,883 --> 00:53:49,010
+and you should be Magneto.
+
+642
+00:53:50,387 --> 00:53:51,513
+Exceptional.
+
+643
+00:53:56,268 --> 00:53:57,811
+I expect more from you.
+
+644
+00:54:18,957 --> 00:54:20,375
+- We got a problem.
+- What?
+
+645
+00:54:20,417 --> 00:54:22,544
+I'm so sorry. This wasn't on the map.
+
+646
+00:54:29,092 --> 00:54:32,387
+No matter what happens, act normally.
+I'll take care of this, all right?
+
+647
+00:54:33,680 --> 00:54:34,723
+Now, listen to me...
+
+648
+00:54:37,934 --> 00:54:40,353
+<font color="#ffff00">- Where are you going?
+- To our farm.</font>
+
+649
+00:54:42,606 --> 00:54:44,024
+<font color="#ffff00">Open the back.</font>
+
+650
+00:54:44,065 --> 00:54:45,984
+<font color="#ffff00">As you wish.</font>
+
+651
+00:54:50,238 --> 00:54:52,073
+Easy, easy. Take it easy, chaps.
+
+652
+00:55:08,131 --> 00:55:10,634
+<font color="#ffff00">- Anything back there?
+- Nothing. It's empty.</font>
+
+653
+00:55:13,928 --> 00:55:15,597
+<font color="#ffff00">- Everything okay?
+- Yes.</font>
+
+654
+00:55:38,703 --> 00:55:41,331
+- Where is Shaw?
+- I don't know.
+
+655
+00:55:41,414 --> 00:55:44,709
+But if she's a telepath and I read her,
+she'll know we're here.
+
+656
+00:55:46,086 --> 00:55:48,088
+Let me try something else.
+
+657
+00:56:05,313 --> 00:56:07,732
+Shaw sends his apologies
+but he's indisposed.
+
+658
+00:56:07,816 --> 00:56:10,443
+He asked me to come in his place.
+
+659
+00:56:10,485 --> 00:56:14,739
+And between you and I, honey,
+I'm a lot better company.
+
+660
+00:56:14,823 --> 00:56:15,949
+Please, come in.
+
+661
+00:56:21,371 --> 00:56:22,414
+He's not coming.
+
+662
+00:56:25,250 --> 00:56:27,168
+So, what now, boss?
+
+663
+00:56:27,210 --> 00:56:29,754
+Now, nothing. We're here for Shaw.
+Mission aborted.
+
+664
+00:56:29,838 --> 00:56:31,589
+- The hell it is.
+- Erik.
+
+665
+00:56:31,673 --> 00:56:34,342
+She's his right-hand woman.
+That's good enough for me.
+
+666
+00:56:34,634 --> 00:56:38,054
+The CIA invading the home of a senior
+Soviet official. Are you crazy?
+
+667
+00:56:38,680 --> 00:56:40,265
+I'm not CIA.
+
+668
+00:56:40,515 --> 00:56:41,516
+Erik!
+
+669
+00:56:44,853 --> 00:56:46,354
+<font color="#ffff00">Your health.</font>
+
+670
+00:56:50,567 --> 00:56:52,527
+So, you must be busy
+planning your next move.
+
+671
+00:56:52,569 --> 00:56:55,822
+What with the Americans refusing
+to remove their missiles from Turkey.
+
+672
+00:56:57,240 --> 00:57:00,410
+You know I can't talk about
+those things, Miss Frost.
+
+673
+00:57:01,035 --> 00:57:02,537
+Emma.
+
+674
+00:57:05,373 --> 00:57:07,417
+And don't worry.
+
+675
+00:57:08,001 --> 00:57:10,128
+You don't have to say a word.
+
+676
+00:57:26,019 --> 00:57:27,353
+He's gonna start
+World War III single-handed.
+
+677
+00:57:27,395 --> 00:57:30,023
+- We have to do something.
+- Like what?
+
+678
+00:57:30,064 --> 00:57:31,399
+- We're moving out.
+- You can't!
+
+679
+00:57:47,707 --> 00:57:49,542
+I'm sorry. I can't leave him.
+
+680
+00:58:01,638 --> 00:58:04,766
+For God's sake, Erik! Be calm.
+
+681
+00:58:04,933 --> 00:58:06,267
+<font color="#ffff00">Be calm.</font>
+
+682
+00:58:06,810 --> 00:58:08,520
+<font color="#ffff00">Forget my face.</font>
+
+683
+00:58:17,487 --> 00:58:21,950
+You are beautiful, so beautiful! Yes!
+
+684
+00:58:22,450 --> 00:58:24,244
+Pathetic.
+
+685
+00:58:32,293 --> 00:58:33,711
+Yes!
+
+686
+00:58:35,797 --> 00:58:36,840
+Nice trick.
+
+687
+00:58:39,759 --> 00:58:40,760
+<font color="#ffff00">Who are you?</font>
+
+688
+00:58:44,722 --> 00:58:45,723
+Go to sleep.
+
+689
+00:58:54,148 --> 00:58:56,150
+You can stop trying to read my mind, sugar.
+
+690
+00:58:58,570 --> 00:59:01,072
+You're never going to get anything
+from me while I'm like this.
+
+691
+00:59:14,168 --> 00:59:15,420
+So, then, you can just tell us.
+
+692
+00:59:18,506 --> 00:59:19,883
+Where is Shaw?
+
+693
+00:59:26,180 --> 00:59:27,348
+Erik.
+
+694
+00:59:33,938 --> 00:59:35,064
+Erik, that's enough.
+
+695
+00:59:43,781 --> 00:59:44,824
+Erik, that's enough!
+
+696
+00:59:55,043 --> 00:59:56,044
+All yours.
+
+697
+00:59:57,712 --> 01:00:00,590
+She won't be shifting
+into diamond form again.
+
+698
+01:00:00,673 --> 01:00:03,051
+And if she does, just give her a gentle tap.
+
+699
+01:00:29,154 --> 01:00:32,407
+<i>We are the children of the atom.</i>
+
+700
+01:00:35,452 --> 01:00:39,831
+<i>What will kill the humans
+will only make us stronger.</i>
+
+701
+01:00:44,211 --> 01:00:45,295
+Beautiful, isn't it?
+
+702
+01:00:48,713 --> 01:00:51,299
+This is worse than we previously imagined.
+
+703
+01:00:53,676 --> 01:00:55,428
+We're taking you with us.
+
+704
+01:00:55,511 --> 01:00:57,597
+CIA will want to question you themselves.
+
+705
+01:00:57,680 --> 01:00:59,348
+Oh, I doubt it.
+
+706
+01:00:59,432 --> 01:01:02,518
+They have bigger things
+to worry about right now.
+
+707
+01:01:08,149 --> 01:01:10,359
+- Whoa!
+- All right, all right.
+
+708
+01:01:10,443 --> 01:01:12,445
+Jesus, man, you are killing me.
+
+709
+01:01:12,528 --> 01:01:15,615
+Don't beat yourself up.
+I've had a lot of spare time.
+
+710
+01:01:20,453 --> 01:01:22,246
+I didn't know the circus was in town.
+
+711
+01:01:22,705 --> 01:01:24,874
+Hey, come on, honey. Give us a little...
+
+712
+01:01:25,583 --> 01:01:28,044
+No? Come on, let's see the foot.
+
+713
+01:01:28,127 --> 01:01:29,795
+There it is. Come on, Big Foot, let's go.
+
+714
+01:01:29,879 --> 01:01:32,215
+Hey. Hey, come on. Hey.
+
+715
+01:01:36,552 --> 01:01:38,596
+They're just guys being stupid.
+
+716
+01:01:38,679 --> 01:01:41,933
+Guys being stupid, I can handle. Okay?
+I've handled that my whole life.
+
+717
+01:01:42,350 --> 01:01:44,477
+But I'd rather a bunch of guys
+stare at me with my clothes off
+
+718
+01:01:44,560 --> 01:01:45,895
+than the way these ones stare at me.
+
+719
+01:01:47,813 --> 01:01:48,856
+At us.
+
+720
+01:01:57,156 --> 01:01:58,157
+What was that?
+
+721
+01:02:00,618 --> 01:02:02,912
+I don't know. Something doesn't feel right.
+
+722
+01:02:11,921 --> 01:02:13,130
+No news of Shaw?
+
+723
+01:02:13,714 --> 01:02:16,509
+- Not a peep.
+- Not even through that back channel?
+
+724
+01:02:29,063 --> 01:02:30,106
+What is that?
+
+725
+01:02:47,540 --> 01:02:50,376
+- We have an intruder in the main atrium.
+- Where are the mutants?
+
+726
+01:02:50,459 --> 01:02:52,211
+If you take another step,
+I'm gonna put you down.
+
+727
+01:02:52,295 --> 01:02:55,548
+Of course you will. But where do
+I find the more evolved people?
+
+728
+01:02:56,465 --> 01:02:57,717
+Send back-up now!
+
+729
+01:03:00,928 --> 01:03:03,973
+Get back! Do not leave that room.
+We're under attack!
+
+730
+01:03:05,057 --> 01:03:06,058
+Shoot! Shoot!
+
+731
+01:03:19,780 --> 01:03:20,823
+Where are the mutants?
+
+732
+01:03:20,865 --> 01:03:23,326
+Put that man down or we will open fire!
+
+733
+01:03:49,018 --> 01:03:51,020
+Stay here, my ass! Let's go!
+
+734
+01:03:56,692 --> 01:03:59,236
+- Get back!
+- We can help! We can help!
+
+735
+01:04:58,963 --> 01:04:59,964
+Wait!
+
+736
+01:05:00,047 --> 01:05:01,882
+You want the mutants?
+They're right through that door.
+
+737
+01:05:02,007 --> 01:05:04,343
+Just let us normal people go.
+We're no threat...
+
+738
+01:05:14,520 --> 01:05:16,897
+- Where is the telepath?
+- Not here.
+
+739
+01:05:17,314 --> 01:05:18,732
+Too bad.
+
+740
+01:05:18,941 --> 01:05:20,609
+Well, at least I can take
+this silly thing off.
+
+741
+01:05:23,028 --> 01:05:26,907
+Good evening.
+My name is Sebastian Shaw.
+
+742
+01:05:28,200 --> 01:05:30,286
+And I am not here to hurt you.
+
+743
+01:05:30,536 --> 01:05:31,829
+Freeze!
+
+744
+01:05:32,246 --> 01:05:33,789
+Azazel.
+
+745
+01:05:37,126 --> 01:05:40,713
+My friends, there is a revolution coming.
+
+746
+01:05:40,796 --> 01:05:44,133
+When mankind discovers
+who we are, what we can do,
+
+747
+01:05:44,216 --> 01:05:45,968
+each of us will face a choice.
+
+748
+01:05:46,802 --> 01:05:48,220
+Be enslaved
+
+749
+01:05:49,597 --> 01:05:51,307
+or rise up to rule.
+
+750
+01:05:52,308 --> 01:05:54,518
+Choose freely, but know
+that if you are not with us,
+
+751
+01:05:54,602 --> 01:05:56,312
+then, by definition, you are
+
+752
+01:05:56,687 --> 01:05:58,230
+against us.
+
+753
+01:05:59,064 --> 01:06:01,275
+So, you can stay
+
+754
+01:06:01,859 --> 01:06:04,820
+and fight for the people
+who hate and fear you,
+
+755
+01:06:06,030 --> 01:06:09,783
+or you can join me and live like kings.
+
+756
+01:06:16,332 --> 01:06:17,583
+And queens.
+
+757
+01:06:29,303 --> 01:06:30,846
+- Angel.
+- Are you kidding me?
+
+758
+01:06:31,722 --> 01:06:33,557
+Come on.
+
+759
+01:06:33,641 --> 01:06:35,476
+We don't belong here.
+
+760
+01:06:35,851 --> 01:06:37,937
+And that's nothing to be ashamed of.
+
+761
+01:06:42,983 --> 01:06:44,902
+We have to do something.
+
+762
+01:07:00,209 --> 01:07:03,045
+Stop. I'm coming with you.
+
+763
+01:07:07,007 --> 01:07:08,676
+Good choice.
+
+764
+01:07:09,677 --> 01:07:11,720
+So, tell me about your mutation.
+
+765
+01:07:12,555 --> 01:07:14,181
+Well, I adapt to survive.
+
+766
+01:07:17,851 --> 01:07:19,270
+So, I guess I'm coming with you.
+
+767
+01:07:19,937 --> 01:07:21,480
+I like that.
+
+768
+01:07:27,736 --> 01:07:29,154
+- Alex!
+- Get out!
+
+769
+01:07:29,280 --> 01:07:30,656
+Do it!
+
+770
+01:07:35,536 --> 01:07:37,580
+Protecting your fellow mutants?
+
+771
+01:07:38,539 --> 01:07:39,915
+That's a noble gesture.
+
+772
+01:07:40,583 --> 01:07:42,084
+Feels good.
+
+773
+01:07:47,881 --> 01:07:49,508
+Adapt to this.
+
+774
+01:08:33,761 --> 01:08:35,512
+<font color="#ffff00">Hello.</font>
+
+775
+01:08:36,764 --> 01:08:43,729
+<font color="#ffff00">Once again, my sympathies for your
+treatment at the hands of the CIA.</font>
+
+776
+01:08:43,979 --> 01:08:46,982
+<font color="#ffff00">These Americans are ruthless.</font>
+
+777
+01:08:48,150 --> 01:08:52,655
+<font color="#ffff00">Now they have their missiles
+placed in Turkey...</font>
+
+778
+01:08:53,697 --> 01:08:57,951
+<font color="#ffff00">...I expect you'll be planning
+new missile sites of your own.</font>
+
+779
+01:08:58,285 --> 01:09:04,667
+<font color="#ffff00">Somewhere you know the American
+early-warning system won't help.</font>
+
+780
+01:09:05,292 --> 01:09:09,296
+<font color="#ffff00">I hear Cuba is lovely this time of year.</font>
+
+781
+01:09:10,005 --> 01:09:12,508
+<font color="#ffff00">And so close to Florida.</font>
+
+782
+01:09:13,842 --> 01:09:15,844
+<font color="#ffff00">Missiles in Cuba?</font>
+
+783
+01:09:18,097 --> 01:09:19,807
+<font color="#ffff00">You're serious?</font>
+
+784
+01:09:20,516 --> 01:09:23,394
+<font color="#ffff00">We may as well declare war.</font>
+
+785
+01:09:24,395 --> 01:09:26,480
+Maybe I wasn't clear enough.
+
+786
+01:09:29,024 --> 01:09:31,360
+You will make this happen.
+
+787
+01:09:33,237 --> 01:09:34,530
+<font color="#ffff00">Okay.</font>
+
+788
+01:09:35,114 --> 01:09:37,533
+Let's see what KGB think about this.
+
+789
+01:09:42,287 --> 01:09:45,708
+<font color="#ffff00">Hello? General Armivolkoff.</font>
+
+790
+01:09:48,585 --> 01:09:51,380
+<font color="#ffff00">It's nothing.</font>
+
+791
+01:10:06,437 --> 01:10:07,896
+Raven?
+
+792
+01:10:13,736 --> 01:10:15,738
+We've made arrangements for you
+to be taken home immediately.
+
+793
+01:10:15,821 --> 01:10:17,364
+- We're not going home.
+- What?
+
+794
+01:10:17,906 --> 01:10:19,742
+He's not going back to prison.
+
+795
+01:10:19,825 --> 01:10:20,993
+He killed Darwin.
+
+796
+01:10:21,076 --> 01:10:22,453
+All the more reason for you to leave.
+
+797
+01:10:22,911 --> 01:10:24,329
+This is over.
+
+798
+01:10:24,413 --> 01:10:26,415
+Darwin's dead, Charles.
+
+799
+01:10:26,498 --> 01:10:28,333
+And we can't even bury him.
+
+800
+01:10:31,211 --> 01:10:32,254
+We can avenge him.
+
+801
+01:10:35,799 --> 01:10:37,801
+Erik, a word, please.
+
+802
+01:10:41,221 --> 01:10:44,433
+- They're just kids.
+- No. They were kids.
+
+803
+01:10:44,516 --> 01:10:46,852
+Shaw has his army, we need ours.
+
+804
+01:10:52,775 --> 01:10:54,026
+We'll have to train.
+
+805
+01:10:54,860 --> 01:10:56,779
+All of us.
+
+806
+01:10:56,820 --> 01:10:58,447
+- Yes?
+- Yeah.
+
+807
+01:10:59,323 --> 01:11:01,158
+Well, we can't stay here.
+
+808
+01:11:01,241 --> 01:11:04,578
+Even if they reopen
+the department, it's not safe.
+
+809
+01:11:04,620 --> 01:11:06,747
+We've got nowhere to go.
+
+810
+01:11:09,416 --> 01:11:10,459
+Yes, we do.
+
+811
+01:11:11,460 --> 01:11:13,462
+The law says we've got to turn her over.
+
+812
+01:11:13,504 --> 01:11:15,631
+The law applies to human beings.
+
+813
+01:11:15,714 --> 01:11:19,176
+The same laws don't apply to mutants.
+They're too dangerous.
+
+814
+01:11:19,259 --> 01:11:23,430
+In times like this, security is
+more important than liberty.
+
+815
+01:11:23,472 --> 01:11:26,141
+- There is a war coming, John.
+- Yes,
+
+816
+01:11:26,767 --> 01:11:28,310
+but a war with who?
+
+817
+01:11:42,407 --> 01:11:44,493
+Excellent question.
+
+818
+01:11:44,576 --> 01:11:47,371
+Though I wouldn't call it a war, exactly.
+
+819
+01:11:47,454 --> 01:11:50,833
+That suggests both sides stand
+an equal chance of winning.
+
+820
+01:12:00,384 --> 01:12:02,928
+<font color="#ffff00">Captain, no sign of any American ships.</font>
+
+821
+01:12:03,220 --> 01:12:05,764
+<font color="#ffff00">Maintain course, full ahead.</font>
+
+822
+01:12:06,306 --> 01:12:09,184
+The Russians have sent
+their warheads to Cuba.
+
+823
+01:12:09,268 --> 01:12:11,436
+We have a week before
+the ship hits the coast.
+
+824
+01:12:11,520 --> 01:12:15,649
+Our fleet can be on this line when
+the Russian missile ship arrives.
+
+825
+01:12:16,358 --> 01:12:19,236
+If that ship crosses the line,
+
+826
+01:12:19,319 --> 01:12:22,364
+they will have declared war
+against the United States.
+
+827
+01:12:22,447 --> 01:12:26,034
+And we will have no choice but to retaliate
+with a full nuclear response.
+
+828
+01:12:26,076 --> 01:12:27,119
+Do we agree?
+
+829
+01:12:32,666 --> 01:12:35,335
+Dispatch the 7th fleet.
+
+830
+01:12:37,379 --> 01:12:38,922
+This is yours?
+
+831
+01:12:39,006 --> 01:12:41,216
+No, it's ours.
+
+832
+01:12:47,389 --> 01:12:52,102
+Honestly, Charles. I don't know how
+you survived, living in such hardship.
+
+833
+01:12:52,227 --> 01:12:55,772
+Well, it was a hardship softened by me.
+
+834
+01:12:58,400 --> 01:13:00,360
+Come on. Time for the tour.
+
+835
+01:13:13,332 --> 01:13:15,292
+<font color="#ffff00">Dear comrades...</font>
+
+836
+01:13:15,417 --> 01:13:22,090
+<font color="#ffff00">The United States have
+dispatched warships for Cuba.</font>
+
+837
+01:13:23,175 --> 01:13:27,095
+<font color="#ffff00">This leaves us with no choice.</font>
+
+838
+01:13:28,513 --> 01:13:31,934
+<font color="#ffff00">Comrade First Secretary...</font>
+
+839
+01:13:32,768 --> 01:13:35,437
+<font color="#ffff00">We must send in our fleet.</font>
+
+840
+01:13:38,607 --> 01:13:40,145
+<font color="#ffff00">Dispatch the fleet!</font>
+
+841
+01:13:46,068 --> 01:13:48,987
+<i>President Kennedy has signed
+a formal proclamation</i>
+
+842
+01:13:49,071 --> 01:13:52,657
+<i>setting up a blockade
+of all missiles bound for Cuba.</i>
+
+843
+01:13:53,825 --> 01:13:55,911
+<i>The Soviet Union reacted by terming it</i>
+
+844
+01:13:55,994 --> 01:13:59,915
+<i>"A step along the road to unleashing
+a thermo-nuclear war."</i>
+
+845
+01:14:10,759 --> 01:14:11,843
+You're sure?
+
+846
+01:14:12,381 --> 01:14:14,133
+I'm sure.
+
+847
+01:14:14,216 --> 01:14:15,718
+All right.
+
+848
+01:14:22,350 --> 01:14:24,352
+No. No, I can't. I'm sorry.
+
+849
+01:14:24,393 --> 01:14:26,562
+I can't shoot anybody point blank,
+let alone my friend.
+
+850
+01:14:26,646 --> 01:14:28,689
+Oh, come on. You know I can deflect it.
+
+851
+01:14:28,731 --> 01:14:30,107
+You're always telling me
+I should push myself.
+
+852
+01:14:30,191 --> 01:14:35,404
+If you know you can deflect it,
+then you're not challenging yourself.
+
+853
+01:14:35,446 --> 01:14:38,741
+Whatever happened to the man
+who was trying to raise a submarine?
+
+854
+01:14:38,824 --> 01:14:43,287
+I can't. Something that big?
+I need the situation, the anger...
+
+855
+01:14:43,371 --> 01:14:44,955
+No, the anger is not enough.
+
+856
+01:14:45,831 --> 01:14:47,416
+It's gotten the job done all this time.
+
+857
+01:14:47,667 --> 01:14:49,585
+It's nearly gotten you killed all this time.
+
+858
+01:14:50,753 --> 01:14:52,713
+Come here.
+
+859
+01:14:52,755 --> 01:14:54,715
+Let's try something
+a little more challenging.
+
+860
+01:14:56,425 --> 01:15:00,721
+My stepfather took the possibility
+of nuclear war quite seriously. This way.
+
+861
+01:15:00,763 --> 01:15:02,932
+That is why he had this
+bunker built down here.
+
+862
+01:15:02,973 --> 01:15:05,476
+I thought we could use it
+as a practice range of sorts.
+
+863
+01:15:05,559 --> 01:15:07,436
+You don't think I'm going
+to blow through the walls?
+
+864
+01:15:07,520 --> 01:15:09,772
+He had this place built
+to withstand a nuclear bomb.
+
+865
+01:15:09,814 --> 01:15:11,232
+I think it can handle you, Alex.
+
+866
+01:15:11,857 --> 01:15:14,568
+You know, when I do this,
+bad things tend to happen.
+
+867
+01:15:14,610 --> 01:15:18,739
+That's because you can't control it.
+It controls you.
+
+868
+01:15:18,781 --> 01:15:21,242
+That's why we're here, Alex.
+It's why we're training.
+
+869
+01:15:26,414 --> 01:15:28,999
+What you're doing is incredible.
+You're hitting a pitch with sound waves
+
+870
+01:15:29,083 --> 01:15:31,711
+that have the same resonant frequency
+as the glass. That's why it shatters.
+
+871
+01:15:31,794 --> 01:15:34,296
+But this, it's like any other
+muscle in the body.
+
+872
+01:15:34,338 --> 01:15:36,298
+You can control it.
+
+873
+01:15:37,800 --> 01:15:40,469
+"In each of us, two natures are at war."
+
+874
+01:15:40,553 --> 01:15:42,346
+Robert Louis Stevenson, <i>Jekyll and Hyde</i>.
+
+875
+01:15:42,430 --> 01:15:43,472
+Top marks.
+
+876
+01:15:43,514 --> 01:15:45,474
+The story wasn't really about
+good and evil though, was it?
+
+877
+01:15:45,558 --> 01:15:49,478
+It was about man's animal nature and
+his struggle to control it, to conform.
+
+878
+01:15:50,020 --> 01:15:52,064
+And it's that struggle
+which is holding you back.
+
+879
+01:15:52,398 --> 01:15:55,443
+No, Jekyll was afraid of what
+he could be capable of.
+
+880
+01:15:55,484 --> 01:15:57,278
+And you are, too.
+
+881
+01:15:57,319 --> 01:15:59,655
+If you're serious about me doing this,
+you might want to get back.
+
+882
+01:15:59,822 --> 01:16:01,157
+All right.
+
+883
+01:16:01,365 --> 01:16:03,200
+- Shall I shut the door?
+- Yeah.
+
+884
+01:16:06,328 --> 01:16:08,581
+Whenever you're ready.
+
+885
+01:16:15,045 --> 01:16:16,130
+Oh, my God!
+
+886
+01:16:19,717 --> 01:16:22,011
+I will teach you to control this, Alex.
+
+887
+01:16:25,514 --> 01:16:27,600
+And you're sure that this will work?
+
+888
+01:16:27,683 --> 01:16:29,477
+Anything is possible. I based the design...
+
+889
+01:16:29,518 --> 01:16:31,854
+Hank, stop talking. Come on.
+
+890
+01:16:32,229 --> 01:16:34,023
+Now, remember.
+Scream as hard as you can.
+
+891
+01:16:34,106 --> 01:16:36,025
+You need the sound waves
+to be supersonic.
+
+892
+01:16:36,108 --> 01:16:38,194
+Catch them at the right angle
+and they should carry you.
+
+893
+01:16:38,486 --> 01:16:40,613
+They should carry me.
+
+894
+01:16:40,696 --> 01:16:43,240
+- That's reassuring.
+- Good luck.
+
+895
+01:16:44,241 --> 01:16:46,076
+And don't forget to scream.
+
+896
+01:16:55,336 --> 01:16:59,465
+Now, if you want to beat me this time,
+you have to set the beast free.
+
+897
+01:17:00,382 --> 01:17:01,801
+On your marks,
+
+898
+01:17:02,259 --> 01:17:03,385
+get set,
+
+899
+01:17:03,844 --> 01:17:05,179
+go!
+
+900
+01:17:19,568 --> 01:17:21,570
+Congratulations, my friend.
+
+901
+01:17:21,654 --> 01:17:22,988
+Robert Louis Stevenson
+would have been proud.
+
+902
+01:17:25,366 --> 01:17:26,909
+Impressive, Hank.
+
+903
+01:17:26,951 --> 01:17:28,661
+With feet like those,
+all you need is a red nose.
+
+904
+01:17:29,078 --> 01:17:30,746
+Right, Bozo?
+
+905
+01:17:30,788 --> 01:17:32,832
+- I'm done here.
+- Thank you, Alex.
+
+906
+01:17:34,083 --> 01:17:35,292
+Come on, Hank.
+
+907
+01:17:46,053 --> 01:17:48,764
+If you're using half your
+concentration to look normal,
+
+908
+01:17:49,390 --> 01:17:52,476
+then you're only half paying attention
+to whatever else you're doing.
+
+909
+01:17:52,852 --> 01:17:56,230
+Just pointing out something
+that could save your life.
+
+910
+01:17:59,692 --> 01:18:01,360
+You want society to accept you,
+
+911
+01:18:02,444 --> 01:18:05,114
+but you can't even accept yourself.
+
+912
+01:18:10,786 --> 01:18:12,580
+Sexy!
+
+913
+01:18:12,621 --> 01:18:14,123
+Well, this is just the prototype.
+
+914
+01:18:14,164 --> 01:18:15,624
+The real one will look considerably better.
+
+915
+01:18:15,708 --> 01:18:18,711
+It will be a whole suit. See, these
+sensors measure your energy output.
+
+916
+01:18:18,794 --> 01:18:21,463
+This panel focuses it and
+the excess is absorbed.
+
+917
+01:18:21,797 --> 01:18:24,258
+Try hitting the one in the middle.
+Just the one in the middle, mind.
+
+918
+01:18:25,050 --> 01:18:26,218
+Good luck.
+
+919
+01:18:36,353 --> 01:18:39,231
+You got to see this. Your genes
+are extraordinary, you know that?
+
+920
+01:18:39,315 --> 01:18:40,983
+Your cells age at half the rate
+of a normal human.
+
+921
+01:18:41,025 --> 01:18:43,861
+When you're 40, you'll still have
+the leukocytes of a teenager.
+
+922
+01:18:43,944 --> 01:18:48,324
+You have the most incredible
+cellular structure I've ever seen.
+
+923
+01:18:52,703 --> 01:18:54,580
+And you truly believe I'll fly this time?
+
+924
+01:18:54,663 --> 01:18:55,998
+Unreservedly.
+
+925
+01:18:56,457 --> 01:18:57,750
+- I trust you.
+- I'm touched.
+
+926
+01:18:57,833 --> 01:18:59,627
+- I don't trust him.
+- Say nothing.
+
+927
+01:19:00,836 --> 01:19:02,379
+I'm gonna die!
+
+928
+01:19:02,463 --> 01:19:04,381
+Look, we're not going to make you
+do anything you don't feel...
+
+929
+01:19:04,465 --> 01:19:05,674
+Here, let me help.
+
+930
+01:19:07,509 --> 01:19:08,552
+Erik!
+
+931
+01:19:29,823 --> 01:19:31,325
+What?
+
+932
+01:19:31,367 --> 01:19:33,035
+You know you were thinking the same.
+
+933
+01:19:33,786 --> 01:19:35,204
+Wonderful work, Hank.
+Thank you very much.
+
+934
+01:19:35,287 --> 01:19:37,081
+All right, Alex, I want you to hit the "X".
+
+935
+01:19:37,998 --> 01:19:39,541
+And try not to hit me.
+There's a good chap.
+
+936
+01:19:40,584 --> 01:19:43,128
+- You're serious?
+- I'm very serious.
+
+937
+01:19:43,671 --> 01:19:45,464
+I have complete and utter faith in you.
+
+938
+01:19:58,769 --> 01:19:59,853
+Am I still a bozo?
+
+939
+01:20:00,479 --> 01:20:03,273
+Yes, Hank, you're still a bozo.
+
+940
+01:20:03,565 --> 01:20:04,566
+But nice job.
+
+941
+01:20:07,778 --> 01:20:08,904
+See that?
+
+942
+01:20:09,613 --> 01:20:11,740
+Try turning it to face us.
+
+943
+01:20:30,634 --> 01:20:35,764
+You know, I believe that true focus lies
+somewhere between rage and serenity.
+
+944
+01:20:37,725 --> 01:20:39,435
+Would you mind if I...
+
+945
+01:21:13,886 --> 01:21:15,512
+What did you just do to me?
+
+946
+01:21:16,930 --> 01:21:20,684
+I accessed the brightest corner
+of your memory system.
+
+947
+01:21:22,478 --> 01:21:25,689
+It's a very beautiful memory, Erik.
+Thank you.
+
+948
+01:21:25,773 --> 01:21:28,358
+I didn't know I still had that.
+
+949
+01:21:28,984 --> 01:21:31,653
+There is so much more
+to you than you know.
+
+950
+01:21:31,737 --> 01:21:34,740
+Not just pain and anger.
+
+951
+01:21:34,823 --> 01:21:36,408
+There is good, too. I felt it.
+
+952
+01:21:37,785 --> 01:21:39,661
+When you can access all of that,
+
+953
+01:21:40,162 --> 01:21:42,915
+you'll possess a power no one can match.
+
+954
+01:21:44,124 --> 01:21:45,501
+Not even me.
+
+955
+01:21:47,169 --> 01:21:49,755
+So, come on. Try again.
+
+956
+01:22:30,337 --> 01:22:31,880
+- Hey!
+- Well done.
+
+957
+01:22:32,131 --> 01:22:33,966
+The President is about to make his address.
+
+958
+01:22:36,093 --> 01:22:40,222
+<i>It shall be the policy of this nation
+to regard any nuclear missile</i>
+
+959
+01:22:40,264 --> 01:22:43,934
+<i>crossing the embargo line
+that surrounds Cuba</i>
+
+960
+01:22:44,017 --> 01:22:48,230
+<i>as an attack by the Soviet Union
+on the United States</i>
+
+961
+01:22:48,313 --> 01:22:51,984
+<i>requiring a full retaliatory
+response upon the Soviet Union...</i>
+
+962
+01:22:52,067 --> 01:22:54,444
+- That's where we're going to find Shaw.
+- How do you know?
+
+963
+01:22:54,528 --> 01:22:58,240
+Two superpowers facing off and
+he wants to start World War III.
+
+964
+01:22:58,282 --> 01:22:59,992
+He won't leave anything to chance.
+
+965
+01:23:00,117 --> 01:23:01,994
+So much for diplomacy.
+
+966
+01:23:02,077 --> 01:23:04,454
+I suggest you all get a good night's sleep.
+
+967
+01:23:04,538 --> 01:23:06,582
+<i>...ultimately leads to war.</i>
+
+968
+01:23:07,541 --> 01:23:11,920
+<i>Tensions mount as the Soviet
+missile ship nears Cuba.</i>
+
+969
+01:23:11,962 --> 01:23:16,800
+<i>All diplomatic efforts to avert
+nuclear war have thus far failed.</i>
+
+970
+01:23:16,884 --> 01:23:21,263
+<i>As the American people ready themselves
+for the likelihood of an atomic attack,</i>
+
+971
+01:23:21,346 --> 01:23:24,766
+<i>there are widespread
+reports of panic-buying,</i>
+
+972
+01:23:24,808 --> 01:23:29,188
+<i>supermarkets cleared, as shelters
+unused since the Second World War</i>
+
+973
+01:23:29,271 --> 01:23:31,773
+<i>are stocked for what may lie ahead.</i>
+
+974
+01:23:31,857 --> 01:23:36,445
+<i>In all its history, America has
+never faced a greater threat.</i>
+
+975
+01:23:36,612 --> 01:23:38,280
+The world is primed for war
+
+976
+01:23:38,447 --> 01:23:40,908
+and there's no one to stop me.
+
+977
+01:23:45,913 --> 01:23:46,955
+Come in.
+
+978
+01:23:48,081 --> 01:23:49,458
+Hey.
+
+979
+01:23:50,209 --> 01:23:52,211
+I have a surprise for you.
+
+980
+01:24:00,636 --> 01:24:04,264
+I isolated the right marker
+in your DNA sample.
+
+981
+01:24:04,306 --> 01:24:06,141
+The serum works like an antibiotic,
+
+982
+01:24:06,225 --> 01:24:09,394
+attacking the cells that cause
+our physical mutation.
+
+983
+01:24:09,478 --> 01:24:12,189
+It won't affect our abilities,
+just our appearance.
+
+984
+01:24:14,816 --> 01:24:16,485
+Do you still want to do this?
+
+985
+01:24:17,945 --> 01:24:19,988
+Should we have to hide?
+
+986
+01:24:21,406 --> 01:24:23,283
+Well, you already do.
+
+987
+01:24:23,325 --> 01:24:26,286
+You're hiding right now,
+like I have my whole life.
+
+988
+01:24:27,079 --> 01:24:30,374
+I don't want to feel like a freak
+all the time. I just want to look...
+
+989
+01:24:30,457 --> 01:24:32,501
+- Normal.
+- Yeah.
+
+990
+01:24:39,841 --> 01:24:40,842
+Hank, don't!
+
+991
+01:24:43,136 --> 01:24:45,222
+You're beautiful, Hank.
+
+992
+01:24:45,305 --> 01:24:47,516
+Everything you are, you are perfect.
+
+993
+01:24:50,143 --> 01:24:53,522
+Look at all of us. Look at all
+we've achieved this week.
+
+994
+01:24:53,563 --> 01:24:55,565
+All we will achieve.
+
+995
+01:24:56,733 --> 01:24:59,194
+We are different.
+
+996
+01:24:59,278 --> 01:25:01,697
+But we shouldn't be trying
+to fit into society.
+
+997
+01:25:02,781 --> 01:25:05,951
+Society should aspire to be more like us.
+
+998
+01:25:06,952 --> 01:25:09,997
+Mutant and proud.
+
+999
+01:25:15,043 --> 01:25:16,795
+It behooves me to tell you
+
+1000
+01:25:16,878 --> 01:25:22,175
+that even if we save the world tomorrow,
+and mutants are accepted into society,
+
+1001
+01:25:22,217 --> 01:25:25,679
+my feet and your natural blue form
+
+1002
+01:25:25,721 --> 01:25:27,681
+will never be deemed beautiful.
+
+1003
+01:25:33,145 --> 01:25:34,563
+You look beautiful now.
+
+1004
+01:25:36,732 --> 01:25:39,818
+We need this cure.
+
+1005
+01:26:06,845 --> 01:26:08,889
+Cuba.
+
+1006
+01:26:08,930 --> 01:26:10,515
+Russia, America.
+
+1007
+01:26:10,599 --> 01:26:12,559
+It makes no difference.
+
+1008
+01:26:12,601 --> 01:26:15,604
+Shaw has declared war
+on mankind, on all of us.
+
+1009
+01:26:15,687 --> 01:26:16,688
+He has to be stopped.
+
+1010
+01:26:18,565 --> 01:26:19,816
+I'm not going to stop Shaw.
+
+1011
+01:26:20,776 --> 01:26:21,777
+I'm going to kill him.
+
+1012
+01:26:24,988 --> 01:26:27,532
+Do you have it in you to allow that?
+
+1013
+01:26:33,288 --> 01:26:35,624
+You've known all along why
+I was here, Charles.
+
+1014
+01:26:36,083 --> 01:26:38,377
+But things have changed.
+
+1015
+01:26:38,460 --> 01:26:40,462
+What started as a covert mission,
+
+1016
+01:26:40,504 --> 01:26:43,256
+tomorrow, mankind will know
+that mutants exist.
+
+1017
+01:26:43,298 --> 01:26:46,468
+Shaw, us, they won't differentiate.
+
+1018
+01:26:46,510 --> 01:26:48,095
+They'll fear us.
+
+1019
+01:26:48,303 --> 01:26:50,055
+And that fear will turn to hatred.
+
+1020
+01:26:50,389 --> 01:26:52,182
+Not if we stop a war.
+
+1021
+01:26:52,265 --> 01:26:55,560
+Not if we can prevent Shaw.
+Not if we risk our lives doing so.
+
+1022
+01:26:55,685 --> 01:26:58,814
+- Would they do the same for us?
+- We have it in us to be the better men.
+
+1023
+01:26:58,897 --> 01:27:00,857
+We already are.
+
+1024
+01:27:00,941 --> 01:27:02,567
+We're the next stage of human evolution.
+
+1025
+01:27:02,651 --> 01:27:04,694
+- You said it yourself!
+- No...
+
+1026
+01:27:04,778 --> 01:27:06,571
+Are you really so naive
+
+1027
+01:27:06,655 --> 01:27:09,991
+as to think that they won't
+battle their own extinction?
+
+1028
+01:27:10,742 --> 01:27:13,662
+- Or is it arrogance?
+- I'm sorry?
+
+1029
+01:27:14,246 --> 01:27:16,164
+After tomorrow,
+they're going to turn on us.
+
+1030
+01:27:16,206 --> 01:27:19,459
+But you're blind to it, because you
+believe they're all like Moira.
+
+1031
+01:27:19,876 --> 01:27:21,837
+And you believe they're all like Shaw.
+
+1032
+01:27:24,381 --> 01:27:28,468
+Listen to me very carefully, my friend.
+
+1033
+01:27:28,510 --> 01:27:31,430
+Killing Shaw will not bring you peace.
+
+1034
+01:27:33,181 --> 01:27:35,684
+Peace was never an option.
+
+1035
+01:28:21,938 --> 01:28:23,190
+No.
+
+1036
+01:28:24,649 --> 01:28:26,067
+No, no. No.
+
+1037
+01:28:55,096 --> 01:28:56,890
+Well,
+
+1038
+01:28:58,517 --> 01:28:59,976
+this is a surprise.
+
+1039
+01:29:00,268 --> 01:29:01,728
+The nice kind?
+
+1040
+01:29:03,647 --> 01:29:07,234
+Get out, Raven.
+I want to go to bed.
+
+1041
+01:29:07,275 --> 01:29:09,736
+Maybe in a few years.
+
+1042
+01:29:13,490 --> 01:29:15,325
+How about now?
+
+1043
+01:29:20,247 --> 01:29:21,790
+I prefer the real Raven.
+
+1044
+01:29:25,710 --> 01:29:29,130
+I said the real Raven.
+
+1045
+01:29:38,139 --> 01:29:39,391
+Perfection.
+
+1046
+01:29:44,020 --> 01:29:45,522
+Could you pass me my robe?
+
+1047
+01:29:45,814 --> 01:29:48,024
+You don't have to hide.
+
+1048
+01:29:52,153 --> 01:29:53,822
+Have you ever looked at a tiger
+
+1049
+01:29:53,989 --> 01:29:56,783
+and thought you ought to cover it up?
+
+1050
+01:29:58,159 --> 01:29:59,661
+No, but...
+
+1051
+01:29:59,869 --> 01:30:02,205
+You're an exquisite creature, Raven.
+
+1052
+01:30:03,748 --> 01:30:06,251
+All your life, the world
+has tried to tame you.
+
+1053
+01:30:07,085 --> 01:30:08,712
+It's time for you to be free.
+
+1054
+01:30:29,524 --> 01:30:31,693
+You know, sometimes I wonder
+what my life would have been like
+
+1055
+01:30:31,776 --> 01:30:34,070
+if you hadn't found me here that night.
+
+1056
+01:30:34,154 --> 01:30:35,614
+Sorry, what? You...
+
+1057
+01:30:37,866 --> 01:30:39,701
+For God's sake, Raven!
+
+1058
+01:30:39,743 --> 01:30:42,037
+Where are your clothes?
+Put some clothes on.
+
+1059
+01:30:42,078 --> 01:30:43,955
+That's not what you said
+when you first saw me.
+
+1060
+01:30:44,748 --> 01:30:48,335
+But I guess pets are always cuter
+when they're little, right?
+
+1061
+01:30:48,376 --> 01:30:50,086
+Raven, I don't know
+what's gotten into you lately.
+
+1062
+01:30:50,754 --> 01:30:52,213
+I thought you'd be in a good mood.
+
+1063
+01:30:52,756 --> 01:30:58,219
+Hank, he tells me that he's found
+the answer to your cosmetic problem.
+
+1064
+01:30:59,679 --> 01:31:02,098
+Are you gonna tell me what's the matter
+or do I have to read your mind?
+
+1065
+01:31:02,641 --> 01:31:04,351
+You promised me you would never do that.
+
+1066
+01:31:04,392 --> 01:31:06,061
+Until recently,
+
+1067
+01:31:06,144 --> 01:31:09,022
+I never had to use my power to know
+what you were thinking, Raven.
+
+1068
+01:31:09,064 --> 01:31:12,901
+Charles, I used to think it was going
+to be you and me against the world.
+
+1069
+01:31:12,984 --> 01:31:16,363
+But no matter how bad the world gets,
+you don't want to be against it, do you?
+
+1070
+01:31:16,404 --> 01:31:17,405
+You want to be a part of it.
+
+1071
+01:31:40,053 --> 01:31:41,262
+What the hell happened here?
+
+1072
+01:31:49,729 --> 01:31:51,564
+Hank has been busy.
+
+1073
+01:31:51,606 --> 01:31:53,775
+Do we really have to wear these?
+
+1074
+01:31:53,858 --> 01:31:56,611
+As none of us mutated
+to endure extreme g-force
+
+1075
+01:31:56,695 --> 01:31:59,948
+or being riddled by bullets,
+I suggest we suit up.
+
+1076
+01:32:24,431 --> 01:32:25,807
+Where is Hank?
+
+1077
+01:32:27,642 --> 01:32:29,102
+I'm here.
+
+1078
+01:32:38,570 --> 01:32:40,363
+Hank?
+
+1079
+01:32:45,452 --> 01:32:48,663
+It didn't attack the cells.
+
+1080
+01:32:48,705 --> 01:32:52,167
+It enhanced them.
+
+1081
+01:32:52,250 --> 01:32:53,543
+It didn't work.
+
+1082
+01:32:54,002 --> 01:32:56,838
+Yes, it did, Hank. Don't you see?
+
+1083
+01:32:57,130 --> 01:33:00,341
+This is who you were meant to be.
+
+1084
+01:33:00,675 --> 01:33:02,010
+This is you.
+
+1085
+01:33:04,179 --> 01:33:05,513
+No more hiding.
+
+1086
+01:33:06,473 --> 01:33:08,850
+- You never looked better, man.
+- Hank!
+
+1087
+01:33:10,643 --> 01:33:12,979
+Don't mock me!
+
+1088
+01:33:13,021 --> 01:33:14,522
+Hank, put him down immediately, please.
+
+1089
+01:33:15,023 --> 01:33:16,065
+Hank! Hank!
+
+1090
+01:33:19,068 --> 01:33:20,487
+I wasn't.
+
+1091
+01:33:20,904 --> 01:33:22,614
+Even I got to admit you
+look pretty badass.
+
+1092
+01:33:23,156 --> 01:33:24,616
+I think I got a new name for you.
+
+1093
+01:33:25,533 --> 01:33:26,576
+Beast.
+
+1094
+01:33:29,078 --> 01:33:30,663
+You're sure you can fly this thing?
+
+1095
+01:33:30,830 --> 01:33:33,541
+Of course I can. I designed it.
+
+1096
+01:33:45,553 --> 01:33:47,347
+Status of the cargo ship.
+
+1097
+01:33:47,388 --> 01:33:50,934
+Bearing 1 -8-0 at 12 knots.
+
+1098
+01:33:52,727 --> 01:33:55,021
+Three minutes to the embargo line, sir.
+
+1099
+01:33:56,189 --> 01:33:58,942
+God help them if they cross it.
+
+1100
+01:34:00,652 --> 01:34:01,903
+God help us all.
+
+1101
+01:34:02,570 --> 01:34:05,782
+- Sound general quarters.
+- General quarters, general quarters!
+
+1102
+01:34:06,199 --> 01:34:08,743
+- All hands, man battle stations!
+- Aye, sir.
+
+1103
+01:34:08,785 --> 01:34:10,370
+Set condition Zebra!
+
+1104
+01:34:11,079 --> 01:34:13,081
+<i>General quarters, battle stations.</i>
+
+1105
+01:34:24,300 --> 01:34:29,264
+<font color="#ffff00">Captain, we already have our orders.
+Why so eager for new ones?</font>
+
+1106
+01:34:29,722 --> 01:34:33,226
+<font color="#ffff00">I lived through one war, comrade.</font>
+
+1107
+01:34:34,561 --> 01:34:36,771
+<font color="#ffff00">I'd prefer not to start another.</font>
+
+1108
+01:34:39,148 --> 01:34:41,401
+<font color="#ffff00">Battle stations! NOW!</font>
+
+1109
+01:34:43,945 --> 01:34:48,867
+Gun Boss, target cargo ship bearing 1 -8-0.
+
+1110
+01:34:50,994 --> 01:34:53,830
+<font color="#ffff00">Fleet reports all weapons ready.</font>
+
+1111
+01:34:54,289 --> 01:34:56,124
+<font color="#ffff00">From the Kremlin, sir.</font>
+
+1112
+01:34:56,666 --> 01:35:00,628
+<font color="#ffff00">New orders. As of 1025 hours, the cargo
+vessel <i>Aral Sea</i> is hereby ordered to...</font>
+
+1113
+01:35:01,004 --> 01:35:03,298
+<font color="#ffff00">...reverse course
+and return to port in Odessa.</font>
+
+1114
+01:35:03,464 --> 01:35:05,091
+<font color="#ffff00"><i>Aral Sea</i>, come in.</font>
+
+1115
+01:35:05,842 --> 01:35:07,468
+<font color="#ffff00"><i>Aral Sea</i>, come in.</font>
+
+1116
+01:35:08,636 --> 01:35:10,096
+<font color="#ffff00">They are not responding.</font>
+
+1117
+01:35:10,138 --> 01:35:11,306
+<font color="#ffff00">She's not turning around.</font>
+
+1118
+01:35:11,556 --> 01:35:14,142
+<font color="#ffff00"><i>Aral Sea</i>, you are ordered to turn around.</font>
+
+1119
+01:35:14,475 --> 01:35:15,810
+<font color="#ffff00">Do not cross the line.</font>
+
+1120
+01:35:16,895 --> 01:35:18,855
+Target ready to be fired upon, sir.
+
+1121
+01:35:18,980 --> 01:35:21,900
+- Stand by to fire.
+- Standing by, sir.
+
+1122
+01:35:34,412 --> 01:35:36,998
+It looks pretty messy out there.
+
+1123
+01:35:47,342 --> 01:35:49,802
+<font color="#ffff00"><i>Aral Sea</i> you are ordered to turn around.</font>
+
+1124
+01:35:50,678 --> 01:35:53,389
+The crew of the <i>Aral Sea</i> are all dead.
+Shaw's been there.
+
+1125
+01:35:53,473 --> 01:35:54,974
+He's still here, somewhere.
+
+1126
+01:35:55,016 --> 01:35:56,935
+He set the ship on course
+for the embargo line.
+
+1127
+01:35:57,018 --> 01:35:59,896
+If that ship crosses the line,
+our boys are going to blow it up.
+
+1128
+01:35:59,979 --> 01:36:01,606
+And the war begins.
+
+1129
+01:36:02,023 --> 01:36:03,524
+Unless they're not our boys.
+
+1130
+01:36:06,527 --> 01:36:09,113
+<i>USS Independence</i>, this is <i>Alexander Nevsky</i>.
+
+1131
+01:36:09,197 --> 01:36:10,990
+We have lost control of our cargo ship.
+
+1132
+01:36:11,032 --> 01:36:12,742
+<i>She has been instructed to stop.</i>
+
+1133
+01:36:12,825 --> 01:36:15,703
+Do not fire! Repeat, do not fire!
+
+1134
+01:36:15,745 --> 01:36:19,165
+They have signaled the cargo
+ship to turn around, sir.
+
+1135
+01:36:19,207 --> 01:36:21,584
+It's a ruse. Pay no attention!
+
+1136
+01:36:21,960 --> 01:36:24,587
+- Stand by to fire.
+- Standing by to fire, sir.
+
+1137
+01:36:24,671 --> 01:36:26,839
+On my count. Five,
+
+1138
+01:36:27,340 --> 01:36:28,716
+four...
+
+1139
+01:36:51,030 --> 01:36:52,448
+Hold on!
+
+1140
+01:37:01,874 --> 01:37:02,959
+<i>Nyet.</i>
+
+1141
+01:37:07,296 --> 01:37:09,257
+- What was that?
+- The Russians.
+
+1142
+01:37:09,340 --> 01:37:10,758
+They have fired on their own ship.
+
+1143
+01:37:11,509 --> 01:37:13,052
+A little warning next time, Professor.
+
+1144
+01:37:13,428 --> 01:37:16,305
+- Sorry about that. You all right?
+- Yeah.
+
+1145
+01:37:17,015 --> 01:37:18,558
+Son of a...
+
+1146
+01:37:18,599 --> 01:37:21,102
+Give me CINCLANT on the horn.
+I want a new set of orders.
+
+1147
+01:37:25,189 --> 01:37:27,275
+<font color="#ffff00">Congratulations, comrade.</font>
+
+1148
+01:37:27,608 --> 01:37:31,446
+<font color="#ffff00">You just averted nuclear war!</font>
+
+1149
+01:37:32,030 --> 01:37:33,406
+<font color="#ffff00">What?</font>
+
+1150
+01:37:33,489 --> 01:37:35,158
+<font color="#ffff00">Take him to the brig.</font>
+
+1151
+01:37:35,241 --> 01:37:38,911
+<font color="#ffff00">What? What just happened?</font>
+
+1152
+01:37:38,953 --> 01:37:40,872
+They say the comrade lost his mind.
+
+1153
+01:37:41,122 --> 01:37:43,750
+The Americans are applauding.
+
+1154
+01:37:44,751 --> 01:37:48,296
+They're here. That telepath is powerful.
+
+1155
+01:37:50,465 --> 01:37:53,134
+We're moving to a back-up plan.
+
+1156
+01:37:54,969 --> 01:37:56,387
+That was inspired, Charles.
+
+1157
+01:37:56,471 --> 01:37:58,473
+Thank you very much,
+but I still can't locate Shaw.
+
+1158
+01:37:58,556 --> 01:38:00,641
+He's down there. We need to find him now.
+
+1159
+01:38:00,683 --> 01:38:01,726
+Hank?
+
+1160
+01:38:01,809 --> 01:38:04,145
+Is there anything unusual
+on the radar or scanners?
+
+1161
+01:38:04,187 --> 01:38:05,813
+No. Nothing.
+
+1162
+01:38:06,939 --> 01:38:10,151
+Well, then he must be underwater.
+And obviously, we don't have sonar.
+
+1163
+01:38:12,695 --> 01:38:15,323
+- Yes, we do.
+- Yes, we do.
+
+1164
+01:38:20,119 --> 01:38:21,162
+They are ready for war.
+
+1165
+01:38:21,496 --> 01:38:24,123
+We just need to strike another
+match to light the fuse.
+
+1166
+01:38:24,415 --> 01:38:27,251
+And we still have the most
+powerful weapon of all.
+
+1167
+01:38:28,002 --> 01:38:29,045
+Me.
+
+1168
+01:38:29,378 --> 01:38:34,300
+Turn the nuclear reactor to 100% output
+and make sure I'm not disturbed.
+
+1169
+01:38:37,678 --> 01:38:39,680
+Hank, level the bloody plane!
+
+1170
+01:38:44,852 --> 01:38:47,146
+Whoa! You back right off.
+
+1171
+01:38:48,356 --> 01:38:50,149
+Beast, open the bomb bay doors!
+
+1172
+01:38:58,491 --> 01:39:01,452
+Remember! This is a muscle.
+
+1173
+01:39:01,536 --> 01:39:03,162
+You control it!
+
+1174
+01:39:03,204 --> 01:39:05,540
+You'll be in here the entire time!
+
+1175
+01:39:05,790 --> 01:39:07,333
+We'll see you soon!
+
+1176
+01:39:07,375 --> 01:39:10,878
+On my mark! Three! Two!
+
+1177
+01:39:11,379 --> 01:39:13,005
+One! Go!
+
+1178
+01:39:29,647 --> 01:39:31,899
+Alert the fleet, they may
+want to take their cans off.
+
+1179
+01:39:45,204 --> 01:39:47,748
+Banshee has got a location on Shaw.
+
+1180
+01:39:49,750 --> 01:39:52,420
+- Are you ready for this?
+- Let's find out.
+
+1181
+01:40:56,192 --> 01:40:58,986
+<i>Remember, the point between rage</i>
+
+1182
+01:40:59,320 --> 01:41:01,447
+<i>and serenity.</i>
+
+1183
+01:42:24,697 --> 01:42:25,865
+Erik, take my hand!
+
+1184
+01:42:27,742 --> 01:42:30,411
+Hold on, guys. It's gonna get bumpy.
+
+1185
+01:42:45,843 --> 01:42:47,219
+Erik, take my hand!
+
+1186
+01:43:38,521 --> 01:43:40,147
+Moira? Moira, are you all right?
+
+1187
+01:43:40,231 --> 01:43:42,024
+Yeah, I'm okay.
+
+1188
+01:43:46,153 --> 01:43:47,947
+I read the teleporter's mind.
+
+1189
+01:43:47,988 --> 01:43:49,949
+Shaw is drawing all the power
+out of his sub.
+
+1190
+01:43:49,990 --> 01:43:52,076
+<i>He's turning himself into
+some kind of nuclear bomb.</i>
+
+1191
+01:43:52,201 --> 01:43:54,453
+We got no time.
+The Geiger count is going out of control.
+
+1192
+01:43:54,495 --> 01:43:55,663
+Moira, this is what we're gonna do.
+
+1193
+01:43:55,704 --> 01:43:58,332
+Get on the radio and tell them
+to clear both fleets out immediately.
+
+1194
+01:43:58,416 --> 01:44:00,835
+- I'm going in.
+- Beast, Havok, back him up.
+
+1195
+01:44:00,876 --> 01:44:02,878
+Erik, I can guide you through
+once you're in,
+
+1196
+01:44:02,962 --> 01:44:05,423
+but I need you to shut down
+whatever it is that's blocking me,
+
+1197
+01:44:05,506 --> 01:44:07,508
+then we just hope to God it's not
+too late for me to stop him.
+
+1198
+01:44:07,591 --> 01:44:09,635
+- Got it.
+- Good luck!
+
+1199
+01:44:09,677 --> 01:44:11,429
+- Raven, stop!
+- I'm going to help them.
+
+1200
+01:44:11,512 --> 01:44:13,681
+We don't have time for this.
+If anything comes in that entrance,
+
+1201
+01:44:13,764 --> 01:44:16,600
+- you're taking care of it, yes?
+- Fine.
+
+1202
+01:44:33,200 --> 01:44:34,326
+Beast!
+
+1203
+01:44:37,872 --> 01:44:39,540
+If we go, you go!
+
+1204
+01:44:43,085 --> 01:44:45,296
+We believe Shaw is trying
+to detonate some kind of bomb.
+
+1205
+01:44:50,551 --> 01:44:53,053
+Erik, make for the middle of the vessel.
+
+1206
+01:44:53,095 --> 01:44:54,722
+That's the point my mind can't penetrate.
+
+1207
+01:44:54,763 --> 01:44:57,016
+We have to assume
+that that's where Shaw is.
+
+1208
+01:45:05,816 --> 01:45:07,735
+Gangway! Gangway! Gangway!
+
+1209
+01:45:14,783 --> 01:45:17,578
+That's the nuclear reactor. Disable it.
+
+1210
+01:45:30,049 --> 01:45:32,009
+Stop! Don't move!
+
+1211
+01:45:39,767 --> 01:45:41,060
+Get down!
+
+1212
+01:46:04,500 --> 01:46:06,085
+<i>Erik, you're there.
+You've reached the void.</i>
+
+1213
+01:46:06,126 --> 01:46:08,754
+He's not here, Charles. Shaw's not here!
+He's left the sub!
+
+1214
+01:46:08,963 --> 01:46:10,839
+What? He's got to be there. He has to be!
+
+1215
+01:46:10,923 --> 01:46:12,633
+There's nowhere else he can be.
+Keep looking.
+
+1216
+01:46:12,675 --> 01:46:16,303
+And I'm telling you he's not.
+There's no one here, God damn it!
+
+1217
+01:46:19,348 --> 01:46:21,058
+Erik.
+
+1218
+01:46:21,517 --> 01:46:22,977
+What a pleasant surprise.
+
+1219
+01:46:23,060 --> 01:46:24,603
+Erik? Erik.
+
+1220
+01:46:27,314 --> 01:46:29,024
+So good to see you again.
+
+1221
+01:46:45,749 --> 01:46:49,003
+May I ask you something?
+
+1222
+01:46:49,044 --> 01:46:50,754
+Why are you on their side?
+
+1223
+01:46:50,838 --> 01:46:51,964
+- He's gone.
+- What?
+
+1224
+01:46:52,006 --> 01:46:54,925
+He's gone into the void!
+I can't communicate with him there.
+
+1225
+01:46:55,009 --> 01:46:57,595
+Why fight for a doomed race
+who will hunt us down
+
+1226
+01:46:57,678 --> 01:47:00,598
+as soon as they realize their
+reign is coming to an end?
+
+1227
+01:47:29,376 --> 01:47:31,545
+Yeah! Yes!
+
+1228
+01:47:44,558 --> 01:47:46,477
+I'm sorry for what happened in the camps.
+
+1229
+01:47:48,729 --> 01:47:50,564
+I truly am.
+
+1230
+01:47:58,822 --> 01:48:02,076
+He's back! Erik, whatever
+you're doing, keep doing it.
+
+1231
+01:48:02,159 --> 01:48:04,161
+<i>It's starting to work.</i>
+
+1232
+01:48:04,244 --> 01:48:07,164
+But everything I did, I did for you.
+
+1233
+01:48:07,623 --> 01:48:09,291
+To unlock your power,
+
+1234
+01:48:09,500 --> 01:48:11,835
+to make you embrace it.
+
+1235
+01:48:15,130 --> 01:48:16,298
+<i>It's working!</i>
+
+1236
+01:48:16,382 --> 01:48:18,759
+I'm starting to see him,
+but I can't yet touch his mind.
+
+1237
+01:48:33,190 --> 01:48:35,943
+You've come a long way from bending gates.
+
+1238
+01:48:36,026 --> 01:48:37,736
+I'm so proud of you.
+
+1239
+01:48:45,703 --> 01:48:48,122
+And you're just starting
+to scratch the surface.
+
+1240
+01:48:48,539 --> 01:48:51,583
+Think how much further we could go
+
+1241
+01:48:51,625 --> 01:48:53,627
+together.
+
+1242
+01:49:04,179 --> 01:49:05,305
+Look out!
+
+1243
+01:49:12,563 --> 01:49:14,523
+Stop! Azazel.
+
+1244
+01:49:29,830 --> 01:49:34,209
+I don't want to hurt you, Erik. I never did.
+I want to help you.
+
+1245
+01:49:34,460 --> 01:49:36,545
+This is our time.
+
+1246
+01:49:36,670 --> 01:49:38,422
+Our age.
+
+1247
+01:49:39,089 --> 01:49:43,302
+We are the future of the human race.
+
+1248
+01:49:43,343 --> 01:49:45,888
+You and me, son.
+
+1249
+01:49:45,971 --> 01:49:48,474
+This world could be ours.
+
+1250
+01:49:50,017 --> 01:49:53,979
+Everything you did made me stronger.
+
+1251
+01:49:54,855 --> 01:49:57,566
+It made me the weapon I am today.
+
+1252
+01:49:59,067 --> 01:50:01,069
+It's the truth.
+
+1253
+01:50:02,029 --> 01:50:04,364
+I've known it all along.
+
+1254
+01:50:10,037 --> 01:50:12,039
+You are my creator.
+
+1255
+01:50:12,748 --> 01:50:14,249
+Now, Charles!
+
+1256
+01:50:15,834 --> 01:50:17,711
+- Are you okay?
+- Moira, be quiet.
+
+1257
+01:50:17,753 --> 01:50:19,546
+I can only control this man for so long.
+
+1258
+01:50:33,310 --> 01:50:35,020
+- Sorry, Charles.
+- <i>Erik, please.</i>
+
+1259
+01:50:35,312 --> 01:50:37,648
+- <i>Be the better man.</i>
+- It's not that I don't trust you.
+
+1260
+01:50:37,731 --> 01:50:39,525
+<i>Erik, there will be no turning back!</i>
+
+1261
+01:50:40,984 --> 01:50:42,402
+No!
+
+1262
+01:50:43,111 --> 01:50:44,988
+- Charles!
+- Don't do this, Erik!
+
+1263
+01:50:52,329 --> 01:50:53,831
+If you're in there,
+
+1264
+01:50:53,914 --> 01:50:56,959
+I'd like you to know that I agree
+with every word you said.
+
+1265
+01:50:59,628 --> 01:51:01,630
+We are the future.
+
+1266
+01:51:03,549 --> 01:51:04,591
+But,
+
+1267
+01:51:06,593 --> 01:51:07,928
+unfortunately,
+
+1268
+01:51:08,762 --> 01:51:11,181
+you killed my mother.
+
+1269
+01:51:19,273 --> 01:51:20,774
+This is what we're going to do.
+
+1270
+01:51:20,816 --> 01:51:23,193
+No. Please, Erik, no.
+
+1271
+01:51:23,277 --> 01:51:27,114
+I'm going to count to three and
+I'm going to move the coin.
+
+1272
+01:51:29,157 --> 01:51:30,826
+One.
+
+1273
+01:51:32,077 --> 01:51:33,829
+Please, Erik.
+
+1274
+01:51:41,920 --> 01:51:43,463
+Two.
+
+1275
+01:51:49,970 --> 01:51:51,722
+Three.
+
+1276
+01:52:20,125 --> 01:52:26,048
+The Russians share our concerns
+and will join a strike on all the mutants.
+
+1277
+01:52:26,173 --> 01:52:28,175
+We can end this threat for good.
+
+1278
+01:52:28,258 --> 01:52:30,177
+We'll never have another
+opportunity like this.
+
+1279
+01:52:30,218 --> 01:52:32,179
+We have an agent on that beach.
+
+1280
+01:52:32,262 --> 01:52:34,139
+One agent.
+
+1281
+01:52:34,222 --> 01:52:35,599
+She's a good agent.
+
+1282
+01:52:35,682 --> 01:52:37,851
+She's collateral damage.
+
+1283
+01:52:43,357 --> 01:52:46,735
+Today, our fighting stops!
+
+1284
+01:53:09,883 --> 01:53:12,386
+Take off your blinders,
+brothers and sisters.
+
+1285
+01:53:13,095 --> 01:53:14,888
+The real enemy is out there.
+
+1286
+01:53:16,848 --> 01:53:18,892
+I feel their guns moving in the water,
+
+1287
+01:53:19,351 --> 01:53:21,603
+their metal targeting us.
+
+1288
+01:53:21,853 --> 01:53:24,231
+Americans, Soviets,
+
+1289
+01:53:24,398 --> 01:53:25,941
+humans.
+
+1290
+01:53:26,566 --> 01:53:29,152
+United in their fear of the unknown.
+
+1291
+01:53:30,320 --> 01:53:34,074
+The Neanderthal is running scared,
+my fellow mutants!
+
+1292
+01:53:36,326 --> 01:53:37,411
+Go ahead, Charles.
+
+1293
+01:53:39,997 --> 01:53:41,164
+Tell me I'm wrong.
+
+1294
+01:54:01,601 --> 01:54:04,438
+Fleet Commander, this is X-Ray Bravo 7-0.
+
+1295
+01:54:04,479 --> 01:54:06,940
+Respond. Over.
+
+1296
+01:54:07,024 --> 01:54:09,317
+The beach is secure. Call off the attack.
+
+1297
+01:54:09,609 --> 01:54:12,070
+The beach is targeted
+and ready to be fired upon, sir.
+
+1298
+01:54:12,112 --> 01:54:14,448
+- Stand by.
+- Standing by, sir.
+
+1299
+01:54:14,740 --> 01:54:16,491
+<font color="#ffff00">New orders. Fire on the beach.</font>
+
+1300
+01:54:18,577 --> 01:54:20,454
+Hello?
+
+1301
+01:54:21,663 --> 01:54:23,623
+Hello!
+
+1302
+01:54:30,464 --> 01:54:31,631
+Fire!
+
+1303
+01:54:32,299 --> 01:54:33,300
+<font color="#ffff00">Fire!</font>
+
+1304
+01:55:21,807 --> 01:55:24,226
+Erik, you said yourself,
+we're the better men.
+
+1305
+01:55:24,935 --> 01:55:26,520
+This is the time to prove it.
+
+1306
+01:55:30,232 --> 01:55:32,359
+There are thousands of men
+on those ships.
+
+1307
+01:55:32,442 --> 01:55:34,694
+Good, honest, innocent men!
+
+1308
+01:55:34,736 --> 01:55:36,530
+They're just following orders.
+
+1309
+01:55:38,490 --> 01:55:40,700
+I've been at the mercy of men
+just following orders.
+
+1310
+01:55:45,747 --> 01:55:47,290
+Never again.
+
+1311
+01:55:51,545 --> 01:55:53,004
+Erik, release them!
+
+1312
+01:55:59,845 --> 01:56:01,596
+No!
+
+1313
+01:56:07,686 --> 01:56:10,105
+I don't want to hurt you. Don't make me!
+
+1314
+01:56:10,939 --> 01:56:12,065
+Stand back!
+
+1315
+01:56:14,818 --> 01:56:16,069
+Charles, that's enough!
+
+1316
+01:56:21,116 --> 01:56:22,242
+Erik, stop!
+
+1317
+01:56:32,669 --> 01:56:34,880
+Gentlemen, it's been an honor
+serving with you.
+
+1318
+01:56:35,172 --> 01:56:37,674
+<font color="#ffff00">Comrades, thank you for your service.</font>
+
+1319
+01:57:25,096 --> 01:57:26,389
+I'm so sorry.
+
+1320
+01:57:26,473 --> 01:57:28,475
+I said back off!
+
+1321
+01:57:29,976 --> 01:57:32,312
+You. You did this.
+
+1322
+01:57:36,316 --> 01:57:38,818
+Erik. Please.
+
+1323
+01:57:40,987 --> 01:57:43,990
+She didn't do this, Erik.
+
+1324
+01:57:44,074 --> 01:57:46,117
+You did.
+
+1325
+01:57:52,582 --> 01:57:56,253
+Us turning on each other,
+it's what they want.
+
+1326
+01:57:56,753 --> 01:57:59,589
+I tried to warn you, Charles.
+
+1327
+01:58:01,383 --> 01:58:03,843
+I want you by my side.
+
+1328
+01:58:03,927 --> 01:58:05,887
+We're brothers, you and I.
+
+1329
+01:58:06,179 --> 01:58:09,391
+All of us together, protecting each other.
+
+1330
+01:58:11,351 --> 01:58:13,687
+We want the same thing.
+
+1331
+01:58:14,229 --> 01:58:16,189
+My friend.
+
+1332
+01:58:16,648 --> 01:58:20,443
+I'm sorry, but we do not.
+
+1333
+01:58:36,209 --> 01:58:40,046
+Charles! I'm sorry. I'm so sorry.
+
+1334
+01:58:40,088 --> 01:58:42,632
+It's all right. It's all right.
+
+1335
+01:58:46,136 --> 01:58:48,471
+This society won't accept us.
+
+1336
+01:58:49,556 --> 01:58:51,057
+We form our own.
+
+1337
+01:58:51,516 --> 01:58:54,311
+The humans have played their hand.
+
+1338
+01:58:56,021 --> 01:58:58,565
+Now we get ready to play ours.
+
+1339
+01:59:01,026 --> 01:59:02,068
+Who's with me?
+
+1340
+01:59:13,747 --> 01:59:15,123
+No more hiding.
+
+1341
+01:59:43,109 --> 01:59:44,402
+You should go with him.
+
+1342
+01:59:45,070 --> 01:59:46,446
+It's what you want.
+
+1343
+01:59:46,946 --> 01:59:49,366
+You promised me you would
+never read my mind.
+
+1344
+01:59:49,783 --> 01:59:51,201
+I know.
+
+1345
+01:59:51,284 --> 01:59:53,536
+I promised you a great
+many things, I'm afraid.
+
+1346
+01:59:54,621 --> 01:59:55,747
+I'm sorry.
+
+1347
+02:00:01,086 --> 02:00:03,171
+Take care of him.
+
+1348
+02:00:17,977 --> 02:00:21,106
+And, Beast, never forget.
+
+1349
+02:00:21,815 --> 02:00:25,110
+Mutant and proud.
+
+1350
+02:00:33,493 --> 02:00:35,286
+Help me out, come on.
+
+1351
+02:00:35,787 --> 02:00:37,622
+I'm gonna get you to a hospital.
+
+1352
+02:00:37,997 --> 02:00:39,416
+Wait, Charles.
+
+1353
+02:00:39,499 --> 02:00:41,167
+Charles, don't move, okay?
+
+1354
+02:00:41,209 --> 02:00:43,044
+I won't.
+
+1355
+02:00:43,128 --> 02:00:45,004
+Actually...
+
+1356
+02:00:48,299 --> 02:00:50,343
+I can't feel my legs.
+
+1357
+02:00:51,344 --> 02:00:53,680
+- What?
+- I can't feel my legs.
+
+1358
+02:00:55,265 --> 02:00:57,308
+I can't feel my legs.
+
+1359
+02:01:08,945 --> 02:01:10,697
+<i>In this week of Thanksgiving</i>
+
+1360
+02:01:10,780 --> 02:01:12,782
+<i>there is much for which we can be grateful</i>
+
+1361
+02:01:12,866 --> 02:01:16,327
+<i>as we look back to where
+we stood only four weeks ago.</i>
+
+1362
+02:01:16,369 --> 02:01:19,831
+<i>The unity of this hemisphere,
+the support of our allies</i>
+
+1363
+02:01:19,873 --> 02:01:22,709
+<i>and the calm determination
+of the American people.</i>
+
+1364
+02:01:22,792 --> 02:01:26,629
+<i>These qualities may be tested
+many more times in this decade.</i>
+
+1365
+02:01:29,799 --> 02:01:32,552
+So, how many students do
+you think you'll have here
+
+1366
+02:01:32,594 --> 02:01:34,888
+once you get the academy up and running?
+
+1367
+02:01:34,971 --> 02:01:37,182
+As many as I can manage.
+
+1368
+02:01:37,223 --> 02:01:39,058
+Possibly more.
+
+1369
+02:01:41,686 --> 02:01:42,729
+You know,
+
+1370
+02:01:43,688 --> 02:01:45,523
+one day the government is going to realize
+
+1371
+02:01:45,565 --> 02:01:47,984
+how lucky they were to have
+Professor X on their side.
+
+1372
+02:01:49,777 --> 02:01:52,238
+I suppose I am
+a real professor now, aren't I?
+
+1373
+02:01:52,322 --> 02:01:53,656
+Next thing you know, I'll be going bald.
+
+1374
+02:01:55,575 --> 02:01:58,077
+We're still on the government's side, Moira.
+
+1375
+02:01:58,453 --> 02:02:00,705
+We're still G-men. Just without the "G".
+
+1376
+02:02:01,456 --> 02:02:04,918
+No. You're your own team now.
+
+1377
+02:02:05,084 --> 02:02:06,544
+It's better.
+
+1378
+02:02:07,295 --> 02:02:09,547
+You're X-Men.
+
+1379
+02:02:11,257 --> 02:02:13,259
+Yes, I like the sound of that.
+
+1380
+02:02:14,177 --> 02:02:15,470
+Moira?
+
+1381
+02:02:15,970 --> 02:02:19,849
+For us, anonymity will be
+the first line of defense.
+
+1382
+02:02:20,642 --> 02:02:22,101
+I know.
+
+1383
+02:02:23,228 --> 02:02:27,774
+They can threaten me
+all they want, Charles.
+
+1384
+02:02:27,815 --> 02:02:30,693
+I'll never tell them where you are.
+
+1385
+02:02:30,777 --> 02:02:32,612
+Ever.
+
+1386
+02:02:32,695 --> 02:02:34,656
+I know you won't.
+
+1387
+02:02:36,074 --> 02:02:37,450
+I know.
+
+1388
+02:02:44,958 --> 02:02:47,794
+I remember the attack on HQ,
+
+1389
+02:02:47,835 --> 02:02:50,171
+leaving to go somewhere else.
+
+1390
+02:02:50,255 --> 02:02:54,300
+And then this morning,
+I woke up at home.
+
+1391
+02:02:54,342 --> 02:02:56,511
+That's it.
+
+1392
+02:02:56,594 --> 02:03:00,098
+All that time, wiped clean from your mind.
+Just gone.
+
+1393
+02:03:00,723 --> 02:03:02,559
+He can do that?
+You don't remember anything?
+
+1394
+02:03:03,309 --> 02:03:05,603
+Sometimes I get fragments.
+
+1395
+02:03:05,770 --> 02:03:07,564
+Like
+
+1396
+02:03:07,647 --> 02:03:09,691
+trees,
+
+1397
+02:03:09,774 --> 02:03:11,192
+sunlight.
+
+1398
+02:03:13,069 --> 02:03:16,364
+- A kiss.
+- Oh, Jesus.
+
+1399
+02:03:16,447 --> 02:03:19,659
+Gentlemen, this is why the CIA
+is no place for a woman.
+
+1400
+02:03:24,580 --> 02:03:25,706
+What the hell was that?
+
+1401
+02:03:42,682 --> 02:03:45,393
+I know we've had our differences.
+
+1402
+02:03:47,728 --> 02:03:49,897
+Where's your telepath friend?
+
+1403
+02:03:50,565 --> 02:03:52,692
+Gone.
+
+1404
+02:03:52,733 --> 02:03:55,695
+Left a bit of a gap in my life,
+if I'm to be honest.
+
+1405
+02:03:55,736 --> 02:03:58,573
+I was rather hoping you would fill it.
+
+1406
+02:04:02,869 --> 02:04:04,078
+Join us.
+
+1407
+02:04:11,586 --> 02:04:12,920
+Erik, I believe.
+
+1408
+02:04:16,841 --> 02:04:18,509
+I prefer
+
+1409
+02:04:20,344 --> 02:04:21,971
+Magneto.
+
